@@ -1,0 +1,58 @@
+{
+  "environmental_earth": {
+    "n_l1": 48,
+    "mean_raw_jsd": 0.5271487917606041,
+    "mean_tfidf_jsd": 0.8295239222311036,
+    "mean_tfidf_topk_jaccard_dist": 0.9916785138353553,
+    "mean_discriminative_fraction": 0.0654373507142197
+  },
+  "chemistry": {
+    "n_l1": 30,
+    "mean_raw_jsd": 0.569432853831212,
+    "mean_tfidf_jsd": 0.8619223040832026,
+    "mean_tfidf_topk_jaccard_dist": 0.993158026108896,
+    "mean_discriminative_fraction": 0.147977511970629
+  },
+  "computer_science": {
+    "n_l1": 65,
+    "mean_raw_jsd": 0.5142104712029459,
+    "mean_tfidf_jsd": 0.8215918426552321,
+    "mean_tfidf_topk_jaccard_dist": 0.9907587105793003,
+    "mean_discriminative_fraction": 0.06504082981151979
+  },
+  "physics": {
+    "n_l1": 31,
+    "mean_raw_jsd": 0.5421270935466971,
+    "mean_tfidf_jsd": 0.8066249529470135,
+    "mean_tfidf_topk_jaccard_dist": 0.9801983242559528,
+    "mean_discriminative_fraction": 0.05667028350016842
+  },
+  "biology": {
+    "n_l1": 41,
+    "mean_raw_jsd": 0.5720108679182169,
+    "mean_tfidf_jsd": 0.8636967254762593,
+    "mean_tfidf_topk_jaccard_dist": 0.993711077058956,
+    "mean_discriminative_fraction": 0.10796932409324826
+  },
+  "materials_science": {
+    "n_l1": 4,
+    "mean_raw_jsd": 0.5217086007710231,
+    "mean_tfidf_jsd": 0.8392039370302734,
+    "mean_tfidf_topk_jaccard_dist": 0.988946395077586,
+    "mean_discriminative_fraction": 0.0571190146531986
+  },
+  "engineering": {
+    "n_l1": 16,
+    "mean_raw_jsd": 0.4990053942219165,
+    "mean_tfidf_jsd": 0.8149367425596836,
+    "mean_tfidf_topk_jaccard_dist": 0.9843470271033798,
+    "mean_discriminative_fraction": 0.05419170008118908
+  },
+  "biomedical": {
+    "n_l1": 168,
+    "mean_raw_jsd": 0.5817606656141794,
+    "mean_tfidf_jsd": 0.860636537349971,
+    "mean_tfidf_topk_jaccard_dist": 0.990004563889102,
+    "mean_discriminative_fraction": 0.2215465471998761
+  }
+}

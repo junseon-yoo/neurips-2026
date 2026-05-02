@@ -1,0 +1,1057 @@
+{
+  "global": {
+    "sample_size": 200000,
+    "L1": {
+      "baseline": 0.0018095607033877027,
+      "total_comm": 73477,
+      "max_comm_size": 53498,
+      "total_nodes_in_comm": 3578689,
+      "ks": {
+        "k1": {
+          "same_rate": 0.58068,
+          "same_pairs": 116136,
+          "total_pairs": 200000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 301.47,
+          "mean_unique": 1.0
+        },
+        "k5": {
+          "same_rate": 0.51675,
+          "same_pairs": 516755,
+          "total_pairs": 1000000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 268.28,
+          "mean_unique": 2.65
+        },
+        "k10": {
+          "same_rate": 0.48162,
+          "same_pairs": 963243,
+          "total_pairs": 2000000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 250.04,
+          "mean_unique": 4.36
+        },
+        "k25": {
+          "same_rate": 0.42945,
+          "same_pairs": 2147269,
+          "total_pairs": 5000000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 222.96,
+          "mean_unique": 8.94
+        },
+        "k50": {
+          "same_rate": 0.38618,
+          "same_pairs": 3861781,
+          "total_pairs": 10000000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 200.49,
+          "mean_unique": 15.79
+        },
+        "k100": {
+          "same_rate": 0.33987,
+          "same_pairs": 6797440,
+          "total_pairs": 20000000,
+          "expected_rate_under_random": 0.001926,
+          "enrichment": 176.45,
+          "mean_unique": 28.0
+        }
+      },
+      "valid_queries": 200000
+    },
+    "L2": {
+      "baseline": 3.3916900729799705e-05,
+      "total_comm": 328738,
+      "max_comm_size": 1712,
+      "total_nodes_in_comm": 3578689,
+      "ks": {
+        "k1": {
+          "same_rate": 0.29654,
+          "same_pairs": 59308,
+          "total_pairs": 200000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 8264.14,
+          "mean_unique": 1.0
+        },
+        "k5": {
+          "same_rate": 0.21013,
+          "same_pairs": 210132,
+          "total_pairs": 1000000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 5856.07,
+          "mean_unique": 4.01
+        },
+        "k10": {
+          "same_rate": 0.16988,
+          "same_pairs": 339767,
+          "total_pairs": 2000000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 4734.41,
+          "mean_unique": 7.61
+        },
+        "k25": {
+          "same_rate": 0.11955,
+          "same_pairs": 597774,
+          "total_pairs": 5000000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 3331.82,
+          "mean_unique": 18.12
+        },
+        "k50": {
+          "same_rate": 0.08601,
+          "same_pairs": 860129,
+          "total_pairs": 10000000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 2397.05,
+          "mean_unique": 35.16
+        },
+        "k100": {
+          "same_rate": 0.05821,
+          "same_pairs": 1164223,
+          "total_pairs": 20000000,
+          "expected_rate_under_random": 3.6e-05,
+          "enrichment": 1622.26,
+          "mean_unique": 68.15
+        }
+      },
+      "valid_queries": 200000
+    }
+  },
+  "per_domain": {
+    "biology": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.45968,
+            "same_pairs": 11492,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 473.61,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.37935,
+            "same_pairs": 47419,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 390.84,
+            "mean_unique": 3.24
+          },
+          "k10": {
+            "same_rate": 0.33662,
+            "same_pairs": 84156,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 346.82,
+            "mean_unique": 5.7
+          },
+          "k25": {
+            "same_rate": 0.2756,
+            "same_pairs": 172249,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 283.95,
+            "mean_unique": 12.41
+          },
+          "k50": {
+            "same_rate": 0.2293,
+            "same_pairs": 286624,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 236.25,
+            "mean_unique": 22.41
+          },
+          "k100": {
+            "same_rate": 0.18405,
+            "same_pairs": 460120,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.000971,
+            "enrichment": 189.62,
+            "mean_unique": 40.05
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.19776,
+            "same_pairs": 4944,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 9572.01,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.11571,
+            "same_pairs": 14464,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 5600.71,
+            "mean_unique": 4.48
+          },
+          "k10": {
+            "same_rate": 0.08308,
+            "same_pairs": 20771,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 4021.44,
+            "mean_unique": 8.77
+          },
+          "k25": {
+            "same_rate": 0.04856,
+            "same_pairs": 30348,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 2350.25,
+            "mean_unique": 21.47
+          },
+          "k50": {
+            "same_rate": 0.03001,
+            "same_pairs": 37509,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 1452.41,
+            "mean_unique": 42.23
+          },
+          "k100": {
+            "same_rate": 0.01771,
+            "same_pairs": 44277,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 2.1e-05,
+            "enrichment": 857.24,
+            "mean_unique": 82.74
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "biomedical": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.3184,
+            "same_pairs": 7960,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 792.93,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.23246,
+            "same_pairs": 29058,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 578.92,
+            "mean_unique": 3.9
+          },
+          "k10": {
+            "same_rate": 0.19383,
+            "same_pairs": 48458,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 482.71,
+            "mean_unique": 7.24
+          },
+          "k25": {
+            "same_rate": 0.1462,
+            "same_pairs": 91373,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 364.08,
+            "mean_unique": 16.69
+          },
+          "k50": {
+            "same_rate": 0.11344,
+            "same_pairs": 141806,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 282.52,
+            "mean_unique": 31.38
+          },
+          "k100": {
+            "same_rate": 0.0837,
+            "same_pairs": 209254,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.000402,
+            "enrichment": 208.45,
+            "mean_unique": 58.41
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.14084,
+            "same_pairs": 3521,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 10964.31,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.06977,
+            "same_pairs": 8721,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 5431.4,
+            "mean_unique": 4.69
+          },
+          "k10": {
+            "same_rate": 0.04686,
+            "same_pairs": 11714,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 3647.71,
+            "mean_unique": 9.25
+          },
+          "k25": {
+            "same_rate": 0.02561,
+            "same_pairs": 16007,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 1993.82,
+            "mean_unique": 22.78
+          },
+          "k50": {
+            "same_rate": 0.01572,
+            "same_pairs": 19655,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 1224.1,
+            "mean_unique": 45.06
+          },
+          "k100": {
+            "same_rate": 0.00923,
+            "same_pairs": 23078,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 1.3e-05,
+            "enrichment": 718.64,
+            "mean_unique": 88.95
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "chemistry": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.4342,
+            "same_pairs": 10855,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 286.83,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.3619,
+            "same_pairs": 45237,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 239.07,
+            "mean_unique": 3.31
+          },
+          "k10": {
+            "same_rate": 0.32515,
+            "same_pairs": 81287,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 214.79,
+            "mean_unique": 5.86
+          },
+          "k25": {
+            "same_rate": 0.2737,
+            "same_pairs": 171061,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 180.8,
+            "mean_unique": 12.89
+          },
+          "k50": {
+            "same_rate": 0.23224,
+            "same_pairs": 290304,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 153.42,
+            "mean_unique": 23.54
+          },
+          "k100": {
+            "same_rate": 0.19091,
+            "same_pairs": 477279,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.001514,
+            "enrichment": 126.12,
+            "mean_unique": 42.54
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.1464,
+            "same_pairs": 3660,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 5222.86,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.08727,
+            "same_pairs": 10909,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 3113.45,
+            "mean_unique": 4.6
+          },
+          "k10": {
+            "same_rate": 0.06403,
+            "same_pairs": 16007,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 2284.22,
+            "mean_unique": 9.01
+          },
+          "k25": {
+            "same_rate": 0.03921,
+            "same_pairs": 24507,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 1398.87,
+            "mean_unique": 22.07
+          },
+          "k50": {
+            "same_rate": 0.02521,
+            "same_pairs": 31518,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 899.53,
+            "mean_unique": 43.47
+          },
+          "k100": {
+            "same_rate": 0.0154,
+            "same_pairs": 38506,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 2.8e-05,
+            "enrichment": 549.49,
+            "mean_unique": 85.38
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "computer_science": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.56008,
+            "same_pairs": 14002,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 295.89,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.49339,
+            "same_pairs": 61674,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 260.66,
+            "mean_unique": 2.68
+          },
+          "k10": {
+            "same_rate": 0.45562,
+            "same_pairs": 113906,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 240.71,
+            "mean_unique": 4.39
+          },
+          "k25": {
+            "same_rate": 0.3974,
+            "same_pairs": 248378,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 209.95,
+            "mean_unique": 8.99
+          },
+          "k50": {
+            "same_rate": 0.34818,
+            "same_pairs": 435221,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 183.94,
+            "mean_unique": 15.76
+          },
+          "k100": {
+            "same_rate": 0.29574,
+            "same_pairs": 739354,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.001893,
+            "enrichment": 156.24,
+            "mean_unique": 27.66
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.27308,
+            "same_pairs": 6827,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 7189.61,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.1925,
+            "same_pairs": 24062,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 5068.01,
+            "mean_unique": 4.05
+          },
+          "k10": {
+            "same_rate": 0.15198,
+            "same_pairs": 37996,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 4001.41,
+            "mean_unique": 7.73
+          },
+          "k25": {
+            "same_rate": 0.09977,
+            "same_pairs": 62355,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 2626.68,
+            "mean_unique": 18.64
+          },
+          "k50": {
+            "same_rate": 0.06655,
+            "same_pairs": 83188,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 1752.13,
+            "mean_unique": 36.44
+          },
+          "k100": {
+            "same_rate": 0.04098,
+            "same_pairs": 102452,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 3.8e-05,
+            "enrichment": 1078.94,
+            "mean_unique": 71.17
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "engineering": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.51628,
+            "same_pairs": 12907,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 381.56,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.43677,
+            "same_pairs": 54596,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 322.8,
+            "mean_unique": 2.96
+          },
+          "k10": {
+            "same_rate": 0.39055,
+            "same_pairs": 97637,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 288.64,
+            "mean_unique": 5.06
+          },
+          "k25": {
+            "same_rate": 0.32145,
+            "same_pairs": 200907,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 237.57,
+            "mean_unique": 10.83
+          },
+          "k50": {
+            "same_rate": 0.2653,
+            "same_pairs": 331627,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 196.07,
+            "mean_unique": 19.57
+          },
+          "k100": {
+            "same_rate": 0.21047,
+            "same_pairs": 526165,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.001353,
+            "enrichment": 155.55,
+            "mean_unique": 35.25
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.20156,
+            "same_pairs": 5039,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 7388.84,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.12099,
+            "same_pairs": 15124,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 4435.36,
+            "mean_unique": 4.42
+          },
+          "k10": {
+            "same_rate": 0.08657,
+            "same_pairs": 21643,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 3173.58,
+            "mean_unique": 8.61
+          },
+          "k25": {
+            "same_rate": 0.04918,
+            "same_pairs": 30738,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 1802.88,
+            "mean_unique": 21.03
+          },
+          "k50": {
+            "same_rate": 0.02952,
+            "same_pairs": 36896,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 1082.03,
+            "mean_unique": 41.35
+          },
+          "k100": {
+            "same_rate": 0.01683,
+            "same_pairs": 42087,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 2.7e-05,
+            "enrichment": 617.13,
+            "mean_unique": 81.04
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "environmental_earth": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.57856,
+            "same_pairs": 14464,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 234.62,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.51169,
+            "same_pairs": 63961,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 207.5,
+            "mean_unique": 2.62
+          },
+          "k10": {
+            "same_rate": 0.47442,
+            "same_pairs": 118606,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 192.39,
+            "mean_unique": 4.22
+          },
+          "k25": {
+            "same_rate": 0.41716,
+            "same_pairs": 260726,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 169.17,
+            "mean_unique": 8.29
+          },
+          "k50": {
+            "same_rate": 0.36887,
+            "same_pairs": 461091,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 149.58,
+            "mean_unique": 14.05
+          },
+          "k100": {
+            "same_rate": 0.31789,
+            "same_pairs": 794727,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.002466,
+            "enrichment": 128.91,
+            "mean_unique": 23.81
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.24664,
+            "same_pairs": 6166,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 6336.73,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.16446,
+            "same_pairs": 20558,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 4225.45,
+            "mean_unique": 4.22
+          },
+          "k10": {
+            "same_rate": 0.12664,
+            "same_pairs": 31661,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 3253.77,
+            "mean_unique": 8.08
+          },
+          "k25": {
+            "same_rate": 0.08176,
+            "same_pairs": 51098,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 2100.52,
+            "mean_unique": 19.34
+          },
+          "k50": {
+            "same_rate": 0.05468,
+            "same_pairs": 68351,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 1404.87,
+            "mean_unique": 37.51
+          },
+          "k100": {
+            "same_rate": 0.03436,
+            "same_pairs": 85889,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 882.67,
+            "mean_unique": 72.47
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "materials_science": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.52896,
+            "same_pairs": 13224,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 305.89,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.45993,
+            "same_pairs": 57491,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 265.97,
+            "mean_unique": 2.87
+          },
+          "k10": {
+            "same_rate": 0.41913,
+            "same_pairs": 104783,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 242.38,
+            "mean_unique": 4.81
+          },
+          "k25": {
+            "same_rate": 0.35689,
+            "same_pairs": 223054,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 206.38,
+            "mean_unique": 9.93
+          },
+          "k50": {
+            "same_rate": 0.3048,
+            "same_pairs": 381002,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 176.26,
+            "mean_unique": 17.41
+          },
+          "k100": {
+            "same_rate": 0.24924,
+            "same_pairs": 623096,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.001729,
+            "enrichment": 144.13,
+            "mean_unique": 30.27
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.20144,
+            "same_pairs": 5036,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 5191.72,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.13289,
+            "same_pairs": 16611,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 3424.92,
+            "mean_unique": 4.37
+          },
+          "k10": {
+            "same_rate": 0.10086,
+            "same_pairs": 25216,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 2599.57,
+            "mean_unique": 8.46
+          },
+          "k25": {
+            "same_rate": 0.06356,
+            "same_pairs": 39723,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 1638.05,
+            "mean_unique": 20.48
+          },
+          "k50": {
+            "same_rate": 0.04181,
+            "same_pairs": 52264,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 1077.6,
+            "mean_unique": 40.06
+          },
+          "k100": {
+            "same_rate": 0.02578,
+            "same_pairs": 64446,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 3.9e-05,
+            "enrichment": 664.39,
+            "mean_unique": 78.23
+          }
+        },
+        "valid_queries": 25000
+      }
+    },
+    "physics": {
+      "sample_size": 25000,
+      "L1": {
+        "baseline": 0.0018095607033877027,
+        "total_comm": 73477,
+        "max_comm_size": 53498,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.641,
+            "same_pairs": 16025,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 153.87,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.57218,
+            "same_pairs": 71523,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 137.35,
+            "mean_unique": 2.47
+          },
+          "k10": {
+            "same_rate": 0.53495,
+            "same_pairs": 133738,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 128.41,
+            "mean_unique": 3.97
+          },
+          "k25": {
+            "same_rate": 0.47886,
+            "same_pairs": 299289,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 114.95,
+            "mean_unique": 7.97
+          },
+          "k50": {
+            "same_rate": 0.43332,
+            "same_pairs": 541649,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 104.02,
+            "mean_unique": 13.83
+          },
+          "k100": {
+            "same_rate": 0.38549,
+            "same_pairs": 963724,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 0.004166,
+            "enrichment": 92.54,
+            "mean_unique": 23.92
+          }
+        },
+        "valid_queries": 25000
+      },
+      "L2": {
+        "baseline": 3.3916900729799705e-05,
+        "total_comm": 328738,
+        "max_comm_size": 1712,
+        "total_nodes_in_comm": 3578689,
+        "ks": {
+          "k1": {
+            "same_rate": 0.30828,
+            "same_pairs": 7707,
+            "total_pairs": 25000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 4381.92,
+            "mean_unique": 1.0
+          },
+          "k5": {
+            "same_rate": 0.21381,
+            "same_pairs": 26726,
+            "total_pairs": 125000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 3039.09,
+            "mean_unique": 4.02
+          },
+          "k10": {
+            "same_rate": 0.16832,
+            "same_pairs": 42081,
+            "total_pairs": 250000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 2392.58,
+            "mean_unique": 7.62
+          },
+          "k25": {
+            "same_rate": 0.11381,
+            "same_pairs": 71132,
+            "total_pairs": 625000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 1617.72,
+            "mean_unique": 18.03
+          },
+          "k50": {
+            "same_rate": 0.07956,
+            "same_pairs": 99448,
+            "total_pairs": 1250000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 1130.85,
+            "mean_unique": 34.67
+          },
+          "k100": {
+            "same_rate": 0.05282,
+            "same_pairs": 132039,
+            "total_pairs": 2500000,
+            "expected_rate_under_random": 7e-05,
+            "enrichment": 750.73,
+            "mean_unique": 66.14
+          }
+        },
+        "valid_queries": 25000
+      }
+    }
+  }
+}

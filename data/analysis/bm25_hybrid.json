@@ -1,0 +1,3212 @@
+{
+  "bm25_only": [
+    {
+      "cat": "biology",
+      "no": 3,
+      "top1_l1": 0.5,
+      "top1_l2": 0.25,
+      "unique_l1": 4,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biology",
+      "no": 2,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 4,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 5,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 4,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 1,
+      "top1_l1": 0.6,
+      "top1_l2": 0.5,
+      "unique_l1": 5,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 24,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 14,
+      "top1_l1": 0.2,
+      "top1_l2": 0.1,
+      "unique_l1": 8,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biology",
+      "no": 20,
+      "top1_l1": 0.8888888888888888,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 17,
+      "top1_l1": 0.1111111111111111,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 9,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biology",
+      "no": 10,
+      "top1_l1": 0.2222222222222222,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 2,
+      "top1_l1": 0.375,
+      "top1_l2": 0.125,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 18,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6666666666666666,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biomedical",
+      "no": 13,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 20,
+      "top1_l1": 0.2,
+      "top1_l2": 0.2,
+      "unique_l1": 8,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biomedical",
+      "no": 14,
+      "top1_l1": 0.3,
+      "top1_l2": 0.1,
+      "unique_l1": 6,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biomedical",
+      "no": 5,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 23,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 4,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 17,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "chemistry",
+      "no": 16,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "chemistry",
+      "no": 2,
+      "top1_l1": 0.8,
+      "top1_l2": 0.5,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "chemistry",
+      "no": 7,
+      "top1_l1": 0.6,
+      "top1_l2": 0.4,
+      "unique_l1": 5,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 20,
+      "top1_l1": 0.1,
+      "top1_l2": 0.1,
+      "unique_l1": 10,
+      "unique_l2": 10
+    },
+    {
+      "cat": "chemistry",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7777777777777778,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 11,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "chemistry",
+      "no": 10,
+      "top1_l1": 0.5,
+      "top1_l2": 0.3,
+      "unique_l1": 4,
+      "unique_l2": 7
+    },
+    {
+      "cat": "cs",
+      "no": 16,
+      "top1_l1": 0.5,
+      "top1_l2": 0.375,
+      "unique_l1": 4,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 13,
+      "top1_l1": 0.42857142857142855,
+      "top1_l2": 0.42857142857142855,
+      "unique_l1": 5,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 15,
+      "top1_l1": 0.7,
+      "top1_l2": 0.3,
+      "unique_l1": 4,
+      "unique_l2": 8
+    },
+    {
+      "cat": "cs",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7142857142857143,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "cs",
+      "no": 21,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "cs",
+      "no": 17,
+      "top1_l1": 0.16666666666666666,
+      "top1_l2": 0.16666666666666666,
+      "unique_l1": 6,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 14,
+      "top1_l1": 0.6666666666666666,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 22,
+      "top1_l1": 0.8333333333333334,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 5,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "cs",
+      "no": 19,
+      "top1_l1": 1.0,
+      "top1_l2": 0.2857142857142857,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 16,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 4,
+      "unique_l2": 4
+    },
+    {
+      "cat": "engineering",
+      "no": 1,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.5555555555555556,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 4,
+      "top1_l1": 0.6666666666666666,
+      "top1_l2": 0.4444444444444444,
+      "unique_l1": 4,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 6,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 9,
+      "top1_l1": 0.7,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 9
+    },
+    {
+      "cat": "engineering",
+      "no": 8,
+      "top1_l1": 0.9,
+      "top1_l2": 0.1,
+      "unique_l1": 2,
+      "unique_l2": 10
+    },
+    {
+      "cat": "engineering",
+      "no": 15,
+      "top1_l1": 0.8,
+      "top1_l2": 0.1,
+      "unique_l1": 3,
+      "unique_l2": 10
+    },
+    {
+      "cat": "engineering",
+      "no": 2,
+      "top1_l1": 0.8,
+      "top1_l2": 0.5,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "environmental_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "environmental_science",
+      "no": 7,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 13,
+      "top1_l1": 0.6,
+      "top1_l2": 0.1,
+      "unique_l1": 5,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 19,
+      "top1_l1": 0.5,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 8
+    },
+    {
+      "cat": "environmental_science",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 22,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "environmental_science",
+      "no": 17,
+      "top1_l1": 0.2,
+      "top1_l2": 0.1,
+      "unique_l1": 8,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "environmental_science",
+      "no": 8,
+      "top1_l1": 0.2,
+      "top1_l2": 0.1,
+      "unique_l1": 9,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 25,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 3,
+      "top1_l1": 0.4,
+      "top1_l2": 0.3,
+      "unique_l1": 7,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.3,
+      "unique_l1": 1,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 2,
+      "top1_l1": 0.6,
+      "top1_l2": 0.3,
+      "unique_l1": 4,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 10,
+      "top1_l1": 0.9,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 6,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 22,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 18,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.2,
+      "unique_l1": 1,
+      "unique_l2": 9
+    },
+    {
+      "cat": "materials_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "physics",
+      "no": 19,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 23,
+      "top1_l1": 0.7,
+      "top1_l2": 0.1,
+      "unique_l1": 4,
+      "unique_l2": 10
+    },
+    {
+      "cat": "physics",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 6,
+      "top1_l1": 0.9,
+      "top1_l2": 0.7,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 22,
+      "top1_l1": 0.4,
+      "top1_l2": 0.4,
+      "unique_l1": 4,
+      "unique_l2": 5
+    },
+    {
+      "cat": "physics",
+      "no": 21,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 8,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "physics",
+      "no": 20,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    }
+  ],
+  "bm25_cite_rerank": [
+    {
+      "cat": "biology",
+      "no": 3,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 2,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 4,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biology",
+      "no": 5,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 1,
+      "top1_l1": 0.6,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biology",
+      "no": 24,
+      "top1_l1": 0.9,
+      "top1_l2": 0.7,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biology",
+      "no": 14,
+      "top1_l1": 0.6,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biology",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biology",
+      "no": 17,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 10,
+      "top1_l1": 0.4,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biomedical",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biomedical",
+      "no": 18,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biomedical",
+      "no": 13,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biomedical",
+      "no": 20,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "biomedical",
+      "no": 14,
+      "top1_l1": 0.7,
+      "top1_l2": 0.4,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biomedical",
+      "no": 5,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 23,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 4,
+      "top1_l1": 0.8,
+      "top1_l2": 0.4,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "chemistry",
+      "no": 16,
+      "top1_l1": 0.2,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 14,
+      "top1_l1": 1.0,
+      "top1_l2": 0.3,
+      "unique_l1": 1,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 7,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 20,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "chemistry",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 11,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 10,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "cs",
+      "no": 16,
+      "top1_l1": 0.7,
+      "top1_l2": 0.4,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.3,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "cs",
+      "no": 21,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 17,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 14,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 22,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 5,
+      "top1_l1": 0.4,
+      "top1_l2": 0.4,
+      "unique_l1": 4,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 19,
+      "top1_l1": 0.4,
+      "top1_l2": 0.4,
+      "unique_l1": 5,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 14,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 16,
+      "top1_l1": 0.6,
+      "top1_l2": 0.6,
+      "unique_l1": 4,
+      "unique_l2": 4
+    },
+    {
+      "cat": "engineering",
+      "no": 1,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 4,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "engineering",
+      "no": 9,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 9
+    },
+    {
+      "cat": "engineering",
+      "no": 8,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "engineering",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 2,
+      "top1_l1": 0.5,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 7,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.1,
+      "unique_l1": 2,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 19,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "environmental_science",
+      "no": 17,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 8,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "environmental_science",
+      "no": 25,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 3,
+      "top1_l1": 0.4,
+      "top1_l2": 0.4,
+      "unique_l1": 5,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 2,
+      "top1_l1": 0.5,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 18,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 13,
+      "top1_l1": 0.8,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "physics",
+      "no": 19,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "physics",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 6,
+      "top1_l1": 0.8,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 22,
+      "top1_l1": 0.6,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "physics",
+      "no": 21,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 2,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 8,
+      "top1_l1": 0.7,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    }
+  ],
+  "rrf_bm25_cite": [
+    {
+      "cat": "biology",
+      "no": 3,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 2,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biology",
+      "no": 4,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biology",
+      "no": 5,
+      "top1_l1": 0.7,
+      "top1_l2": 0.5,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 1,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 24,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.4444444444444444,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 14,
+      "top1_l1": 0.5,
+      "top1_l2": 0.5,
+      "unique_l1": 5,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 17,
+      "top1_l1": 0.3,
+      "top1_l2": 0.3,
+      "unique_l1": 6,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biology",
+      "no": 10,
+      "top1_l1": 0.4,
+      "top1_l2": 0.4,
+      "unique_l1": 4,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biomedical",
+      "no": 2,
+      "top1_l1": 0.3333333333333333,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 18,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biomedical",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biomedical",
+      "no": 13,
+      "top1_l1": 0.7,
+      "top1_l2": 0.1,
+      "unique_l1": 2,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biomedical",
+      "no": 20,
+      "top1_l1": 0.2,
+      "top1_l2": 0.1,
+      "unique_l1": 8,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biomedical",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biomedical",
+      "no": 14,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biomedical",
+      "no": 5,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 23,
+      "top1_l1": 0.9,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 4,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 17,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "chemistry",
+      "no": 16,
+      "top1_l1": 0.5,
+      "top1_l2": 0.3,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "chemistry",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "chemistry",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "chemistry",
+      "no": 7,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 20,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 11,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 10,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "cs",
+      "no": 16,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 13,
+      "top1_l1": 0.6,
+      "top1_l2": 0.5,
+      "unique_l1": 5,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 15,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 21,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 17,
+      "top1_l1": 0.7,
+      "top1_l2": 0.3,
+      "unique_l1": 4,
+      "unique_l2": 7
+    },
+    {
+      "cat": "cs",
+      "no": 14,
+      "top1_l1": 0.7,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "cs",
+      "no": 22,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.4444444444444444,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 5,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "cs",
+      "no": 19,
+      "top1_l1": 0.5,
+      "top1_l2": 0.3,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "engineering",
+      "no": 14,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 16,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 1,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 4,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "engineering",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 9,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "engineering",
+      "no": 8,
+      "top1_l1": 1.0,
+      "top1_l2": 0.3,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 15,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "engineering",
+      "no": 2,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 10,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "environmental_science",
+      "no": 7,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 13,
+      "top1_l1": 0.6,
+      "top1_l2": 0.1,
+      "unique_l1": 4,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 19,
+      "top1_l1": 0.9,
+      "top1_l2": 0.8,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "environmental_science",
+      "no": 17,
+      "top1_l1": 0.4,
+      "top1_l2": 0.3,
+      "unique_l1": 5,
+      "unique_l2": 7
+    },
+    {
+      "cat": "environmental_science",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 8,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "environmental_science",
+      "no": 25,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 3,
+      "top1_l1": 0.6,
+      "top1_l2": 0.4,
+      "unique_l1": 5,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 2,
+      "top1_l1": 0.5,
+      "top1_l2": 0.4,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 18,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.6,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "physics",
+      "no": 19,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.2,
+      "unique_l1": 1,
+      "unique_l2": 8
+    },
+    {
+      "cat": "physics",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 22,
+      "top1_l1": 0.6,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "physics",
+      "no": 21,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 8,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "physics",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    }
+  ],
+  "rrf_bm25_emb": [
+    {
+      "cat": "biology",
+      "no": 3,
+      "top1_l1": 0.6,
+      "top1_l2": 0.1,
+      "unique_l1": 5,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biology",
+      "no": 2,
+      "top1_l1": 0.3333333333333333,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 4,
+      "top1_l1": 0.8888888888888888,
+      "top1_l2": 0.7777777777777778,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biology",
+      "no": 5,
+      "top1_l1": 0.7,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 1,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "biology",
+      "no": 24,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 14,
+      "top1_l1": 0.4444444444444444,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biology",
+      "no": 20,
+      "top1_l1": 0.875,
+      "top1_l2": 0.25,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 17,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 5,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biology",
+      "no": 10,
+      "top1_l1": 0.2222222222222222,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 8,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 2,
+      "top1_l1": 0.2222222222222222,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 0.1,
+      "unique_l1": 1,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biomedical",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7777777777777778,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biomedical",
+      "no": 13,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 20,
+      "top1_l1": 0.2,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "biomedical",
+      "no": 14,
+      "top1_l1": 0.5,
+      "top1_l2": 0.2,
+      "unique_l1": 4,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 5,
+      "top1_l1": 0.3333333333333333,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 23,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 4,
+      "top1_l1": 0.6666666666666666,
+      "top1_l2": 0.4444444444444444,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "chemistry",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "chemistry",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 16,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 14,
+      "top1_l1": 1.0,
+      "top1_l2": 0.3,
+      "unique_l1": 1,
+      "unique_l2": 8
+    },
+    {
+      "cat": "chemistry",
+      "no": 2,
+      "top1_l1": 0.9,
+      "top1_l2": 0.7,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "chemistry",
+      "no": 7,
+      "top1_l1": 0.9,
+      "top1_l2": 0.8,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 20,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 11,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 4,
+      "unique_l2": 4
+    },
+    {
+      "cat": "chemistry",
+      "no": 10,
+      "top1_l1": 0.8888888888888888,
+      "top1_l2": 0.5555555555555556,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "cs",
+      "no": 16,
+      "top1_l1": 0.8571428571428571,
+      "top1_l2": 0.2857142857142857,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 13,
+      "top1_l1": 0.8333333333333334,
+      "top1_l2": 0.6666666666666666,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "cs",
+      "no": 15,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.4444444444444444,
+      "unique_l1": 5,
+      "unique_l2": 6
+    },
+    {
+      "cat": "cs",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.75,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "cs",
+      "no": 21,
+      "top1_l1": 0.8571428571428571,
+      "top1_l2": 0.42857142857142855,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 17,
+      "top1_l1": 0.8333333333333334,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "cs",
+      "no": 14,
+      "top1_l1": 0.6666666666666666,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 22,
+      "top1_l1": 0.8333333333333334,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 5,
+      "top1_l1": 0,
+      "top1_l2": 0,
+      "unique_l1": 0,
+      "unique_l2": 0
+    },
+    {
+      "cat": "cs",
+      "no": 19,
+      "top1_l1": 0.6666666666666666,
+      "top1_l2": 0.16666666666666666,
+      "unique_l1": 3,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 16,
+      "top1_l1": 0.9,
+      "top1_l2": 0.8,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 1,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "engineering",
+      "no": 4,
+      "top1_l1": 0.7,
+      "top1_l2": 0.5,
+      "unique_l1": 4,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 6,
+      "top1_l1": 0.9,
+      "top1_l2": 0.7,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "engineering",
+      "no": 17,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 9,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.3333333333333333,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "engineering",
+      "no": 8,
+      "top1_l1": 0.8571428571428571,
+      "top1_l2": 0.14285714285714285,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "engineering",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 9
+    },
+    {
+      "cat": "engineering",
+      "no": 2,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "environmental_science",
+      "no": 10,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "environmental_science",
+      "no": 7,
+      "top1_l1": 0.8888888888888888,
+      "top1_l2": 0.7777777777777778,
+      "unique_l1": 2,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "environmental_science",
+      "no": 19,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 22,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 5,
+      "unique_l2": 8
+    },
+    {
+      "cat": "environmental_science",
+      "no": 17,
+      "top1_l1": 0.5,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "environmental_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 8,
+      "top1_l1": 0.3,
+      "top1_l2": 0.1,
+      "unique_l1": 8,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 25,
+      "top1_l1": 0.4,
+      "top1_l2": 0.1,
+      "unique_l1": 7,
+      "unique_l2": 10
+    },
+    {
+      "cat": "materials_science",
+      "no": 3,
+      "top1_l1": 0.6,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 9
+    },
+    {
+      "cat": "materials_science",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 2,
+      "top1_l1": 0.6,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 22,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "materials_science",
+      "no": 18,
+      "top1_l1": 0.8,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.2,
+      "unique_l1": 1,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 13,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "physics",
+      "no": 19,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 23,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "physics",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 22,
+      "top1_l1": 0.5555555555555556,
+      "top1_l2": 0.5555555555555556,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 21,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 8,
+      "top1_l1": 0.6,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "physics",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    }
+  ],
+  "rrf_3way": [
+    {
+      "cat": "biology",
+      "no": 3,
+      "top1_l1": 0.8,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biology",
+      "no": 2,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biology",
+      "no": 4,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 5,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "biology",
+      "no": 1,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "biology",
+      "no": 24,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biology",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "biology",
+      "no": 20,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biology",
+      "no": 17,
+      "top1_l1": 0.5,
+      "top1_l2": 0.4,
+      "unique_l1": 5,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biology",
+      "no": 10,
+      "top1_l1": 0.4,
+      "top1_l2": 0.2,
+      "unique_l1": 7,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 2,
+      "top1_l1": 0.3333333333333333,
+      "top1_l2": 0.1111111111111111,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 18,
+      "top1_l1": 0.9,
+      "top1_l2": 0.2,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "biomedical",
+      "no": 13,
+      "top1_l1": 0.5,
+      "top1_l2": 0.1,
+      "unique_l1": 4,
+      "unique_l2": 10
+    },
+    {
+      "cat": "biomedical",
+      "no": 20,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "biomedical",
+      "no": 14,
+      "top1_l1": 0.7,
+      "top1_l2": 0.2,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "biomedical",
+      "no": 5,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 6,
+      "unique_l2": 9
+    },
+    {
+      "cat": "biomedical",
+      "no": 23,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "biomedical",
+      "no": 4,
+      "top1_l1": 0.7,
+      "top1_l2": 0.6,
+      "unique_l1": 3,
+      "unique_l2": 5
+    },
+    {
+      "cat": "chemistry",
+      "no": 15,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "chemistry",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 16,
+      "top1_l1": 0.3,
+      "top1_l2": 0.2,
+      "unique_l1": 5,
+      "unique_l2": 9
+    },
+    {
+      "cat": "chemistry",
+      "no": 14,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 8
+    },
+    {
+      "cat": "chemistry",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 7,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "chemistry",
+      "no": 20,
+      "top1_l1": 0.4,
+      "top1_l2": 0.3,
+      "unique_l1": 6,
+      "unique_l2": 7
+    },
+    {
+      "cat": "chemistry",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "chemistry",
+      "no": 11,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "chemistry",
+      "no": 10,
+      "top1_l1": 0.8888888888888888,
+      "top1_l2": 0.5555555555555556,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 16,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 13,
+      "top1_l1": 0.7,
+      "top1_l2": 0.7,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "cs",
+      "no": 15,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.6666666666666666,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 23,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "cs",
+      "no": 21,
+      "top1_l1": 0.875,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 17,
+      "top1_l1": 0.875,
+      "top1_l2": 0.375,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "cs",
+      "no": 14,
+      "top1_l1": 0.7142857142857143,
+      "top1_l2": 0.14285714285714285,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "cs",
+      "no": 22,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5714285714285714,
+      "unique_l1": 1,
+      "unique_l2": 4
+    },
+    {
+      "cat": "cs",
+      "no": 5,
+      "top1_l1": 0,
+      "top1_l2": 0,
+      "unique_l1": 0,
+      "unique_l2": 0
+    },
+    {
+      "cat": "cs",
+      "no": 19,
+      "top1_l1": 0.875,
+      "top1_l2": 0.375,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 14,
+      "top1_l1": 1.0,
+      "top1_l2": 0.5,
+      "unique_l1": 1,
+      "unique_l2": 5
+    },
+    {
+      "cat": "engineering",
+      "no": 16,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 1,
+      "top1_l1": 0.8,
+      "top1_l2": 0.4,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "engineering",
+      "no": 4,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "engineering",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 17,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "engineering",
+      "no": 9,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "engineering",
+      "no": 8,
+      "top1_l1": 0.7777777777777778,
+      "top1_l2": 0.2222222222222222,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "engineering",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "engineering",
+      "no": 2,
+      "top1_l1": 0.9,
+      "top1_l2": 0.7,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "environmental_science",
+      "no": 10,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "environmental_science",
+      "no": 7,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "environmental_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "environmental_science",
+      "no": 19,
+      "top1_l1": 0.8,
+      "top1_l2": 0.8,
+      "unique_l1": 3,
+      "unique_l2": 3
+    },
+    {
+      "cat": "environmental_science",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 22,
+      "top1_l1": 0.9,
+      "top1_l2": 0.3,
+      "unique_l1": 2,
+      "unique_l2": 7
+    },
+    {
+      "cat": "environmental_science",
+      "no": 17,
+      "top1_l1": 0.7,
+      "top1_l2": 0.6,
+      "unique_l1": 4,
+      "unique_l2": 5
+    },
+    {
+      "cat": "environmental_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "environmental_science",
+      "no": 8,
+      "top1_l1": 0.2,
+      "top1_l2": 0.1,
+      "unique_l1": 8,
+      "unique_l2": 10
+    },
+    {
+      "cat": "environmental_science",
+      "no": 25,
+      "top1_l1": 0.8,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 7
+    },
+    {
+      "cat": "materials_science",
+      "no": 3,
+      "top1_l1": 0.5,
+      "top1_l2": 0.3,
+      "unique_l1": 3,
+      "unique_l2": 8
+    },
+    {
+      "cat": "materials_science",
+      "no": 9,
+      "top1_l1": 1.0,
+      "top1_l2": 0.7,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 2,
+      "top1_l1": 0.5,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 15,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "materials_science",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.8,
+      "unique_l1": 1,
+      "unique_l2": 3
+    },
+    {
+      "cat": "materials_science",
+      "no": 22,
+      "top1_l1": 0.9,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 18,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "materials_science",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 0.4,
+      "unique_l1": 1,
+      "unique_l2": 6
+    },
+    {
+      "cat": "materials_science",
+      "no": 13,
+      "top1_l1": 0.9,
+      "top1_l2": 0.5,
+      "unique_l1": 2,
+      "unique_l2": 5
+    },
+    {
+      "cat": "physics",
+      "no": 19,
+      "top1_l1": 0.9,
+      "top1_l2": 0.9,
+      "unique_l1": 2,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 18,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 23,
+      "top1_l1": 0.9,
+      "top1_l2": 0.4,
+      "unique_l1": 2,
+      "unique_l2": 6
+    },
+    {
+      "cat": "physics",
+      "no": 10,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 6,
+      "top1_l1": 1.0,
+      "top1_l2": 0.9,
+      "unique_l1": 1,
+      "unique_l2": 2
+    },
+    {
+      "cat": "physics",
+      "no": 22,
+      "top1_l1": 0.5,
+      "top1_l2": 0.5,
+      "unique_l1": 3,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 21,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 2,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    },
+    {
+      "cat": "physics",
+      "no": 8,
+      "top1_l1": 0.6,
+      "top1_l2": 0.6,
+      "unique_l1": 2,
+      "unique_l2": 4
+    },
+    {
+      "cat": "physics",
+      "no": 20,
+      "top1_l1": 1.0,
+      "top1_l2": 1.0,
+      "unique_l1": 1,
+      "unique_l2": 1
+    }
+  ]
+}

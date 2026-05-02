@@ -1,0 +1,9092 @@
+[
+  {
+    "category": "biology",
+    "no": 3,
+    "agenda": "Bio-inspired Optimization Algorithms for Healthcare",
+    "agenda_full": "Bio-inspired Optimization Algorithms for Healthcare",
+    "total_papers_found": 7228,
+    "community_count": 148,
+    "n_in_hier": 148,
+    "n_not_in_hier": 0,
+    "unique_l1": 46,
+    "unique_l2": 94,
+    "top1_l1_size_in_agenda": 54,
+    "top1_l1_share": 0.365,
+    "top3_l1_share": 0.473,
+    "top1_l2_size_in_agenda": 13,
+    "top1_l2_share": 0.088,
+    "top3_l2_share": 0.209,
+    "top_l1": [
+      {
+        "l1": 71,
+        "size_in_agenda": 54,
+        "l1_total_size": 8040
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 8,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 242,
+        "size_in_agenda": 8,
+        "l1_total_size": 3607
+      },
+      {
+        "l1": 336,
+        "size_in_agenda": 6,
+        "l1_total_size": 2701
+      },
+      {
+        "l1": 132,
+        "size_in_agenda": 6,
+        "l1_total_size": 5390
+      },
+      {
+        "l1": 613,
+        "size_in_agenda": 5,
+        "l1_total_size": 1405
+      },
+      {
+        "l1": 253,
+        "size_in_agenda": 4,
+        "l1_total_size": 3498
+      },
+      {
+        "l1": 56,
+        "size_in_agenda": 4,
+        "l1_total_size": 8644
+      },
+      {
+        "l1": 202,
+        "size_in_agenda": 3,
+        "l1_total_size": 4172
+      },
+      {
+        "l1": 112,
+        "size_in_agenda": 3,
+        "l1_total_size": 6281
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 71000003,
+        "size_in_agenda": 13,
+        "l2_total_size": 216
+      },
+      {
+        "l2": 71000001,
+        "size_in_agenda": 12,
+        "l2_total_size": 689
+      },
+      {
+        "l2": 71000006,
+        "size_in_agenda": 6,
+        "l2_total_size": 153
+      },
+      {
+        "l2": 336000016,
+        "size_in_agenda": 5,
+        "l2_total_size": 43
+      },
+      {
+        "l2": 613000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 165
+      },
+      {
+        "l2": 56000012,
+        "size_in_agenda": 4,
+        "l2_total_size": 167
+      },
+      {
+        "l2": 298000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 202000012,
+        "size_in_agenda": 3,
+        "l2_total_size": 65
+      },
+      {
+        "l2": 112000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 378
+      },
+      {
+        "l2": 242000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 154
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 2,
+    "agenda": "GAN-based Medical Image Augmentation",
+    "agenda_full": "GAN-based Medical Image Augmentation",
+    "total_papers_found": 2836,
+    "community_count": 136,
+    "n_in_hier": 136,
+    "n_not_in_hier": 0,
+    "unique_l1": 26,
+    "unique_l2": 70,
+    "top1_l1_size_in_agenda": 44,
+    "top1_l1_share": 0.324,
+    "top3_l1_share": 0.596,
+    "top1_l2_size_in_agenda": 27,
+    "top1_l2_share": 0.199,
+    "top3_l2_share": 0.301,
+    "top_l1": [
+      {
+        "l1": 15,
+        "size_in_agenda": 44,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 19,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 18,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 12,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 5,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 717,
+        "size_in_agenda": 5,
+        "l1_total_size": 1148
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 5,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 369,
+        "size_in_agenda": 4,
+        "l1_total_size": 2436
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 3,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 2,
+        "l1_total_size": 763
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 15000045,
+        "size_in_agenda": 27,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 15000003,
+        "size_in_agenda": 7,
+        "l2_total_size": 611
+      },
+      {
+        "l2": 396000004,
+        "size_in_agenda": 7,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 298000002,
+        "size_in_agenda": 5,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 3000080,
+        "size_in_agenda": 5,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 298000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 88
+      },
+      {
+        "l2": 369000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 377
+      },
+      {
+        "l2": 241000003,
+        "size_in_agenda": 3,
+        "l2_total_size": 142
+      },
+      {
+        "l2": 3000104,
+        "size_in_agenda": 2,
+        "l2_total_size": 52
+      },
+      {
+        "l2": 539000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 246
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 4,
+    "agenda": "Deep Learning for Neurological Disease Diagnosis (ASD & MS)",
+    "agenda_full": "Deep Learning for Neurological Disease Diagnosis (ASD & MS)",
+    "total_papers_found": 8128,
+    "community_count": 130,
+    "n_in_hier": 129,
+    "n_not_in_hier": 1,
+    "unique_l1": 33,
+    "unique_l2": 75,
+    "top1_l1_size_in_agenda": 33,
+    "top1_l1_share": 0.256,
+    "top3_l1_share": 0.612,
+    "top1_l2_size_in_agenda": 27,
+    "top1_l2_share": 0.209,
+    "top3_l2_share": 0.333,
+    "top_l1": [
+      {
+        "l1": 241,
+        "size_in_agenda": 33,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 31,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 146,
+        "size_in_agenda": 15,
+        "l1_total_size": 5181
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 8,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 388,
+        "size_in_agenda": 4,
+        "l1_total_size": 2318
+      },
+      {
+        "l1": 242,
+        "size_in_agenda": 4,
+        "l1_total_size": 3607
+      },
+      {
+        "l1": 257,
+        "size_in_agenda": 3,
+        "l1_total_size": 3404
+      },
+      {
+        "l1": 646,
+        "size_in_agenda": 2,
+        "l1_total_size": 1316
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 2,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 2,
+        "l1_total_size": 9596
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 241000000,
+        "size_in_agenda": 27,
+        "l2_total_size": 191
+      },
+      {
+        "l2": 146000022,
+        "size_in_agenda": 11,
+        "l2_total_size": 42
+      },
+      {
+        "l2": 241000020,
+        "size_in_agenda": 5,
+        "l2_total_size": 30
+      },
+      {
+        "l2": 3000006,
+        "size_in_agenda": 4,
+        "l2_total_size": 599
+      },
+      {
+        "l2": 3000069,
+        "size_in_agenda": 4,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 298000035,
+        "size_in_agenda": 3,
+        "l2_total_size": 20
+      },
+      {
+        "l2": 298000038,
+        "size_in_agenda": 2,
+        "l2_total_size": 19
+      },
+      {
+        "l2": 646000011,
+        "size_in_agenda": 2,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 3000022,
+        "size_in_agenda": 2,
+        "l2_total_size": 290
+      },
+      {
+        "l2": 47000003,
+        "size_in_agenda": 2,
+        "l2_total_size": 590
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 5,
+    "agenda": "Explainable & Transparent AI for Medical Imaging",
+    "agenda_full": "Explainable & Transparent AI for Medical Imaging",
+    "total_papers_found": 7207,
+    "community_count": 106,
+    "n_in_hier": 105,
+    "n_not_in_hier": 1,
+    "unique_l1": 25,
+    "unique_l2": 76,
+    "top1_l1_size_in_agenda": 30,
+    "top1_l1_share": 0.286,
+    "top3_l1_share": 0.59,
+    "top1_l2_size_in_agenda": 10,
+    "top1_l2_share": 0.095,
+    "top3_l2_share": 0.152,
+    "top_l1": [
+      {
+        "l1": 298,
+        "size_in_agenda": 30,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 20,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 12,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 351,
+        "size_in_agenda": 7,
+        "l1_total_size": 2581
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 5,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 782,
+        "size_in_agenda": 5,
+        "l1_total_size": 993
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 4,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 3,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 2,
+        "l1_total_size": 763
+      },
+      {
+        "l1": 1475,
+        "size_in_agenda": 2,
+        "l1_total_size": 322
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 298000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 377
+      },
+      {
+        "l2": 351000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 195
+      },
+      {
+        "l2": 527000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 135
+      },
+      {
+        "l2": 527000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 122
+      },
+      {
+        "l2": 298000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 88
+      },
+      {
+        "l2": 3000095,
+        "size_in_agenda": 3,
+        "l2_total_size": 63
+      },
+      {
+        "l2": 3000075,
+        "size_in_agenda": 2,
+        "l2_total_size": 94
+      },
+      {
+        "l2": 241000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 191
+      },
+      {
+        "l2": 298000032,
+        "size_in_agenda": 2,
+        "l2_total_size": 21
+      },
+      {
+        "l2": 298000013,
+        "size_in_agenda": 2,
+        "l2_total_size": 35
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 1,
+    "agenda": "AI-based Medical Image Segmentation (COVID-19 & pathology)",
+    "agenda_full": "AI-based Medical Image Segmentation (COVID-19 & pathology)",
+    "total_papers_found": 3532,
+    "community_count": 105,
+    "n_in_hier": 104,
+    "n_not_in_hier": 1,
+    "unique_l1": 15,
+    "unique_l2": 60,
+    "top1_l1_size_in_agenda": 39,
+    "top1_l1_share": 0.375,
+    "top3_l1_share": 0.798,
+    "top1_l2_size_in_agenda": 24,
+    "top1_l2_share": 0.231,
+    "top3_l2_share": 0.365,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 39,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 35,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 9,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 5,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 71,
+        "size_in_agenda": 3,
+        "l1_total_size": 8040
+      },
+      {
+        "l1": 782,
+        "size_in_agenda": 3,
+        "l1_total_size": 993
+      },
+      {
+        "l1": 623,
+        "size_in_agenda": 2,
+        "l1_total_size": 1377
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 1,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 93,
+        "size_in_agenda": 1,
+        "l1_total_size": 7093
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 1,
+        "l1_total_size": 763
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 298000000,
+        "size_in_agenda": 24,
+        "l2_total_size": 377
+      },
+      {
+        "l2": 3000070,
+        "size_in_agenda": 10,
+        "l2_total_size": 99
+      },
+      {
+        "l2": 3000017,
+        "size_in_agenda": 4,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 3000117,
+        "size_in_agenda": 2,
+        "l2_total_size": 44
+      },
+      {
+        "l2": 298000011,
+        "size_in_agenda": 2,
+        "l2_total_size": 39
+      },
+      {
+        "l2": 3000016,
+        "size_in_agenda": 2,
+        "l2_total_size": 345
+      },
+      {
+        "l2": 527000003,
+        "size_in_agenda": 2,
+        "l2_total_size": 109
+      },
+      {
+        "l2": 71000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 689
+      },
+      {
+        "l2": 623000004,
+        "size_in_agenda": 2,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 3000088,
+        "size_in_agenda": 2,
+        "l2_total_size": 70
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 24,
+    "agenda": "Phylogenetic Network Theory & Evolutionary Systematics",
+    "agenda_full": "Phylogenetic Network Theory & Evolutionary Systematics",
+    "total_papers_found": 42236,
+    "community_count": 90,
+    "n_in_hier": 90,
+    "n_not_in_hier": 0,
+    "unique_l1": 9,
+    "unique_l2": 37,
+    "top1_l1_size_in_agenda": 75,
+    "top1_l1_share": 0.833,
+    "top3_l1_share": 0.911,
+    "top1_l2_size_in_agenda": 39,
+    "top1_l2_share": 0.433,
+    "top3_l2_share": 0.556,
+    "top_l1": [
+      {
+        "l1": 66,
+        "size_in_agenda": 75,
+        "l1_total_size": 8128
+      },
+      {
+        "l1": 93,
+        "size_in_agenda": 4,
+        "l1_total_size": 7093
+      },
+      {
+        "l1": 65,
+        "size_in_agenda": 3,
+        "l1_total_size": 8174
+      },
+      {
+        "l1": 106,
+        "size_in_agenda": 2,
+        "l1_total_size": 6457
+      },
+      {
+        "l1": 119,
+        "size_in_agenda": 2,
+        "l1_total_size": 5819
+      },
+      {
+        "l1": 101,
+        "size_in_agenda": 1,
+        "l1_total_size": 6640
+      },
+      {
+        "l1": 212,
+        "size_in_agenda": 1,
+        "l1_total_size": 3972
+      },
+      {
+        "l1": 31,
+        "size_in_agenda": 1,
+        "l1_total_size": 11360
+      },
+      {
+        "l1": 1134,
+        "size_in_agenda": 1,
+        "l1_total_size": 533
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 66000000,
+        "size_in_agenda": 39,
+        "l2_total_size": 388
+      },
+      {
+        "l2": 66000005,
+        "size_in_agenda": 7,
+        "l2_total_size": 139
+      },
+      {
+        "l2": 66000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 177
+      },
+      {
+        "l2": 66000007,
+        "size_in_agenda": 4,
+        "l2_total_size": 113
+      },
+      {
+        "l2": 66000064,
+        "size_in_agenda": 2,
+        "l2_total_size": 29
+      },
+      {
+        "l2": 66000011,
+        "size_in_agenda": 2,
+        "l2_total_size": 87
+      },
+      {
+        "l2": 66000044,
+        "size_in_agenda": 2,
+        "l2_total_size": 37
+      },
+      {
+        "l2": 66000024,
+        "size_in_agenda": 1,
+        "l2_total_size": 60
+      },
+      {
+        "l2": 106000014,
+        "size_in_agenda": 1,
+        "l2_total_size": 94
+      },
+      {
+        "l2": 66000051,
+        "size_in_agenda": 1,
+        "l2_total_size": 33
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 14,
+    "agenda": "Insect Brain Architecture & Neural Connectomics",
+    "agenda_full": "Insect Brain Architecture & Neural Connectomics",
+    "total_papers_found": 8990,
+    "community_count": 79,
+    "n_in_hier": 79,
+    "n_not_in_hier": 0,
+    "unique_l1": 4,
+    "unique_l2": 13,
+    "top1_l1_size_in_agenda": 76,
+    "top1_l1_share": 0.962,
+    "top3_l1_share": 0.987,
+    "top1_l2_size_in_agenda": 38,
+    "top1_l2_share": 0.481,
+    "top3_l2_share": 0.734,
+    "top_l1": [
+      {
+        "l1": 170,
+        "size_in_agenda": 76,
+        "l1_total_size": 4742
+      },
+      {
+        "l1": 697,
+        "size_in_agenda": 1,
+        "l1_total_size": 1188
+      },
+      {
+        "l1": 213,
+        "size_in_agenda": 1,
+        "l1_total_size": 3959
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 1,
+        "l1_total_size": 29814
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 170000000,
+        "size_in_agenda": 38,
+        "l2_total_size": 176
+      },
+      {
+        "l2": 170000009,
+        "size_in_agenda": 15,
+        "l2_total_size": 117
+      },
+      {
+        "l2": 170000012,
+        "size_in_agenda": 5,
+        "l2_total_size": 91
+      },
+      {
+        "l2": 170000037,
+        "size_in_agenda": 4,
+        "l2_total_size": 32
+      },
+      {
+        "l2": 170000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 151
+      },
+      {
+        "l2": 170000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 142
+      },
+      {
+        "l2": 170000026,
+        "size_in_agenda": 3,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 170000013,
+        "size_in_agenda": 3,
+        "l2_total_size": 91
+      },
+      {
+        "l2": 697000009,
+        "size_in_agenda": 1,
+        "l2_total_size": 30
+      },
+      {
+        "l2": 213000020,
+        "size_in_agenda": 1,
+        "l2_total_size": 37
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 20,
+    "agenda": "Mitochondrial Dynamics / Fusion-Fission & ROS Production",
+    "agenda_full": "Mitochondrial Dynamics / Fusion-Fission & ROS Production",
+    "total_papers_found": 12303,
+    "community_count": 78,
+    "n_in_hier": 78,
+    "n_not_in_hier": 0,
+    "unique_l1": 22,
+    "unique_l2": 45,
+    "top1_l1_size_in_agenda": 54,
+    "top1_l1_share": 0.692,
+    "top3_l1_share": 0.756,
+    "top1_l2_size_in_agenda": 15,
+    "top1_l2_share": 0.192,
+    "top3_l2_share": 0.372,
+    "top_l1": [
+      {
+        "l1": 63,
+        "size_in_agenda": 54,
+        "l1_total_size": 8245
+      },
+      {
+        "l1": 410,
+        "size_in_agenda": 3,
+        "l1_total_size": 2175
+      },
+      {
+        "l1": 598,
+        "size_in_agenda": 2,
+        "l1_total_size": 1450
+      },
+      {
+        "l1": 594,
+        "size_in_agenda": 1,
+        "l1_total_size": 1459
+      },
+      {
+        "l1": 302,
+        "size_in_agenda": 1,
+        "l1_total_size": 3003
+      },
+      {
+        "l1": 821,
+        "size_in_agenda": 1,
+        "l1_total_size": 922
+      },
+      {
+        "l1": 2025,
+        "size_in_agenda": 1,
+        "l1_total_size": 179
+      },
+      {
+        "l1": 1836,
+        "size_in_agenda": 1,
+        "l1_total_size": 209
+      },
+      {
+        "l1": 313,
+        "size_in_agenda": 1,
+        "l1_total_size": 2842
+      },
+      {
+        "l1": 346,
+        "size_in_agenda": 1,
+        "l1_total_size": 2623
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 63000003,
+        "size_in_agenda": 15,
+        "l2_total_size": 158
+      },
+      {
+        "l2": 63000000,
+        "size_in_agenda": 8,
+        "l2_total_size": 295
+      },
+      {
+        "l2": 63000050,
+        "size_in_agenda": 6,
+        "l2_total_size": 34
+      },
+      {
+        "l2": 63000041,
+        "size_in_agenda": 4,
+        "l2_total_size": 42
+      },
+      {
+        "l2": 63000023,
+        "size_in_agenda": 2,
+        "l2_total_size": 71
+      },
+      {
+        "l2": 63000076,
+        "size_in_agenda": 2,
+        "l2_total_size": 26
+      },
+      {
+        "l2": 63000261,
+        "size_in_agenda": 2,
+        "l2_total_size": 6
+      },
+      {
+        "l2": 410000019,
+        "size_in_agenda": 2,
+        "l2_total_size": 23
+      },
+      {
+        "l2": 63000099,
+        "size_in_agenda": 1,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 63000161,
+        "size_in_agenda": 1,
+        "l2_total_size": 16
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 17,
+    "agenda": "Sex Determination Evolution & Gender Biology",
+    "agenda_full": "Sex Determination Evolution & Gender Biology",
+    "total_papers_found": 14992,
+    "community_count": 56,
+    "n_in_hier": 56,
+    "n_not_in_hier": 0,
+    "unique_l1": 13,
+    "unique_l2": 24,
+    "top1_l1_size_in_agenda": 29,
+    "top1_l1_share": 0.518,
+    "top3_l1_share": 0.75,
+    "top1_l2_size_in_agenda": 20,
+    "top1_l2_share": 0.357,
+    "top3_l2_share": 0.5,
+    "top_l1": [
+      {
+        "l1": 389,
+        "size_in_agenda": 29,
+        "l1_total_size": 2316
+      },
+      {
+        "l1": 119,
+        "size_in_agenda": 9,
+        "l1_total_size": 5819
+      },
+      {
+        "l1": 313,
+        "size_in_agenda": 4,
+        "l1_total_size": 2842
+      },
+      {
+        "l1": 876,
+        "size_in_agenda": 3,
+        "l1_total_size": 839
+      },
+      {
+        "l1": 87,
+        "size_in_agenda": 3,
+        "l1_total_size": 7349
+      },
+      {
+        "l1": 337,
+        "size_in_agenda": 1,
+        "l1_total_size": 2695
+      },
+      {
+        "l1": 274,
+        "size_in_agenda": 1,
+        "l1_total_size": 3287
+      },
+      {
+        "l1": 331,
+        "size_in_agenda": 1,
+        "l1_total_size": 2737
+      },
+      {
+        "l1": 1154,
+        "size_in_agenda": 1,
+        "l1_total_size": 514
+      },
+      {
+        "l1": 605,
+        "size_in_agenda": 1,
+        "l1_total_size": 1435
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 389000001,
+        "size_in_agenda": 20,
+        "l2_total_size": 204
+      },
+      {
+        "l2": 119000019,
+        "size_in_agenda": 5,
+        "l2_total_size": 57
+      },
+      {
+        "l2": 119000011,
+        "size_in_agenda": 3,
+        "l2_total_size": 78
+      },
+      {
+        "l2": 389000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 119
+      },
+      {
+        "l2": 876000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 215
+      },
+      {
+        "l2": 313000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 85
+      },
+      {
+        "l2": 389000004,
+        "size_in_agenda": 2,
+        "l2_total_size": 82
+      },
+      {
+        "l2": 337000002,
+        "size_in_agenda": 1,
+        "l2_total_size": 137
+      },
+      {
+        "l2": 389000009,
+        "size_in_agenda": 1,
+        "l2_total_size": 49
+      },
+      {
+        "l2": 389000012,
+        "size_in_agenda": 1,
+        "l2_total_size": 38
+      }
+    ]
+  },
+  {
+    "category": "biology",
+    "no": 10,
+    "agenda": "Remote Sensing for Insect & Wildlife Monitoring",
+    "agenda_full": "Remote Sensing for Insect & Wildlife Monitoring",
+    "total_papers_found": 1605,
+    "community_count": 54,
+    "n_in_hier": 54,
+    "n_not_in_hier": 0,
+    "unique_l1": 14,
+    "unique_l2": 33,
+    "top1_l1_size_in_agenda": 29,
+    "top1_l1_share": 0.537,
+    "top3_l1_share": 0.704,
+    "top1_l2_size_in_agenda": 6,
+    "top1_l2_share": 0.111,
+    "top3_l2_share": 0.296,
+    "top_l1": [
+      {
+        "l1": 33,
+        "size_in_agenda": 29,
+        "l1_total_size": 11065
+      },
+      {
+        "l1": 795,
+        "size_in_agenda": 5,
+        "l1_total_size": 972
+      },
+      {
+        "l1": 338,
+        "size_in_agenda": 4,
+        "l1_total_size": 2694
+      },
+      {
+        "l1": 262,
+        "size_in_agenda": 3,
+        "l1_total_size": 3349
+      },
+      {
+        "l1": 898,
+        "size_in_agenda": 2,
+        "l1_total_size": 797
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 2,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 177,
+        "size_in_agenda": 2,
+        "l1_total_size": 4669
+      },
+      {
+        "l1": 4184,
+        "size_in_agenda": 1,
+        "l1_total_size": 6
+      },
+      {
+        "l1": 46,
+        "size_in_agenda": 1,
+        "l1_total_size": 9606
+      },
+      {
+        "l1": 155,
+        "size_in_agenda": 1,
+        "l1_total_size": 4975
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 33000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 327
+      },
+      {
+        "l2": 33000047,
+        "size_in_agenda": 5,
+        "l2_total_size": 62
+      },
+      {
+        "l2": 795000004,
+        "size_in_agenda": 5,
+        "l2_total_size": 40
+      },
+      {
+        "l2": 33000008,
+        "size_in_agenda": 4,
+        "l2_total_size": 233
+      },
+      {
+        "l2": 262000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 201
+      },
+      {
+        "l2": 338000043,
+        "size_in_agenda": 2,
+        "l2_total_size": 18
+      },
+      {
+        "l2": 33000030,
+        "size_in_agenda": 2,
+        "l2_total_size": 108
+      },
+      {
+        "l2": 33000038,
+        "size_in_agenda": 2,
+        "l2_total_size": 77
+      },
+      {
+        "l2": 338000007,
+        "size_in_agenda": 1,
+        "l2_total_size": 83
+      },
+      {
+        "l2": 33000048,
+        "size_in_agenda": 1,
+        "l2_total_size": 60
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 2,
+    "agenda": "Medical Image Segmentation Algorithms (general frameworks)",
+    "agenda_full": "Medical Image Segmentation Algorithms (general frameworks)",
+    "total_papers_found": 39938,
+    "community_count": 202,
+    "n_in_hier": 202,
+    "n_not_in_hier": 0,
+    "unique_l1": 11,
+    "unique_l2": 62,
+    "top1_l1_size_in_agenda": 127,
+    "top1_l1_share": 0.629,
+    "top3_l1_share": 0.906,
+    "top1_l2_size_in_agenda": 24,
+    "top1_l2_share": 0.119,
+    "top3_l2_share": 0.317,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 127,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 46,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 10,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 717,
+        "size_in_agenda": 5,
+        "l1_total_size": 1148
+      },
+      {
+        "l1": 623,
+        "size_in_agenda": 4,
+        "l1_total_size": 1377
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 3,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 3,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 1783,
+        "size_in_agenda": 1,
+        "l1_total_size": 222
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 1,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 1,
+        "l1_total_size": 763
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000017,
+        "size_in_agenda": 24,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 298000001,
+        "size_in_agenda": 22,
+        "l2_total_size": 223
+      },
+      {
+        "l2": 3000016,
+        "size_in_agenda": 18,
+        "l2_total_size": 345
+      },
+      {
+        "l2": 3000088,
+        "size_in_agenda": 10,
+        "l2_total_size": 70
+      },
+      {
+        "l2": 3000098,
+        "size_in_agenda": 9,
+        "l2_total_size": 58
+      },
+      {
+        "l2": 3000083,
+        "size_in_agenda": 9,
+        "l2_total_size": 75
+      },
+      {
+        "l2": 3000080,
+        "size_in_agenda": 8,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 539000000,
+        "size_in_agenda": 8,
+        "l2_total_size": 246
+      },
+      {
+        "l2": 3000093,
+        "size_in_agenda": 8,
+        "l2_total_size": 65
+      },
+      {
+        "l2": 298000000,
+        "size_in_agenda": 7,
+        "l2_total_size": 377
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 18,
+    "agenda": "Bone Tissue Engineering & Hierarchical Scaffolds",
+    "agenda_full": "Bone Tissue Engineering & Hierarchical Scaffolds",
+    "total_papers_found": 2542,
+    "community_count": 198,
+    "n_in_hier": 198,
+    "n_not_in_hier": 0,
+    "unique_l1": 21,
+    "unique_l2": 117,
+    "top1_l1_size_in_agenda": 118,
+    "top1_l1_share": 0.596,
+    "top3_l1_share": 0.773,
+    "top1_l2_size_in_agenda": 14,
+    "top1_l2_share": 0.071,
+    "top3_l2_share": 0.141,
+    "top_l1": [
+      {
+        "l1": 48,
+        "size_in_agenda": 118,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 139,
+        "size_in_agenda": 22,
+        "l1_total_size": 5286
+      },
+      {
+        "l1": 73,
+        "size_in_agenda": 13,
+        "l1_total_size": 7951
+      },
+      {
+        "l1": 99,
+        "size_in_agenda": 11,
+        "l1_total_size": 6771
+      },
+      {
+        "l1": 473,
+        "size_in_agenda": 5,
+        "l1_total_size": 1876
+      },
+      {
+        "l1": 354,
+        "size_in_agenda": 5,
+        "l1_total_size": 2574
+      },
+      {
+        "l1": 815,
+        "size_in_agenda": 5,
+        "l1_total_size": 943
+      },
+      {
+        "l1": 470,
+        "size_in_agenda": 3,
+        "l1_total_size": 1890
+      },
+      {
+        "l1": 162,
+        "size_in_agenda": 2,
+        "l1_total_size": 4915
+      },
+      {
+        "l1": 74,
+        "size_in_agenda": 2,
+        "l1_total_size": 7937
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 48000044,
+        "size_in_agenda": 14,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 48000037,
+        "size_in_agenda": 8,
+        "l2_total_size": 48
+      },
+      {
+        "l2": 48000030,
+        "size_in_agenda": 6,
+        "l2_total_size": 51
+      },
+      {
+        "l2": 48000059,
+        "size_in_agenda": 5,
+        "l2_total_size": 34
+      },
+      {
+        "l2": 48000116,
+        "size_in_agenda": 5,
+        "l2_total_size": 25
+      },
+      {
+        "l2": 139000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 157
+      },
+      {
+        "l2": 99000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 510
+      },
+      {
+        "l2": 48000140,
+        "size_in_agenda": 4,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 73000026,
+        "size_in_agenda": 4,
+        "l2_total_size": 42
+      },
+      {
+        "l2": 48000020,
+        "size_in_agenda": 4,
+        "l2_total_size": 67
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 9,
+    "agenda": "Domain Adaptation for Medical Image Analysis",
+    "agenda_full": "Domain Adaptation for Medical Image Analysis",
+    "total_papers_found": 25010,
+    "community_count": 182,
+    "n_in_hier": 182,
+    "n_not_in_hier": 0,
+    "unique_l1": 17,
+    "unique_l2": 71,
+    "top1_l1_size_in_agenda": 89,
+    "top1_l1_share": 0.489,
+    "top3_l1_share": 0.824,
+    "top1_l2_size_in_agenda": 29,
+    "top1_l2_share": 0.159,
+    "top3_l2_share": 0.368,
+    "top_l1": [
+      {
+        "l1": 298,
+        "size_in_agenda": 89,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 36,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 25,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 6,
+        "l1_total_size": 763
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 6,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 3,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 1241,
+        "size_in_agenda": 3,
+        "l1_total_size": 443
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 2,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 1105,
+        "size_in_agenda": 2,
+        "l1_total_size": 560
+      },
+      {
+        "l1": 782,
+        "size_in_agenda": 2,
+        "l1_total_size": 993
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 298000000,
+        "size_in_agenda": 29,
+        "l2_total_size": 377
+      },
+      {
+        "l2": 298000002,
+        "size_in_agenda": 29,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 527000001,
+        "size_in_agenda": 9,
+        "l2_total_size": 122
+      },
+      {
+        "l2": 298000003,
+        "size_in_agenda": 7,
+        "l2_total_size": 160
+      },
+      {
+        "l2": 924000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 240
+      },
+      {
+        "l2": 527000003,
+        "size_in_agenda": 6,
+        "l2_total_size": 109
+      },
+      {
+        "l2": 241000001,
+        "size_in_agenda": 6,
+        "l2_total_size": 186
+      },
+      {
+        "l2": 3000080,
+        "size_in_agenda": 5,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 298000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 223
+      },
+      {
+        "l2": 3000083,
+        "size_in_agenda": 4,
+        "l2_total_size": 75
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 13,
+    "agenda": "Hydrogel-based Tissue Regeneration (collagen / fibrin / hyaluronic acid)",
+    "agenda_full": "Hydrogel-based Tissue Regeneration (collagen / fibrin / hyaluronic acid)",
+    "total_papers_found": 7588,
+    "community_count": 180,
+    "n_in_hier": 180,
+    "n_not_in_hier": 0,
+    "unique_l1": 16,
+    "unique_l2": 103,
+    "top1_l1_size_in_agenda": 131,
+    "top1_l1_share": 0.728,
+    "top3_l1_share": 0.894,
+    "top1_l2_size_in_agenda": 11,
+    "top1_l2_share": 0.061,
+    "top3_l2_share": 0.15,
+    "top_l1": [
+      {
+        "l1": 48,
+        "size_in_agenda": 131,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 73,
+        "size_in_agenda": 27,
+        "l1_total_size": 7951
+      },
+      {
+        "l1": 491,
+        "size_in_agenda": 3,
+        "l1_total_size": 1801
+      },
+      {
+        "l1": 316,
+        "size_in_agenda": 3,
+        "l1_total_size": 2829
+      },
+      {
+        "l1": 609,
+        "size_in_agenda": 2,
+        "l1_total_size": 1414
+      },
+      {
+        "l1": 662,
+        "size_in_agenda": 2,
+        "l1_total_size": 1279
+      },
+      {
+        "l1": 766,
+        "size_in_agenda": 2,
+        "l1_total_size": 1045
+      },
+      {
+        "l1": 594,
+        "size_in_agenda": 2,
+        "l1_total_size": 1459
+      },
+      {
+        "l1": 139,
+        "size_in_agenda": 1,
+        "l1_total_size": 5286
+      },
+      {
+        "l1": 190,
+        "size_in_agenda": 1,
+        "l1_total_size": 4426
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 48000000,
+        "size_in_agenda": 11,
+        "l2_total_size": 414
+      },
+      {
+        "l2": 48000060,
+        "size_in_agenda": 8,
+        "l2_total_size": 33
+      },
+      {
+        "l2": 48000031,
+        "size_in_agenda": 8,
+        "l2_total_size": 51
+      },
+      {
+        "l2": 73000000,
+        "size_in_agenda": 7,
+        "l2_total_size": 263
+      },
+      {
+        "l2": 48000001,
+        "size_in_agenda": 6,
+        "l2_total_size": 127
+      },
+      {
+        "l2": 48000012,
+        "size_in_agenda": 6,
+        "l2_total_size": 81
+      },
+      {
+        "l2": 48000009,
+        "size_in_agenda": 5,
+        "l2_total_size": 85
+      },
+      {
+        "l2": 48000091,
+        "size_in_agenda": 4,
+        "l2_total_size": 28
+      },
+      {
+        "l2": 73000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 206
+      },
+      {
+        "l2": 48000141,
+        "size_in_agenda": 3,
+        "l2_total_size": 21
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 20,
+    "agenda": "Neural Tissue Injury Treatment (hydrogel-based approaches)",
+    "agenda_full": "Neural Tissue Injury Treatment (hydrogel-based approaches)",
+    "total_papers_found": 2067,
+    "community_count": 176,
+    "n_in_hier": 176,
+    "n_not_in_hier": 0,
+    "unique_l1": 26,
+    "unique_l2": 90,
+    "top1_l1_size_in_agenda": 43,
+    "top1_l1_share": 0.244,
+    "top3_l1_share": 0.659,
+    "top1_l2_size_in_agenda": 19,
+    "top1_l2_share": 0.108,
+    "top3_l2_share": 0.233,
+    "top_l1": [
+      {
+        "l1": 766,
+        "size_in_agenda": 43,
+        "l1_total_size": 1045
+      },
+      {
+        "l1": 491,
+        "size_in_agenda": 41,
+        "l1_total_size": 1801
+      },
+      {
+        "l1": 48,
+        "size_in_agenda": 32,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 73,
+        "size_in_agenda": 13,
+        "l1_total_size": 7951
+      },
+      {
+        "l1": 414,
+        "size_in_agenda": 10,
+        "l1_total_size": 2155
+      },
+      {
+        "l1": 378,
+        "size_in_agenda": 6,
+        "l1_total_size": 2393
+      },
+      {
+        "l1": 662,
+        "size_in_agenda": 4,
+        "l1_total_size": 1279
+      },
+      {
+        "l1": 197,
+        "size_in_agenda": 4,
+        "l1_total_size": 4284
+      },
+      {
+        "l1": 473,
+        "size_in_agenda": 4,
+        "l1_total_size": 1876
+      },
+      {
+        "l1": 105,
+        "size_in_agenda": 2,
+        "l1_total_size": 6521
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 491000001,
+        "size_in_agenda": 19,
+        "l2_total_size": 156
+      },
+      {
+        "l2": 766000000,
+        "size_in_agenda": 16,
+        "l2_total_size": 78
+      },
+      {
+        "l2": 414000005,
+        "size_in_agenda": 6,
+        "l2_total_size": 64
+      },
+      {
+        "l2": 766000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 30
+      },
+      {
+        "l2": 73000107,
+        "size_in_agenda": 4,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 662000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 91
+      },
+      {
+        "l2": 766000038,
+        "size_in_agenda": 4,
+        "l2_total_size": 10
+      },
+      {
+        "l2": 766000008,
+        "size_in_agenda": 4,
+        "l2_total_size": 23
+      },
+      {
+        "l2": 48000316,
+        "size_in_agenda": 4,
+        "l2_total_size": 12
+      },
+      {
+        "l2": 491000006,
+        "size_in_agenda": 4,
+        "l2_total_size": 52
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 16,
+    "agenda": "3D Bioprinting & Bioink Engineering",
+    "agenda_full": "3D Bioprinting & Bioink Engineering",
+    "total_papers_found": 4557,
+    "community_count": 175,
+    "n_in_hier": 175,
+    "n_not_in_hier": 0,
+    "unique_l1": 7,
+    "unique_l2": 47,
+    "top1_l1_size_in_agenda": 164,
+    "top1_l1_share": 0.937,
+    "top3_l1_share": 0.971,
+    "top1_l2_size_in_agenda": 106,
+    "top1_l2_share": 0.606,
+    "top3_l2_share": 0.663,
+    "top_l1": [
+      {
+        "l1": 48,
+        "size_in_agenda": 164,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 179,
+        "size_in_agenda": 3,
+        "l1_total_size": 4641
+      },
+      {
+        "l1": 473,
+        "size_in_agenda": 3,
+        "l1_total_size": 1876
+      },
+      {
+        "l1": 446,
+        "size_in_agenda": 2,
+        "l1_total_size": 1999
+      },
+      {
+        "l1": 662,
+        "size_in_agenda": 1,
+        "l1_total_size": 1279
+      },
+      {
+        "l1": 40,
+        "size_in_agenda": 1,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 139,
+        "size_in_agenda": 1,
+        "l1_total_size": 5286
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 48000000,
+        "size_in_agenda": 106,
+        "l2_total_size": 414
+      },
+      {
+        "l2": 48000039,
+        "size_in_agenda": 5,
+        "l2_total_size": 45
+      },
+      {
+        "l2": 48000114,
+        "size_in_agenda": 5,
+        "l2_total_size": 25
+      },
+      {
+        "l2": 48000063,
+        "size_in_agenda": 3,
+        "l2_total_size": 33
+      },
+      {
+        "l2": 48000019,
+        "size_in_agenda": 3,
+        "l2_total_size": 68
+      },
+      {
+        "l2": 446000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 204
+      },
+      {
+        "l2": 48000024,
+        "size_in_agenda": 2,
+        "l2_total_size": 64
+      },
+      {
+        "l2": 48000300,
+        "size_in_agenda": 2,
+        "l2_total_size": 13
+      },
+      {
+        "l2": 48000026,
+        "size_in_agenda": 2,
+        "l2_total_size": 62
+      },
+      {
+        "l2": 179000057,
+        "size_in_agenda": 2,
+        "l2_total_size": 22
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 14,
+    "agenda": "Decellularized Extracellular Matrix (ECM) Scaffolds",
+    "agenda_full": "Decellularized Extracellular Matrix (ECM) Scaffolds",
+    "total_papers_found": 2166,
+    "community_count": 172,
+    "n_in_hier": 172,
+    "n_not_in_hier": 0,
+    "unique_l1": 18,
+    "unique_l2": 126,
+    "top1_l1_size_in_agenda": 84,
+    "top1_l1_share": 0.488,
+    "top3_l1_share": 0.64,
+    "top1_l2_size_in_agenda": 5,
+    "top1_l2_share": 0.029,
+    "top3_l2_share": 0.087,
+    "top_l1": [
+      {
+        "l1": 48,
+        "size_in_agenda": 84,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 662,
+        "size_in_agenda": 13,
+        "l1_total_size": 1279
+      },
+      {
+        "l1": 73,
+        "size_in_agenda": 13,
+        "l1_total_size": 7951
+      },
+      {
+        "l1": 139,
+        "size_in_agenda": 12,
+        "l1_total_size": 5286
+      },
+      {
+        "l1": 473,
+        "size_in_agenda": 12,
+        "l1_total_size": 1876
+      },
+      {
+        "l1": 491,
+        "size_in_agenda": 8,
+        "l1_total_size": 1801
+      },
+      {
+        "l1": 446,
+        "size_in_agenda": 6,
+        "l1_total_size": 1999
+      },
+      {
+        "l1": 815,
+        "size_in_agenda": 5,
+        "l1_total_size": 943
+      },
+      {
+        "l1": 451,
+        "size_in_agenda": 4,
+        "l1_total_size": 1973
+      },
+      {
+        "l1": 197,
+        "size_in_agenda": 3,
+        "l1_total_size": 4284
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 662000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 177
+      },
+      {
+        "l2": 48000051,
+        "size_in_agenda": 5,
+        "l2_total_size": 37
+      },
+      {
+        "l2": 48000126,
+        "size_in_agenda": 5,
+        "l2_total_size": 24
+      },
+      {
+        "l2": 48000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 127
+      },
+      {
+        "l2": 48000016,
+        "size_in_agenda": 3,
+        "l2_total_size": 73
+      },
+      {
+        "l2": 473000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 237
+      },
+      {
+        "l2": 48000059,
+        "size_in_agenda": 3,
+        "l2_total_size": 34
+      },
+      {
+        "l2": 139000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 284
+      },
+      {
+        "l2": 446000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 204
+      },
+      {
+        "l2": 662000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 91
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 5,
+    "agenda": "GAN-based Medical Image Augmentation",
+    "agenda_full": "GAN-based Medical Image Augmentation",
+    "total_papers_found": 4677,
+    "community_count": 169,
+    "n_in_hier": 169,
+    "n_not_in_hier": 0,
+    "unique_l1": 27,
+    "unique_l2": 94,
+    "top1_l1_size_in_agenda": 41,
+    "top1_l1_share": 0.243,
+    "top3_l1_share": 0.604,
+    "top1_l2_size_in_agenda": 25,
+    "top1_l2_share": 0.148,
+    "top3_l2_share": 0.225,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 41,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 39,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 22,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 11,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 717,
+        "size_in_agenda": 10,
+        "l1_total_size": 1148
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 9,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 7,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 5,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 3,
+        "l1_total_size": 763
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 2,
+        "l1_total_size": 1616
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 15000045,
+        "size_in_agenda": 25,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 396000004,
+        "size_in_agenda": 7,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 3000039,
+        "size_in_agenda": 6,
+        "l2_total_size": 183
+      },
+      {
+        "l2": 298000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 3000080,
+        "size_in_agenda": 6,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 15000003,
+        "size_in_agenda": 6,
+        "l2_total_size": 611
+      },
+      {
+        "l2": 3000087,
+        "size_in_agenda": 5,
+        "l2_total_size": 70
+      },
+      {
+        "l2": 717000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 220
+      },
+      {
+        "l2": 241000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 142
+      },
+      {
+        "l2": 298000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 88
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 23,
+    "agenda": "Nanomaterial-based Cancer Therapy (photothermal / ferroptosis / glutathione depletion)",
+    "agenda_full": "Nanomaterial-based Cancer Therapy (photothermal / ferroptosis / glutathione depletion)",
+    "total_papers_found": 16061,
+    "community_count": 165,
+    "n_in_hier": 165,
+    "n_not_in_hier": 0,
+    "unique_l1": 8,
+    "unique_l2": 62,
+    "top1_l1_size_in_agenda": 147,
+    "top1_l1_share": 0.891,
+    "top3_l1_share": 0.952,
+    "top1_l2_size_in_agenda": 27,
+    "top1_l2_share": 0.164,
+    "top3_l2_share": 0.364,
+    "top_l1": [
+      {
+        "l1": 60,
+        "size_in_agenda": 147,
+        "l1_total_size": 8461
+      },
+      {
+        "l1": 76,
+        "size_in_agenda": 6,
+        "l1_total_size": 7880
+      },
+      {
+        "l1": 236,
+        "size_in_agenda": 4,
+        "l1_total_size": 3727
+      },
+      {
+        "l1": 554,
+        "size_in_agenda": 3,
+        "l1_total_size": 1569
+      },
+      {
+        "l1": 451,
+        "size_in_agenda": 2,
+        "l1_total_size": 1973
+      },
+      {
+        "l1": 17,
+        "size_in_agenda": 1,
+        "l1_total_size": 15035
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 1,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 742,
+        "size_in_agenda": 1,
+        "l1_total_size": 1095
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 60000002,
+        "size_in_agenda": 27,
+        "l2_total_size": 241
+      },
+      {
+        "l2": 60000003,
+        "size_in_agenda": 19,
+        "l2_total_size": 231
+      },
+      {
+        "l2": 60000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 279
+      },
+      {
+        "l2": 60000006,
+        "size_in_agenda": 7,
+        "l2_total_size": 129
+      },
+      {
+        "l2": 60000010,
+        "size_in_agenda": 6,
+        "l2_total_size": 99
+      },
+      {
+        "l2": 76000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 497
+      },
+      {
+        "l2": 60000031,
+        "size_in_agenda": 5,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 60000005,
+        "size_in_agenda": 4,
+        "l2_total_size": 164
+      },
+      {
+        "l2": 60000012,
+        "size_in_agenda": 4,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 60000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 250
+      }
+    ]
+  },
+  {
+    "category": "biomedical",
+    "no": 4,
+    "agenda": "Transformer Architectures in Medical Imaging",
+    "agenda_full": "Transformer Architectures in Medical Imaging",
+    "total_papers_found": 15045,
+    "community_count": 157,
+    "n_in_hier": 157,
+    "n_not_in_hier": 0,
+    "unique_l1": 13,
+    "unique_l2": 64,
+    "top1_l1_size_in_agenda": 88,
+    "top1_l1_share": 0.561,
+    "top3_l1_share": 0.809,
+    "top1_l2_size_in_agenda": 36,
+    "top1_l2_share": 0.229,
+    "top3_l2_share": 0.338,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 88,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 32,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 7,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 7,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 539,
+        "size_in_agenda": 6,
+        "l1_total_size": 1616
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 4,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 924,
+        "size_in_agenda": 3,
+        "l1_total_size": 763
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 3,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 369,
+        "size_in_agenda": 2,
+        "l1_total_size": 2436
+      },
+      {
+        "l1": 112,
+        "size_in_agenda": 2,
+        "l1_total_size": 6281
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000017,
+        "size_in_agenda": 36,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 3000093,
+        "size_in_agenda": 10,
+        "l2_total_size": 65
+      },
+      {
+        "l2": 298000000,
+        "size_in_agenda": 7,
+        "l2_total_size": 377
+      },
+      {
+        "l2": 298000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 3000083,
+        "size_in_agenda": 5,
+        "l2_total_size": 75
+      },
+      {
+        "l2": 47000004,
+        "size_in_agenda": 5,
+        "l2_total_size": 507
+      },
+      {
+        "l2": 241000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 186
+      },
+      {
+        "l2": 298000005,
+        "size_in_agenda": 4,
+        "l2_total_size": 88
+      },
+      {
+        "l2": 924000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 240
+      },
+      {
+        "l2": 527000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 122
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 15,
+    "agenda": "Dynamic Covalent & Unconventional Soft Polymer Networks",
+    "agenda_full": "Dynamic Covalent & Unconventional Soft Polymer Networks",
+    "total_papers_found": 26974,
+    "community_count": 241,
+    "n_in_hier": 241,
+    "n_not_in_hier": 0,
+    "unique_l1": 8,
+    "unique_l2": 32,
+    "top1_l1_size_in_agenda": 173,
+    "top1_l1_share": 0.718,
+    "top3_l1_share": 0.967,
+    "top1_l2_size_in_agenda": 102,
+    "top1_l2_share": 0.423,
+    "top3_l2_share": 0.734,
+    "top_l1": [
+      {
+        "l1": 40,
+        "size_in_agenda": 173,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 53,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 73,
+        "size_in_agenda": 7,
+        "l1_total_size": 7951
+      },
+      {
+        "l1": 48,
+        "size_in_agenda": 3,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 59,
+        "size_in_agenda": 2,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 309,
+        "size_in_agenda": 1,
+        "l1_total_size": 2894
+      },
+      {
+        "l1": 281,
+        "size_in_agenda": 1,
+        "l1_total_size": 3230
+      },
+      {
+        "l1": 26,
+        "size_in_agenda": 1,
+        "l1_total_size": 12165
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 40000000,
+        "size_in_agenda": 102,
+        "l2_total_size": 753
+      },
+      {
+        "l2": 40000003,
+        "size_in_agenda": 38,
+        "l2_total_size": 389
+      },
+      {
+        "l2": 50000003,
+        "size_in_agenda": 37,
+        "l2_total_size": 444
+      },
+      {
+        "l2": 50000001,
+        "size_in_agenda": 9,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 40000021,
+        "size_in_agenda": 6,
+        "l2_total_size": 77
+      },
+      {
+        "l2": 40000006,
+        "size_in_agenda": 6,
+        "l2_total_size": 209
+      },
+      {
+        "l2": 73000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 263
+      },
+      {
+        "l2": 40000022,
+        "size_in_agenda": 3,
+        "l2_total_size": 74
+      },
+      {
+        "l2": 40000011,
+        "size_in_agenda": 3,
+        "l2_total_size": 171
+      },
+      {
+        "l2": 40000026,
+        "size_in_agenda": 3,
+        "l2_total_size": 68
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 17,
+    "agenda": "MXene: Synthesis Progress & Functional Applications",
+    "agenda_full": "MXene: Synthesis Progress & Functional Applications",
+    "total_papers_found": 12878,
+    "community_count": 207,
+    "n_in_hier": 207,
+    "n_not_in_hier": 0,
+    "unique_l1": 21,
+    "unique_l2": 46,
+    "top1_l1_size_in_agenda": 153,
+    "top1_l1_share": 0.739,
+    "top3_l1_share": 0.816,
+    "top1_l2_size_in_agenda": 113,
+    "top1_l2_share": 0.546,
+    "top3_l2_share": 0.671,
+    "top_l1": [
+      {
+        "l1": 105,
+        "size_in_agenda": 153,
+        "l1_total_size": 6521
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 9,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 7,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 43,
+        "size_in_agenda": 5,
+        "l1_total_size": 9786
+      },
+      {
+        "l1": 59,
+        "size_in_agenda": 4,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 4,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 220,
+        "size_in_agenda": 4,
+        "l1_total_size": 3857
+      },
+      {
+        "l1": 201,
+        "size_in_agenda": 4,
+        "l1_total_size": 4201
+      },
+      {
+        "l1": 124,
+        "size_in_agenda": 3,
+        "l1_total_size": 5618
+      },
+      {
+        "l1": 131,
+        "size_in_agenda": 3,
+        "l1_total_size": 5396
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 105000002,
+        "size_in_agenda": 113,
+        "l2_total_size": 728
+      },
+      {
+        "l2": 105000001,
+        "size_in_agenda": 16,
+        "l2_total_size": 768
+      },
+      {
+        "l2": 105000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 1105
+      },
+      {
+        "l2": 50000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 648
+      },
+      {
+        "l2": 220000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 279
+      },
+      {
+        "l2": 43000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 483
+      },
+      {
+        "l2": 7000024,
+        "size_in_agenda": 4,
+        "l2_total_size": 90
+      },
+      {
+        "l2": 59000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 1016
+      },
+      {
+        "l2": 50000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 50000002,
+        "size_in_agenda": 2,
+        "l2_total_size": 517
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 16,
+    "agenda": "Direct Ink Writing & 3D Printing of Diverse Materials",
+    "agenda_full": "Direct Ink Writing & 3D Printing of Diverse Materials",
+    "total_papers_found": 18488,
+    "community_count": 187,
+    "n_in_hier": 187,
+    "n_not_in_hier": 0,
+    "unique_l1": 16,
+    "unique_l2": 58,
+    "top1_l1_size_in_agenda": 113,
+    "top1_l1_share": 0.604,
+    "top3_l1_share": 0.824,
+    "top1_l2_size_in_agenda": 47,
+    "top1_l2_share": 0.251,
+    "top3_l2_share": 0.374,
+    "top_l1": [
+      {
+        "l1": 224,
+        "size_in_agenda": 113,
+        "l1_total_size": 3797
+      },
+      {
+        "l1": 48,
+        "size_in_agenda": 23,
+        "l1_total_size": 9431
+      },
+      {
+        "l1": 162,
+        "size_in_agenda": 18,
+        "l1_total_size": 4915
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 8,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 40,
+        "size_in_agenda": 5,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 485,
+        "size_in_agenda": 4,
+        "l1_total_size": 1829
+      },
+      {
+        "l1": 105,
+        "size_in_agenda": 3,
+        "l1_total_size": 6521
+      },
+      {
+        "l1": 52,
+        "size_in_agenda": 3,
+        "l1_total_size": 8696
+      },
+      {
+        "l1": 37,
+        "size_in_agenda": 2,
+        "l1_total_size": 10242
+      },
+      {
+        "l1": 290,
+        "size_in_agenda": 2,
+        "l1_total_size": 3122
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 224000000,
+        "size_in_agenda": 47,
+        "l2_total_size": 415
+      },
+      {
+        "l2": 48000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 414
+      },
+      {
+        "l2": 162000000,
+        "size_in_agenda": 9,
+        "l2_total_size": 444
+      },
+      {
+        "l2": 224000004,
+        "size_in_agenda": 8,
+        "l2_total_size": 124
+      },
+      {
+        "l2": 224000008,
+        "size_in_agenda": 8,
+        "l2_total_size": 66
+      },
+      {
+        "l2": 224000007,
+        "size_in_agenda": 7,
+        "l2_total_size": 67
+      },
+      {
+        "l2": 224000005,
+        "size_in_agenda": 6,
+        "l2_total_size": 110
+      },
+      {
+        "l2": 224000018,
+        "size_in_agenda": 6,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 224000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 361
+      },
+      {
+        "l2": 162000020,
+        "size_in_agenda": 5,
+        "l2_total_size": 62
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 14,
+    "agenda": "Photothermal Nanomaterials & PDT-PTT Combination Therapy",
+    "agenda_full": "Photothermal Nanomaterials & PDT-PTT Combination Therapy",
+    "total_papers_found": 4632,
+    "community_count": 182,
+    "n_in_hier": 182,
+    "n_not_in_hier": 0,
+    "unique_l1": 12,
+    "unique_l2": 72,
+    "top1_l1_size_in_agenda": 157,
+    "top1_l1_share": 0.863,
+    "top3_l1_share": 0.94,
+    "top1_l2_size_in_agenda": 28,
+    "top1_l2_share": 0.154,
+    "top3_l2_share": 0.341,
+    "top_l1": [
+      {
+        "l1": 60,
+        "size_in_agenda": 157,
+        "l1_total_size": 8461
+      },
+      {
+        "l1": 76,
+        "size_in_agenda": 11,
+        "l1_total_size": 7880
+      },
+      {
+        "l1": 236,
+        "size_in_agenda": 3,
+        "l1_total_size": 3727
+      },
+      {
+        "l1": 17,
+        "size_in_agenda": 2,
+        "l1_total_size": 15035
+      },
+      {
+        "l1": 451,
+        "size_in_agenda": 2,
+        "l1_total_size": 1973
+      },
+      {
+        "l1": 35,
+        "size_in_agenda": 1,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 742,
+        "size_in_agenda": 1,
+        "l1_total_size": 1095
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 1,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 41,
+        "size_in_agenda": 1,
+        "l1_total_size": 9811
+      },
+      {
+        "l1": 547,
+        "size_in_agenda": 1,
+        "l1_total_size": 1582
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 60000002,
+        "size_in_agenda": 28,
+        "l2_total_size": 241
+      },
+      {
+        "l2": 60000003,
+        "size_in_agenda": 18,
+        "l2_total_size": 231
+      },
+      {
+        "l2": 60000000,
+        "size_in_agenda": 16,
+        "l2_total_size": 279
+      },
+      {
+        "l2": 60000006,
+        "size_in_agenda": 8,
+        "l2_total_size": 129
+      },
+      {
+        "l2": 76000001,
+        "size_in_agenda": 8,
+        "l2_total_size": 497
+      },
+      {
+        "l2": 60000012,
+        "size_in_agenda": 7,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 60000010,
+        "size_in_agenda": 6,
+        "l2_total_size": 99
+      },
+      {
+        "l2": 60000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 250
+      },
+      {
+        "l2": 60000007,
+        "size_in_agenda": 5,
+        "l2_total_size": 116
+      },
+      {
+        "l2": 60000014,
+        "size_in_agenda": 3,
+        "l2_total_size": 93
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 2,
+    "agenda": "Wearable & Flexible Sensors (Sweat / Pressure / Pulse Wave)",
+    "agenda_full": "Wearable & Flexible Sensors (Sweat / Pressure / Pulse Wave)",
+    "total_papers_found": 40593,
+    "community_count": 178,
+    "n_in_hier": 178,
+    "n_not_in_hier": 0,
+    "unique_l1": 5,
+    "unique_l2": 21,
+    "top1_l1_size_in_agenda": 165,
+    "top1_l1_share": 0.927,
+    "top3_l1_share": 0.989,
+    "top1_l2_size_in_agenda": 129,
+    "top1_l2_share": 0.725,
+    "top3_l2_share": 0.826,
+    "top_l1": [
+      {
+        "l1": 50,
+        "size_in_agenda": 165,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 131,
+        "size_in_agenda": 10,
+        "l1_total_size": 5396
+      },
+      {
+        "l1": 352,
+        "size_in_agenda": 1,
+        "l1_total_size": 2577
+      },
+      {
+        "l1": 906,
+        "size_in_agenda": 1,
+        "l1_total_size": 787
+      },
+      {
+        "l1": 105,
+        "size_in_agenda": 1,
+        "l1_total_size": 6521
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 50000000,
+        "size_in_agenda": 129,
+        "l2_total_size": 648
+      },
+      {
+        "l2": 50000006,
+        "size_in_agenda": 12,
+        "l2_total_size": 201
+      },
+      {
+        "l2": 131000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 758
+      },
+      {
+        "l2": 50000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 131000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 354
+      },
+      {
+        "l2": 50000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 413
+      },
+      {
+        "l2": 50000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 517
+      },
+      {
+        "l2": 50000024,
+        "size_in_agenda": 3,
+        "l2_total_size": 51
+      },
+      {
+        "l2": 352000000,
+        "size_in_agenda": 1,
+        "l2_total_size": 402
+      },
+      {
+        "l2": 50000126,
+        "size_in_agenda": 1,
+        "l2_total_size": 16
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 7,
+    "agenda": "MOF-based Porous / 2D Materials & Enzyme Biocomposites",
+    "agenda_full": "MOF-based Porous / 2D Materials & Enzyme Biocomposites",
+    "total_papers_found": 6065,
+    "community_count": 165,
+    "n_in_hier": 165,
+    "n_not_in_hier": 0,
+    "unique_l1": 19,
+    "unique_l2": 62,
+    "top1_l1_size_in_agenda": 91,
+    "top1_l1_share": 0.552,
+    "top3_l1_share": 0.806,
+    "top1_l2_size_in_agenda": 77,
+    "top1_l2_share": 0.467,
+    "top3_l2_share": 0.545,
+    "top_l1": [
+      {
+        "l1": 35,
+        "size_in_agenda": 91,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 346,
+        "size_in_agenda": 29,
+        "l1_total_size": 2623
+      },
+      {
+        "l1": 326,
+        "size_in_agenda": 13,
+        "l1_total_size": 2772
+      },
+      {
+        "l1": 97,
+        "size_in_agenda": 7,
+        "l1_total_size": 6831
+      },
+      {
+        "l1": 1067,
+        "size_in_agenda": 5,
+        "l1_total_size": 597
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 3,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 60,
+        "size_in_agenda": 3,
+        "l1_total_size": 8461
+      },
+      {
+        "l1": 846,
+        "size_in_agenda": 2,
+        "l1_total_size": 882
+      },
+      {
+        "l1": 959,
+        "size_in_agenda": 2,
+        "l1_total_size": 718
+      },
+      {
+        "l1": 43,
+        "size_in_agenda": 1,
+        "l1_total_size": 9786
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 35000010,
+        "size_in_agenda": 77,
+        "l2_total_size": 193
+      },
+      {
+        "l2": 346000000,
+        "size_in_agenda": 7,
+        "l2_total_size": 296
+      },
+      {
+        "l2": 346000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 131
+      },
+      {
+        "l2": 346000013,
+        "size_in_agenda": 4,
+        "l2_total_size": 35
+      },
+      {
+        "l2": 326000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 158
+      },
+      {
+        "l2": 7000139,
+        "size_in_agenda": 3,
+        "l2_total_size": 29
+      },
+      {
+        "l2": 1067000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 114
+      },
+      {
+        "l2": 97000034,
+        "size_in_agenda": 2,
+        "l2_total_size": 52
+      },
+      {
+        "l2": 35000239,
+        "size_in_agenda": 2,
+        "l2_total_size": 8
+      },
+      {
+        "l2": 35000011,
+        "size_in_agenda": 2,
+        "l2_total_size": 173
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 20,
+    "agenda": "Nanoparticle Endocytosis & Targeting Strategies in Nanomedicine",
+    "agenda_full": "Nanoparticle Endocytosis & Targeting Strategies in Nanomedicine",
+    "total_papers_found": 14390,
+    "community_count": 160,
+    "n_in_hier": 160,
+    "n_not_in_hier": 0,
+    "unique_l1": 22,
+    "unique_l2": 98,
+    "top1_l1_size_in_agenda": 61,
+    "top1_l1_share": 0.381,
+    "top3_l1_share": 0.75,
+    "top1_l2_size_in_agenda": 25,
+    "top1_l2_share": 0.156,
+    "top3_l2_share": 0.231,
+    "top_l1": [
+      {
+        "l1": 175,
+        "size_in_agenda": 61,
+        "l1_total_size": 4692
+      },
+      {
+        "l1": 547,
+        "size_in_agenda": 33,
+        "l1_total_size": 1582
+      },
+      {
+        "l1": 60,
+        "size_in_agenda": 26,
+        "l1_total_size": 8461
+      },
+      {
+        "l1": 35,
+        "size_in_agenda": 6,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 211,
+        "size_in_agenda": 6,
+        "l1_total_size": 3989
+      },
+      {
+        "l1": 543,
+        "size_in_agenda": 5,
+        "l1_total_size": 1596
+      },
+      {
+        "l1": 328,
+        "size_in_agenda": 4,
+        "l1_total_size": 2750
+      },
+      {
+        "l1": 925,
+        "size_in_agenda": 3,
+        "l1_total_size": 763
+      },
+      {
+        "l1": 451,
+        "size_in_agenda": 3,
+        "l1_total_size": 1973
+      },
+      {
+        "l1": 959,
+        "size_in_agenda": 1,
+        "l1_total_size": 718
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 547000000,
+        "size_in_agenda": 25,
+        "l2_total_size": 204
+      },
+      {
+        "l2": 175000008,
+        "size_in_agenda": 6,
+        "l2_total_size": 54
+      },
+      {
+        "l2": 35000011,
+        "size_in_agenda": 6,
+        "l2_total_size": 173
+      },
+      {
+        "l2": 175000045,
+        "size_in_agenda": 4,
+        "l2_total_size": 27
+      },
+      {
+        "l2": 175000018,
+        "size_in_agenda": 4,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 175000014,
+        "size_in_agenda": 4,
+        "l2_total_size": 44
+      },
+      {
+        "l2": 60000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 164
+      },
+      {
+        "l2": 175000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 72
+      },
+      {
+        "l2": 547000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 62
+      },
+      {
+        "l2": 60000019,
+        "size_in_agenda": 2,
+        "l2_total_size": 72
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 22,
+    "agenda": "Triboelectric Nanogenerators for Energy Harvesting",
+    "agenda_full": "Triboelectric Nanogenerators for Energy Harvesting",
+    "total_papers_found": 15936,
+    "community_count": 159,
+    "n_in_hier": 159,
+    "n_not_in_hier": 0,
+    "unique_l1": 4,
+    "unique_l2": 10,
+    "top1_l1_size_in_agenda": 152,
+    "top1_l1_share": 0.956,
+    "top3_l1_share": 0.994,
+    "top1_l2_size_in_agenda": 133,
+    "top1_l2_share": 0.836,
+    "top3_l2_share": 0.937,
+    "top_l1": [
+      {
+        "l1": 131,
+        "size_in_agenda": 152,
+        "l1_total_size": 5396
+      },
+      {
+        "l1": 460,
+        "size_in_agenda": 4,
+        "l1_total_size": 1929
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 2,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 75,
+        "size_in_agenda": 1,
+        "l1_total_size": 7894
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 131000000,
+        "size_in_agenda": 133,
+        "l2_total_size": 758
+      },
+      {
+        "l2": 131000003,
+        "size_in_agenda": 11,
+        "l2_total_size": 220
+      },
+      {
+        "l2": 131000002,
+        "size_in_agenda": 5,
+        "l2_total_size": 354
+      },
+      {
+        "l2": 460000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 375
+      },
+      {
+        "l2": 50000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 131000014,
+        "size_in_agenda": 1,
+        "l2_total_size": 57
+      },
+      {
+        "l2": 75000019,
+        "size_in_agenda": 1,
+        "l2_total_size": 90
+      },
+      {
+        "l2": 131000011,
+        "size_in_agenda": 1,
+        "l2_total_size": 67
+      },
+      {
+        "l2": 460000011,
+        "size_in_agenda": 1,
+        "l2_total_size": 33
+      },
+      {
+        "l2": 131000049,
+        "size_in_agenda": 1,
+        "l2_total_size": 18
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 11,
+    "agenda": "Covalent Organic Frameworks (COFs) for Electrochemical Applications",
+    "agenda_full": "Covalent Organic Frameworks (COFs) for Electrochemical Applications",
+    "total_papers_found": 5278,
+    "community_count": 140,
+    "n_in_hier": 140,
+    "n_not_in_hier": 0,
+    "unique_l1": 7,
+    "unique_l2": 48,
+    "top1_l1_size_in_agenda": 77,
+    "top1_l1_share": 0.55,
+    "top3_l1_share": 0.893,
+    "top1_l2_size_in_agenda": 53,
+    "top1_l2_share": 0.379,
+    "top3_l2_share": 0.507,
+    "top_l1": [
+      {
+        "l1": 35,
+        "size_in_agenda": 77,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 59,
+        "size_in_agenda": 30,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 18,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 30,
+        "size_in_agenda": 8,
+        "l1_total_size": 11675
+      },
+      {
+        "l1": 97,
+        "size_in_agenda": 3,
+        "l1_total_size": 6831
+      },
+      {
+        "l1": 250,
+        "size_in_agenda": 3,
+        "l1_total_size": 3510
+      },
+      {
+        "l1": 52,
+        "size_in_agenda": 1,
+        "l1_total_size": 8696
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 35000000,
+        "size_in_agenda": 53,
+        "l2_total_size": 557
+      },
+      {
+        "l2": 11000009,
+        "size_in_agenda": 9,
+        "l2_total_size": 290
+      },
+      {
+        "l2": 59000041,
+        "size_in_agenda": 9,
+        "l2_total_size": 32
+      },
+      {
+        "l2": 59000000,
+        "size_in_agenda": 7,
+        "l2_total_size": 1016
+      },
+      {
+        "l2": 59000002,
+        "size_in_agenda": 5,
+        "l2_total_size": 514
+      },
+      {
+        "l2": 35000009,
+        "size_in_agenda": 3,
+        "l2_total_size": 199
+      },
+      {
+        "l2": 35000194,
+        "size_in_agenda": 3,
+        "l2_total_size": 14
+      },
+      {
+        "l2": 35000041,
+        "size_in_agenda": 3,
+        "l2_total_size": 52
+      },
+      {
+        "l2": 35000287,
+        "size_in_agenda": 2,
+        "l2_total_size": 4
+      },
+      {
+        "l2": 11000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 556
+      }
+    ]
+  },
+  {
+    "category": "chemistry",
+    "no": 10,
+    "agenda": "Electrocatalysis for Organic Synthesis & Nitrogen Cycle",
+    "agenda_full": "Electrocatalysis for Organic Synthesis & Nitrogen Cycle",
+    "total_papers_found": 5053,
+    "community_count": 136,
+    "n_in_hier": 136,
+    "n_not_in_hier": 0,
+    "unique_l1": 9,
+    "unique_l2": 68,
+    "top1_l1_size_in_agenda": 65,
+    "top1_l1_share": 0.478,
+    "top3_l1_share": 0.765,
+    "top1_l2_size_in_agenda": 20,
+    "top1_l2_share": 0.147,
+    "top3_l2_share": 0.25,
+    "top_l1": [
+      {
+        "l1": 30,
+        "size_in_agenda": 65,
+        "l1_total_size": 11675
+      },
+      {
+        "l1": 35,
+        "size_in_agenda": 20,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 335,
+        "size_in_agenda": 19,
+        "l1_total_size": 2708
+      },
+      {
+        "l1": 364,
+        "size_in_agenda": 12,
+        "l1_total_size": 2488
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 8,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 281,
+        "size_in_agenda": 6,
+        "l1_total_size": 3230
+      },
+      {
+        "l1": 195,
+        "size_in_agenda": 3,
+        "l1_total_size": 4331
+      },
+      {
+        "l1": 42,
+        "size_in_agenda": 2,
+        "l1_total_size": 9789
+      },
+      {
+        "l1": 129,
+        "size_in_agenda": 1,
+        "l1_total_size": 5501
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 30000016,
+        "size_in_agenda": 20,
+        "l2_total_size": 130
+      },
+      {
+        "l2": 364000000,
+        "size_in_agenda": 8,
+        "l2_total_size": 468
+      },
+      {
+        "l2": 35000018,
+        "size_in_agenda": 6,
+        "l2_total_size": 125
+      },
+      {
+        "l2": 335000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 213
+      },
+      {
+        "l2": 335000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 713
+      },
+      {
+        "l2": 7000036,
+        "size_in_agenda": 5,
+        "l2_total_size": 77
+      },
+      {
+        "l2": 35000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 557
+      },
+      {
+        "l2": 35000007,
+        "size_in_agenda": 3,
+        "l2_total_size": 204
+      },
+      {
+        "l2": 30000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 481
+      },
+      {
+        "l2": 364000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 354
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 16,
+    "agenda": "Self-Supervised / Contrastive Representation Learning",
+    "agenda_full": "Self-Supervised / Contrastive Representation Learning",
+    "total_papers_found": 110303,
+    "community_count": 285,
+    "n_in_hier": 285,
+    "n_not_in_hier": 0,
+    "unique_l1": 18,
+    "unique_l2": 83,
+    "top1_l1_size_in_agenda": 157,
+    "top1_l1_share": 0.551,
+    "top3_l1_share": 0.768,
+    "top1_l2_size_in_agenda": 51,
+    "top1_l2_share": 0.179,
+    "top3_l2_share": 0.337,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 157,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 36,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 26,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 25,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 8,
+        "size_in_agenda": 11,
+        "l1_total_size": 17160
+      },
+      {
+        "l1": 56,
+        "size_in_agenda": 9,
+        "l1_total_size": 8644
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 4,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 3,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 243,
+        "size_in_agenda": 3,
+        "l1_total_size": 3605
+      },
+      {
+        "l1": 229,
+        "size_in_agenda": 3,
+        "l1_total_size": 3762
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000000,
+        "size_in_agenda": 51,
+        "l2_total_size": 1032
+      },
+      {
+        "l2": 3000019,
+        "size_in_agenda": 32,
+        "l2_total_size": 340
+      },
+      {
+        "l2": 15000006,
+        "size_in_agenda": 13,
+        "l2_total_size": 473
+      },
+      {
+        "l2": 3000004,
+        "size_in_agenda": 12,
+        "l2_total_size": 666
+      },
+      {
+        "l2": 372000002,
+        "size_in_agenda": 10,
+        "l2_total_size": 258
+      },
+      {
+        "l2": 39000000,
+        "size_in_agenda": 9,
+        "l2_total_size": 717
+      },
+      {
+        "l2": 372000000,
+        "size_in_agenda": 9,
+        "l2_total_size": 280
+      },
+      {
+        "l2": 39000010,
+        "size_in_agenda": 8,
+        "l2_total_size": 191
+      },
+      {
+        "l2": 3000011,
+        "size_in_agenda": 8,
+        "l2_total_size": 473
+      },
+      {
+        "l2": 3000003,
+        "size_in_agenda": 8,
+        "l2_total_size": 831
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 13,
+    "agenda": "Transformer Architecture Innovations (Efficient / Hierarchical / MLP-based)",
+    "agenda_full": "Transformer Architecture Innovations (Efficient / Hierarchical / MLP-based)",
+    "total_papers_found": 48724,
+    "community_count": 265,
+    "n_in_hier": 265,
+    "n_not_in_hier": 0,
+    "unique_l1": 24,
+    "unique_l2": 97,
+    "top1_l1_size_in_agenda": 123,
+    "top1_l1_share": 0.464,
+    "top3_l1_share": 0.849,
+    "top1_l2_size_in_agenda": 28,
+    "top1_l2_share": 0.106,
+    "top3_l2_share": 0.264,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 123,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 73,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 29,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 5,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 218,
+        "size_in_agenda": 3,
+        "l1_total_size": 3894
+      },
+      {
+        "l1": 639,
+        "size_in_agenda": 3,
+        "l1_total_size": 1326
+      },
+      {
+        "l1": 126,
+        "size_in_agenda": 3,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 298,
+        "size_in_agenda": 3,
+        "l1_total_size": 3041
+      },
+      {
+        "l1": 333,
+        "size_in_agenda": 3,
+        "l1_total_size": 2715
+      },
+      {
+        "l1": 112,
+        "size_in_agenda": 3,
+        "l1_total_size": 6281
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000008,
+        "size_in_agenda": 28,
+        "l2_total_size": 517
+      },
+      {
+        "l2": 47000004,
+        "size_in_agenda": 26,
+        "l2_total_size": 507
+      },
+      {
+        "l2": 15000001,
+        "size_in_agenda": 16,
+        "l2_total_size": 691
+      },
+      {
+        "l2": 47000000,
+        "size_in_agenda": 15,
+        "l2_total_size": 846
+      },
+      {
+        "l2": 3000006,
+        "size_in_agenda": 10,
+        "l2_total_size": 599
+      },
+      {
+        "l2": 3000001,
+        "size_in_agenda": 10,
+        "l2_total_size": 952
+      },
+      {
+        "l2": 3000002,
+        "size_in_agenda": 10,
+        "l2_total_size": 844
+      },
+      {
+        "l2": 3000017,
+        "size_in_agenda": 9,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 3000005,
+        "size_in_agenda": 8,
+        "l2_total_size": 653
+      },
+      {
+        "l2": 47000001,
+        "size_in_agenda": 8,
+        "l2_total_size": 716
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 15,
+    "agenda": "Semantic Segmentation with Transformers",
+    "agenda_full": "Semantic Segmentation with Transformers",
+    "total_papers_found": 11648,
+    "community_count": 256,
+    "n_in_hier": 255,
+    "n_not_in_hier": 1,
+    "unique_l1": 15,
+    "unique_l2": 71,
+    "top1_l1_size_in_agenda": 202,
+    "top1_l1_share": 0.792,
+    "top3_l1_share": 0.906,
+    "top1_l2_size_in_agenda": 48,
+    "top1_l2_share": 0.188,
+    "top3_l2_share": 0.384,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 202,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 22,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 33,
+        "size_in_agenda": 7,
+        "l1_total_size": 11065
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 6,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 229,
+        "size_in_agenda": 6,
+        "l1_total_size": 3762
+      },
+      {
+        "l1": 639,
+        "size_in_agenda": 3,
+        "l1_total_size": 1326
+      },
+      {
+        "l1": 12,
+        "size_in_agenda": 1,
+        "l1_total_size": 16393
+      },
+      {
+        "l1": 54769,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      },
+      {
+        "l1": 112,
+        "size_in_agenda": 1,
+        "l1_total_size": 6281
+      },
+      {
+        "l1": 333,
+        "size_in_agenda": 1,
+        "l1_total_size": 2715
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000008,
+        "size_in_agenda": 48,
+        "l2_total_size": 517
+      },
+      {
+        "l2": 3000005,
+        "size_in_agenda": 33,
+        "l2_total_size": 653
+      },
+      {
+        "l2": 15000001,
+        "size_in_agenda": 17,
+        "l2_total_size": 691
+      },
+      {
+        "l2": 3000015,
+        "size_in_agenda": 15,
+        "l2_total_size": 363
+      },
+      {
+        "l2": 3000017,
+        "size_in_agenda": 10,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 3000002,
+        "size_in_agenda": 7,
+        "l2_total_size": 844
+      },
+      {
+        "l2": 3000033,
+        "size_in_agenda": 7,
+        "l2_total_size": 199
+      },
+      {
+        "l2": 3000048,
+        "size_in_agenda": 6,
+        "l2_total_size": 155
+      },
+      {
+        "l2": 3000020,
+        "size_in_agenda": 5,
+        "l2_total_size": 317
+      },
+      {
+        "l2": 229000003,
+        "size_in_agenda": 5,
+        "l2_total_size": 181
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 23,
+    "agenda": "Neural Implicit Surfaces & 3D Reconstruction",
+    "agenda_full": "Neural Implicit Surfaces & 3D Reconstruction",
+    "total_papers_found": 6100,
+    "community_count": 255,
+    "n_in_hier": 244,
+    "n_not_in_hier": 11,
+    "unique_l1": 8,
+    "unique_l2": 37,
+    "top1_l1_size_in_agenda": 234,
+    "top1_l1_share": 0.959,
+    "top3_l1_share": 0.98,
+    "top1_l2_size_in_agenda": 128,
+    "top1_l2_share": 0.525,
+    "top3_l2_share": 0.693,
+    "top_l1": [
+      {
+        "l1": 15,
+        "size_in_agenda": 234,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 3,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 18823,
+        "size_in_agenda": 2,
+        "l1_total_size": 2
+      },
+      {
+        "l1": 46152,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      },
+      {
+        "l1": 893,
+        "size_in_agenda": 1,
+        "l1_total_size": 813
+      },
+      {
+        "l1": 42536,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      },
+      {
+        "l1": 396,
+        "size_in_agenda": 1,
+        "l1_total_size": 2262
+      },
+      {
+        "l1": 32299,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 15000000,
+        "size_in_agenda": 128,
+        "l2_total_size": 726
+      },
+      {
+        "l2": 15000008,
+        "size_in_agenda": 28,
+        "l2_total_size": 405
+      },
+      {
+        "l2": 15000026,
+        "size_in_agenda": 13,
+        "l2_total_size": 158
+      },
+      {
+        "l2": 15000002,
+        "size_in_agenda": 12,
+        "l2_total_size": 664
+      },
+      {
+        "l2": 15000004,
+        "size_in_agenda": 12,
+        "l2_total_size": 567
+      },
+      {
+        "l2": 15000016,
+        "size_in_agenda": 6,
+        "l2_total_size": 233
+      },
+      {
+        "l2": 15000040,
+        "size_in_agenda": 5,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 15000047,
+        "size_in_agenda": 3,
+        "l2_total_size": 72
+      },
+      {
+        "l2": 15000021,
+        "size_in_agenda": 3,
+        "l2_total_size": 205
+      },
+      {
+        "l2": 15000087,
+        "size_in_agenda": 3,
+        "l2_total_size": 28
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 21,
+    "agenda": "Video Understanding with Transformers",
+    "agenda_full": "Video Understanding with Transformers",
+    "total_papers_found": 18922,
+    "community_count": 232,
+    "n_in_hier": 231,
+    "n_not_in_hier": 1,
+    "unique_l1": 16,
+    "unique_l2": 79,
+    "top1_l1_size_in_agenda": 139,
+    "top1_l1_share": 0.602,
+    "top3_l1_share": 0.745,
+    "top1_l2_size_in_agenda": 47,
+    "top1_l2_share": 0.203,
+    "top3_l2_share": 0.299,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 139,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 19,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 14,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 11,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 333,
+        "size_in_agenda": 8,
+        "l1_total_size": 2715
+      },
+      {
+        "l1": 8,
+        "size_in_agenda": 7,
+        "l1_total_size": 17160
+      },
+      {
+        "l1": 229,
+        "size_in_agenda": 7,
+        "l1_total_size": 3762
+      },
+      {
+        "l1": 56,
+        "size_in_agenda": 5,
+        "l1_total_size": 8644
+      },
+      {
+        "l1": 242,
+        "size_in_agenda": 5,
+        "l1_total_size": 3607
+      },
+      {
+        "l1": 668,
+        "size_in_agenda": 4,
+        "l1_total_size": 1262
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000004,
+        "size_in_agenda": 47,
+        "l2_total_size": 666
+      },
+      {
+        "l2": 372000000,
+        "size_in_agenda": 11,
+        "l2_total_size": 280
+      },
+      {
+        "l2": 3000007,
+        "size_in_agenda": 11,
+        "l2_total_size": 543
+      },
+      {
+        "l2": 3000034,
+        "size_in_agenda": 9,
+        "l2_total_size": 197
+      },
+      {
+        "l2": 8000010,
+        "size_in_agenda": 7,
+        "l2_total_size": 272
+      },
+      {
+        "l2": 15000013,
+        "size_in_agenda": 7,
+        "l2_total_size": 279
+      },
+      {
+        "l2": 15000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 664
+      },
+      {
+        "l2": 3000010,
+        "size_in_agenda": 6,
+        "l2_total_size": 481
+      },
+      {
+        "l2": 3000036,
+        "size_in_agenda": 6,
+        "l2_total_size": 195
+      },
+      {
+        "l2": 3000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 1032
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 17,
+    "agenda": "Graph Neural Networks & Graph Transformers",
+    "agenda_full": "Graph Neural Networks & Graph Transformers",
+    "total_papers_found": 443327,
+    "community_count": 231,
+    "n_in_hier": 231,
+    "n_not_in_hier": 0,
+    "unique_l1": 24,
+    "unique_l2": 72,
+    "top1_l1_size_in_agenda": 120,
+    "top1_l1_share": 0.519,
+    "top3_l1_share": 0.779,
+    "top1_l2_size_in_agenda": 24,
+    "top1_l2_share": 0.104,
+    "top3_l2_share": 0.238,
+    "top_l1": [
+      {
+        "l1": 39,
+        "size_in_agenda": 120,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 30,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 8,
+        "size_in_agenda": 30,
+        "l1_total_size": 17160
+      },
+      {
+        "l1": 218,
+        "size_in_agenda": 16,
+        "l1_total_size": 3894
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 5,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 229,
+        "size_in_agenda": 5,
+        "l1_total_size": 3762
+      },
+      {
+        "l1": 241,
+        "size_in_agenda": 3,
+        "l1_total_size": 3641
+      },
+      {
+        "l1": 273,
+        "size_in_agenda": 2,
+        "l1_total_size": 3290
+      },
+      {
+        "l1": 512,
+        "size_in_agenda": 2,
+        "l1_total_size": 1745
+      },
+      {
+        "l1": 352,
+        "size_in_agenda": 2,
+        "l1_total_size": 2577
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 39000000,
+        "size_in_agenda": 24,
+        "l2_total_size": 717
+      },
+      {
+        "l2": 8000000,
+        "size_in_agenda": 16,
+        "l2_total_size": 582
+      },
+      {
+        "l2": 39000004,
+        "size_in_agenda": 15,
+        "l2_total_size": 272
+      },
+      {
+        "l2": 3000011,
+        "size_in_agenda": 15,
+        "l2_total_size": 473
+      },
+      {
+        "l2": 218000000,
+        "size_in_agenda": 15,
+        "l2_total_size": 661
+      },
+      {
+        "l2": 39000001,
+        "size_in_agenda": 15,
+        "l2_total_size": 450
+      },
+      {
+        "l2": 39000011,
+        "size_in_agenda": 9,
+        "l2_total_size": 178
+      },
+      {
+        "l2": 3000004,
+        "size_in_agenda": 8,
+        "l2_total_size": 666
+      },
+      {
+        "l2": 39000010,
+        "size_in_agenda": 8,
+        "l2_total_size": 191
+      },
+      {
+        "l2": 39000009,
+        "size_in_agenda": 7,
+        "l2_total_size": 206
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 14,
+    "agenda": "Few-Shot Visual Language Models",
+    "agenda_full": "Few-Shot Visual Language Models",
+    "total_papers_found": 4724,
+    "community_count": 226,
+    "n_in_hier": 210,
+    "n_not_in_hier": 16,
+    "unique_l1": 28,
+    "unique_l2": 80,
+    "top1_l1_size_in_agenda": 166,
+    "top1_l1_share": 0.79,
+    "top3_l1_share": 0.843,
+    "top1_l2_size_in_agenda": 25,
+    "top1_l2_share": 0.119,
+    "top3_l2_share": 0.31,
+    "top_l1": [
+      {
+        "l1": 3,
+        "size_in_agenda": 166,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 7,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 4,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 8,
+        "size_in_agenda": 4,
+        "l1_total_size": 17160
+      },
+      {
+        "l1": 333,
+        "size_in_agenda": 2,
+        "l1_total_size": 2715
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 2,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 527,
+        "size_in_agenda": 2,
+        "l1_total_size": 1686
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 2,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 92,
+        "size_in_agenda": 2,
+        "l1_total_size": 7106
+      },
+      {
+        "l1": 36344,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 3000010,
+        "size_in_agenda": 25,
+        "l2_total_size": 481
+      },
+      {
+        "l2": 3000050,
+        "size_in_agenda": 22,
+        "l2_total_size": 150
+      },
+      {
+        "l2": 3000062,
+        "size_in_agenda": 18,
+        "l2_total_size": 104
+      },
+      {
+        "l2": 3000041,
+        "size_in_agenda": 11,
+        "l2_total_size": 173
+      },
+      {
+        "l2": 3000007,
+        "size_in_agenda": 11,
+        "l2_total_size": 543
+      },
+      {
+        "l2": 3000043,
+        "size_in_agenda": 10,
+        "l2_total_size": 165
+      },
+      {
+        "l2": 3000058,
+        "size_in_agenda": 8,
+        "l2_total_size": 117
+      },
+      {
+        "l2": 3000014,
+        "size_in_agenda": 7,
+        "l2_total_size": 382
+      },
+      {
+        "l2": 3000012,
+        "size_in_agenda": 6,
+        "l2_total_size": 418
+      },
+      {
+        "l2": 372000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 258
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 22,
+    "agenda": "Time Series Forecasting with Transformers",
+    "agenda_full": "Time Series Forecasting with Transformers",
+    "total_papers_found": 8377,
+    "community_count": 200,
+    "n_in_hier": 199,
+    "n_not_in_hier": 1,
+    "unique_l1": 33,
+    "unique_l2": 82,
+    "top1_l1_size_in_agenda": 90,
+    "top1_l1_share": 0.452,
+    "top3_l1_share": 0.618,
+    "top1_l2_size_in_agenda": 52,
+    "top1_l2_share": 0.261,
+    "top3_l2_share": 0.407,
+    "top_l1": [
+      {
+        "l1": 218,
+        "size_in_agenda": 90,
+        "l1_total_size": 3894
+      },
+      {
+        "l1": 243,
+        "size_in_agenda": 20,
+        "l1_total_size": 3605
+      },
+      {
+        "l1": 494,
+        "size_in_agenda": 13,
+        "l1_total_size": 1786
+      },
+      {
+        "l1": 430,
+        "size_in_agenda": 11,
+        "l1_total_size": 2060
+      },
+      {
+        "l1": 126,
+        "size_in_agenda": 11,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 5,
+        "size_in_agenda": 6,
+        "l1_total_size": 21776
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 5,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 373,
+        "size_in_agenda": 4,
+        "l1_total_size": 2403
+      },
+      {
+        "l1": 54,
+        "size_in_agenda": 4,
+        "l1_total_size": 8691
+      },
+      {
+        "l1": 38,
+        "size_in_agenda": 3,
+        "l1_total_size": 10025
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 218000000,
+        "size_in_agenda": 52,
+        "l2_total_size": 661
+      },
+      {
+        "l2": 243000000,
+        "size_in_agenda": 19,
+        "l2_total_size": 351
+      },
+      {
+        "l2": 126000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 400
+      },
+      {
+        "l2": 218000013,
+        "size_in_agenda": 6,
+        "l2_total_size": 55
+      },
+      {
+        "l2": 218000010,
+        "size_in_agenda": 6,
+        "l2_total_size": 68
+      },
+      {
+        "l2": 5000024,
+        "size_in_agenda": 5,
+        "l2_total_size": 205
+      },
+      {
+        "l2": 218000018,
+        "size_in_agenda": 4,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 39000003,
+        "size_in_agenda": 3,
+        "l2_total_size": 332
+      },
+      {
+        "l2": 218000006,
+        "size_in_agenda": 3,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 373000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 249
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 5,
+    "agenda": "LLM Preference Optimization & Reward Modeling",
+    "agenda_full": "LLM Preference Optimization & Reward Modeling",
+    "total_papers_found": 12671,
+    "community_count": 147,
+    "n_in_hier": 95,
+    "n_not_in_hier": 52,
+    "unique_l1": 42,
+    "unique_l2": 74,
+    "top1_l1_size_in_agenda": 18,
+    "top1_l1_share": 0.189,
+    "top3_l1_share": 0.432,
+    "top1_l2_size_in_agenda": 10,
+    "top1_l2_share": 0.105,
+    "top3_l2_share": 0.2,
+    "top_l1": [
+      {
+        "l1": 8,
+        "size_in_agenda": 18,
+        "l1_total_size": 17160
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 17,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 184,
+        "size_in_agenda": 6,
+        "l1_total_size": 4523
+      },
+      {
+        "l1": 939,
+        "size_in_agenda": 4,
+        "l1_total_size": 741
+      },
+      {
+        "l1": 53,
+        "size_in_agenda": 4,
+        "l1_total_size": 8694
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 3,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 15,
+        "size_in_agenda": 3,
+        "l1_total_size": 15581
+      },
+      {
+        "l1": 72,
+        "size_in_agenda": 2,
+        "l1_total_size": 7972
+      },
+      {
+        "l1": 243,
+        "size_in_agenda": 2,
+        "l1_total_size": 3605
+      },
+      {
+        "l1": 9841,
+        "size_in_agenda": 2,
+        "l1_total_size": 2
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 39000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 717
+      },
+      {
+        "l2": 8000063,
+        "size_in_agenda": 6,
+        "l2_total_size": 72
+      },
+      {
+        "l2": 8000029,
+        "size_in_agenda": 3,
+        "l2_total_size": 132
+      },
+      {
+        "l2": 3000058,
+        "size_in_agenda": 2,
+        "l2_total_size": 117
+      },
+      {
+        "l2": 184000073,
+        "size_in_agenda": 2,
+        "l2_total_size": 9
+      },
+      {
+        "l2": 9841000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 2
+      },
+      {
+        "l2": 184000005,
+        "size_in_agenda": 2,
+        "l2_total_size": 149
+      },
+      {
+        "l2": 53000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 320
+      },
+      {
+        "l2": 761000028,
+        "size_in_agenda": 1,
+        "l2_total_size": 12
+      },
+      {
+        "l2": 17433000000,
+        "size_in_agenda": 1,
+        "l2_total_size": 2
+      }
+    ]
+  },
+  {
+    "category": "cs",
+    "no": 19,
+    "agenda": "Multi-Agent & Cooperative Reinforcement Learning",
+    "agenda_full": "Multi-Agent & Cooperative Reinforcement Learning",
+    "total_papers_found": 7977,
+    "community_count": 144,
+    "n_in_hier": 141,
+    "n_not_in_hier": 3,
+    "unique_l1": 24,
+    "unique_l2": 68,
+    "top1_l1_size_in_agenda": 60,
+    "top1_l1_share": 0.426,
+    "top3_l1_share": 0.702,
+    "top1_l2_size_in_agenda": 36,
+    "top1_l2_share": 0.255,
+    "top3_l2_share": 0.426,
+    "top_l1": [
+      {
+        "l1": 386,
+        "size_in_agenda": 60,
+        "l1_total_size": 2332
+      },
+      {
+        "l1": 152,
+        "size_in_agenda": 24,
+        "l1_total_size": 4994
+      },
+      {
+        "l1": 72,
+        "size_in_agenda": 15,
+        "l1_total_size": 7972
+      },
+      {
+        "l1": 260,
+        "size_in_agenda": 12,
+        "l1_total_size": 3368
+      },
+      {
+        "l1": 12,
+        "size_in_agenda": 6,
+        "l1_total_size": 16393
+      },
+      {
+        "l1": 295,
+        "size_in_agenda": 3,
+        "l1_total_size": 3089
+      },
+      {
+        "l1": 147,
+        "size_in_agenda": 2,
+        "l1_total_size": 5155
+      },
+      {
+        "l1": 62,
+        "size_in_agenda": 2,
+        "l1_total_size": 8275
+      },
+      {
+        "l1": 351,
+        "size_in_agenda": 2,
+        "l1_total_size": 2581
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 1,
+        "l1_total_size": 29814
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 386000001,
+        "size_in_agenda": 36,
+        "l2_total_size": 171
+      },
+      {
+        "l2": 152000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 775
+      },
+      {
+        "l2": 260000003,
+        "size_in_agenda": 10,
+        "l2_total_size": 148
+      },
+      {
+        "l2": 152000040,
+        "size_in_agenda": 4,
+        "l2_total_size": 26
+      },
+      {
+        "l2": 72000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 536
+      },
+      {
+        "l2": 386000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 234
+      },
+      {
+        "l2": 72000017,
+        "size_in_agenda": 3,
+        "l2_total_size": 73
+      },
+      {
+        "l2": 386000013,
+        "size_in_agenda": 2,
+        "l2_total_size": 34
+      },
+      {
+        "l2": 295000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 535
+      },
+      {
+        "l2": 12000195,
+        "size_in_agenda": 2,
+        "l2_total_size": 15
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 14,
+    "agenda": "Additive Manufacturing: Polymeric Composites & Wire Arc (WAAM)",
+    "agenda_full": "Additive Manufacturing: Polymeric Composites & Wire Arc (WAAM)",
+    "total_papers_found": 13613,
+    "community_count": 211,
+    "n_in_hier": 211,
+    "n_not_in_hier": 0,
+    "unique_l1": 11,
+    "unique_l2": 37,
+    "top1_l1_size_in_agenda": 178,
+    "top1_l1_share": 0.844,
+    "top3_l1_share": 0.929,
+    "top1_l2_size_in_agenda": 102,
+    "top1_l2_share": 0.483,
+    "top3_l2_share": 0.621,
+    "top_l1": [
+      {
+        "l1": 37,
+        "size_in_agenda": 178,
+        "l1_total_size": 10242
+      },
+      {
+        "l1": 224,
+        "size_in_agenda": 11,
+        "l1_total_size": 3797
+      },
+      {
+        "l1": 86,
+        "size_in_agenda": 7,
+        "l1_total_size": 7367
+      },
+      {
+        "l1": 421,
+        "size_in_agenda": 4,
+        "l1_total_size": 2114
+      },
+      {
+        "l1": 99,
+        "size_in_agenda": 3,
+        "l1_total_size": 6771
+      },
+      {
+        "l1": 162,
+        "size_in_agenda": 2,
+        "l1_total_size": 4915
+      },
+      {
+        "l1": 796,
+        "size_in_agenda": 2,
+        "l1_total_size": 972
+      },
+      {
+        "l1": 679,
+        "size_in_agenda": 1,
+        "l1_total_size": 1240
+      },
+      {
+        "l1": 40,
+        "size_in_agenda": 1,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 611,
+        "size_in_agenda": 1,
+        "l1_total_size": 1409
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 37000003,
+        "size_in_agenda": 102,
+        "l2_total_size": 315
+      },
+      {
+        "l2": 37000032,
+        "size_in_agenda": 18,
+        "l2_total_size": 81
+      },
+      {
+        "l2": 37000010,
+        "size_in_agenda": 11,
+        "l2_total_size": 168
+      },
+      {
+        "l2": 37000001,
+        "size_in_agenda": 9,
+        "l2_total_size": 454
+      },
+      {
+        "l2": 86000012,
+        "size_in_agenda": 7,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 37000117,
+        "size_in_agenda": 6,
+        "l2_total_size": 18
+      },
+      {
+        "l2": 37000019,
+        "size_in_agenda": 5,
+        "l2_total_size": 119
+      },
+      {
+        "l2": 37000004,
+        "size_in_agenda": 5,
+        "l2_total_size": 315
+      },
+      {
+        "l2": 421000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 155
+      },
+      {
+        "l2": 37000075,
+        "size_in_agenda": 4,
+        "l2_total_size": 31
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 16,
+    "agenda": "Neural Network-based Constitutive Modeling of Composite Materials",
+    "agenda_full": "Neural Network-based Constitutive Modeling of Composite Materials",
+    "total_papers_found": 11868,
+    "community_count": 203,
+    "n_in_hier": 203,
+    "n_not_in_hier": 0,
+    "unique_l1": 46,
+    "unique_l2": 121,
+    "top1_l1_size_in_agenda": 31,
+    "top1_l1_share": 0.153,
+    "top3_l1_share": 0.365,
+    "top1_l2_size_in_agenda": 17,
+    "top1_l2_share": 0.084,
+    "top3_l2_share": 0.163,
+    "top_l1": [
+      {
+        "l1": 273,
+        "size_in_agenda": 31,
+        "l1_total_size": 3290
+      },
+      {
+        "l1": 78,
+        "size_in_agenda": 25,
+        "l1_total_size": 7780
+      },
+      {
+        "l1": 34,
+        "size_in_agenda": 18,
+        "l1_total_size": 11054
+      },
+      {
+        "l1": 208,
+        "size_in_agenda": 11,
+        "l1_total_size": 4027
+      },
+      {
+        "l1": 110,
+        "size_in_agenda": 10,
+        "l1_total_size": 6297
+      },
+      {
+        "l1": 154,
+        "size_in_agenda": 10,
+        "l1_total_size": 4978
+      },
+      {
+        "l1": 22,
+        "size_in_agenda": 9,
+        "l1_total_size": 12870
+      },
+      {
+        "l1": 85,
+        "size_in_agenda": 8,
+        "l1_total_size": 7372
+      },
+      {
+        "l1": 96,
+        "size_in_agenda": 7,
+        "l1_total_size": 6837
+      },
+      {
+        "l1": 114,
+        "size_in_agenda": 6,
+        "l1_total_size": 6075
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 273000001,
+        "size_in_agenda": 17,
+        "l2_total_size": 353
+      },
+      {
+        "l2": 34000058,
+        "size_in_agenda": 9,
+        "l2_total_size": 49
+      },
+      {
+        "l2": 110000005,
+        "size_in_agenda": 7,
+        "l2_total_size": 107
+      },
+      {
+        "l2": 884000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 167
+      },
+      {
+        "l2": 78000014,
+        "size_in_agenda": 5,
+        "l2_total_size": 120
+      },
+      {
+        "l2": 329000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 106
+      },
+      {
+        "l2": 273000018,
+        "size_in_agenda": 4,
+        "l2_total_size": 24
+      },
+      {
+        "l2": 114000020,
+        "size_in_agenda": 4,
+        "l2_total_size": 61
+      },
+      {
+        "l2": 273000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 114
+      },
+      {
+        "l2": 308000031,
+        "size_in_agenda": 3,
+        "l2_total_size": 24
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 1,
+    "agenda": "Bio-inspired & Nature-inspired Metaheuristic Optimization Algorithms",
+    "agenda_full": "Bio-inspired & Nature-inspired Metaheuristic Optimization Algorithms",
+    "total_papers_found": 6529,
+    "community_count": 200,
+    "n_in_hier": 200,
+    "n_not_in_hier": 0,
+    "unique_l1": 27,
+    "unique_l2": 80,
+    "top1_l1_size_in_agenda": 166,
+    "top1_l1_share": 0.83,
+    "top3_l1_share": 0.87,
+    "top1_l2_size_in_agenda": 64,
+    "top1_l2_share": 0.32,
+    "top3_l2_share": 0.395,
+    "top_l1": [
+      {
+        "l1": 71,
+        "size_in_agenda": 166,
+        "l1_total_size": 8040
+      },
+      {
+        "l1": 336,
+        "size_in_agenda": 4,
+        "l1_total_size": 2701
+      },
+      {
+        "l1": 261,
+        "size_in_agenda": 4,
+        "l1_total_size": 3353
+      },
+      {
+        "l1": 386,
+        "size_in_agenda": 2,
+        "l1_total_size": 2332
+      },
+      {
+        "l1": 82,
+        "size_in_agenda": 2,
+        "l1_total_size": 7460
+      },
+      {
+        "l1": 56,
+        "size_in_agenda": 1,
+        "l1_total_size": 8644
+      },
+      {
+        "l1": 136,
+        "size_in_agenda": 1,
+        "l1_total_size": 5305
+      },
+      {
+        "l1": 633,
+        "size_in_agenda": 1,
+        "l1_total_size": 1350
+      },
+      {
+        "l1": 1147,
+        "size_in_agenda": 1,
+        "l1_total_size": 521
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 1,
+        "l1_total_size": 10000
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 71000001,
+        "size_in_agenda": 64,
+        "l2_total_size": 689
+      },
+      {
+        "l2": 71000017,
+        "size_in_agenda": 8,
+        "l2_total_size": 76
+      },
+      {
+        "l2": 71000011,
+        "size_in_agenda": 7,
+        "l2_total_size": 113
+      },
+      {
+        "l2": 71000024,
+        "size_in_agenda": 6,
+        "l2_total_size": 59
+      },
+      {
+        "l2": 71000041,
+        "size_in_agenda": 6,
+        "l2_total_size": 35
+      },
+      {
+        "l2": 71000003,
+        "size_in_agenda": 6,
+        "l2_total_size": 216
+      },
+      {
+        "l2": 71000005,
+        "size_in_agenda": 5,
+        "l2_total_size": 189
+      },
+      {
+        "l2": 71000006,
+        "size_in_agenda": 5,
+        "l2_total_size": 153
+      },
+      {
+        "l2": 71000015,
+        "size_in_agenda": 4,
+        "l2_total_size": 97
+      },
+      {
+        "l2": 71000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 298
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 4,
+    "agenda": "Fault Diagnosis with Small / Imbalanced Data (GAN & Meta-learning)",
+    "agenda_full": "Fault Diagnosis with Small / Imbalanced Data (GAN & Meta-learning)",
+    "total_papers_found": 7220,
+    "community_count": 175,
+    "n_in_hier": 175,
+    "n_not_in_hier": 0,
+    "unique_l1": 15,
+    "unique_l2": 73,
+    "top1_l1_size_in_agenda": 111,
+    "top1_l1_share": 0.634,
+    "top3_l1_share": 0.874,
+    "top1_l2_size_in_agenda": 32,
+    "top1_l2_share": 0.183,
+    "top3_l2_share": 0.417,
+    "top_l1": [
+      {
+        "l1": 126,
+        "size_in_agenda": 111,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 28,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 202,
+        "size_in_agenda": 14,
+        "l1_total_size": 4172
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 5,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 376,
+        "size_in_agenda": 4,
+        "l1_total_size": 2397
+      },
+      {
+        "l1": 726,
+        "size_in_agenda": 2,
+        "l1_total_size": 1132
+      },
+      {
+        "l1": 92,
+        "size_in_agenda": 2,
+        "l1_total_size": 7106
+      },
+      {
+        "l1": 244,
+        "size_in_agenda": 2,
+        "l1_total_size": 3596
+      },
+      {
+        "l1": 1650,
+        "size_in_agenda": 1,
+        "l1_total_size": 261
+      },
+      {
+        "l1": 1539,
+        "size_in_agenda": 1,
+        "l1_total_size": 301
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 126000002,
+        "size_in_agenda": 32,
+        "l2_total_size": 304
+      },
+      {
+        "l2": 126000001,
+        "size_in_agenda": 22,
+        "l2_total_size": 324
+      },
+      {
+        "l2": 126000008,
+        "size_in_agenda": 19,
+        "l2_total_size": 108
+      },
+      {
+        "l2": 372000001,
+        "size_in_agenda": 11,
+        "l2_total_size": 267
+      },
+      {
+        "l2": 126000023,
+        "size_in_agenda": 4,
+        "l2_total_size": 33
+      },
+      {
+        "l2": 372000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 126000021,
+        "size_in_agenda": 3,
+        "l2_total_size": 35
+      },
+      {
+        "l2": 202000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 434
+      },
+      {
+        "l2": 126000034,
+        "size_in_agenda": 2,
+        "l2_total_size": 28
+      },
+      {
+        "l2": 126000050,
+        "size_in_agenda": 2,
+        "l2_total_size": 23
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 6,
+    "agenda": "Cross-domain & Transfer Learning for Fault Diagnosis",
+    "agenda_full": "Cross-domain & Transfer Learning for Fault Diagnosis",
+    "total_papers_found": 5318,
+    "community_count": 168,
+    "n_in_hier": 168,
+    "n_not_in_hier": 0,
+    "unique_l1": 5,
+    "unique_l2": 32,
+    "top1_l1_size_in_agenda": 144,
+    "top1_l1_share": 0.857,
+    "top3_l1_share": 0.976,
+    "top1_l2_size_in_agenda": 114,
+    "top1_l2_share": 0.679,
+    "top3_l2_share": 0.798,
+    "top_l1": [
+      {
+        "l1": 126,
+        "size_in_agenda": 144,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 3,
+        "size_in_agenda": 16,
+        "l1_total_size": 29814
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 4,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 726,
+        "size_in_agenda": 3,
+        "l1_total_size": 1132
+      },
+      {
+        "l1": 227,
+        "size_in_agenda": 1,
+        "l1_total_size": 3769
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 126000002,
+        "size_in_agenda": 114,
+        "l2_total_size": 304
+      },
+      {
+        "l2": 126000001,
+        "size_in_agenda": 10,
+        "l2_total_size": 324
+      },
+      {
+        "l2": 3000003,
+        "size_in_agenda": 10,
+        "l2_total_size": 831
+      },
+      {
+        "l2": 126000026,
+        "size_in_agenda": 3,
+        "l2_total_size": 31
+      },
+      {
+        "l2": 372000002,
+        "size_in_agenda": 2,
+        "l2_total_size": 258
+      },
+      {
+        "l2": 126000016,
+        "size_in_agenda": 2,
+        "l2_total_size": 44
+      },
+      {
+        "l2": 3000005,
+        "size_in_agenda": 2,
+        "l2_total_size": 653
+      },
+      {
+        "l2": 126000071,
+        "size_in_agenda": 1,
+        "l2_total_size": 20
+      },
+      {
+        "l2": 126000019,
+        "size_in_agenda": 1,
+        "l2_total_size": 38
+      },
+      {
+        "l2": 126000046,
+        "size_in_agenda": 1,
+        "l2_total_size": 25
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 17,
+    "agenda": "Digital Twin for Product Design & Engineering Systems",
+    "agenda_full": "Digital Twin for Product Design & Engineering Systems",
+    "total_papers_found": 39413,
+    "community_count": 165,
+    "n_in_hier": 165,
+    "n_not_in_hier": 0,
+    "unique_l1": 25,
+    "unique_l2": 70,
+    "top1_l1_size_in_agenda": 130,
+    "top1_l1_share": 0.788,
+    "top3_l1_share": 0.836,
+    "top1_l2_size_in_agenda": 67,
+    "top1_l2_share": 0.406,
+    "top3_l2_share": 0.509,
+    "top_l1": [
+      {
+        "l1": 153,
+        "size_in_agenda": 130,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 244,
+        "size_in_agenda": 5,
+        "l1_total_size": 3596
+      },
+      {
+        "l1": 72,
+        "size_in_agenda": 3,
+        "l1_total_size": 7972
+      },
+      {
+        "l1": 37,
+        "size_in_agenda": 2,
+        "l1_total_size": 10242
+      },
+      {
+        "l1": 515,
+        "size_in_agenda": 2,
+        "l1_total_size": 1728
+      },
+      {
+        "l1": 327,
+        "size_in_agenda": 2,
+        "l1_total_size": 2757
+      },
+      {
+        "l1": 261,
+        "size_in_agenda": 2,
+        "l1_total_size": 3353
+      },
+      {
+        "l1": 53,
+        "size_in_agenda": 2,
+        "l1_total_size": 8694
+      },
+      {
+        "l1": 165,
+        "size_in_agenda": 1,
+        "l1_total_size": 4810
+      },
+      {
+        "l1": 132,
+        "size_in_agenda": 1,
+        "l1_total_size": 5390
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 153000001,
+        "size_in_agenda": 67,
+        "l2_total_size": 369
+      },
+      {
+        "l2": 153000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 383
+      },
+      {
+        "l2": 244000041,
+        "size_in_agenda": 3,
+        "l2_total_size": 24
+      },
+      {
+        "l2": 153000006,
+        "size_in_agenda": 3,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 153000053,
+        "size_in_agenda": 3,
+        "l2_total_size": 19
+      },
+      {
+        "l2": 153000021,
+        "size_in_agenda": 2,
+        "l2_total_size": 37
+      },
+      {
+        "l2": 153000042,
+        "size_in_agenda": 2,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 37000006,
+        "size_in_agenda": 2,
+        "l2_total_size": 241
+      },
+      {
+        "l2": 153000007,
+        "size_in_agenda": 2,
+        "l2_total_size": 64
+      },
+      {
+        "l2": 153000004,
+        "size_in_agenda": 2,
+        "l2_total_size": 144
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 9,
+    "agenda": "Structural Health Monitoring with Machine Learning",
+    "agenda_full": "Structural Health Monitoring with Machine Learning",
+    "total_papers_found": 4379,
+    "community_count": 159,
+    "n_in_hier": 159,
+    "n_not_in_hier": 0,
+    "unique_l1": 38,
+    "unique_l2": 86,
+    "top1_l1_size_in_agenda": 88,
+    "top1_l1_share": 0.553,
+    "top3_l1_share": 0.667,
+    "top1_l2_size_in_agenda": 19,
+    "top1_l2_share": 0.119,
+    "top3_l2_share": 0.264,
+    "top_l1": [
+      {
+        "l1": 227,
+        "size_in_agenda": 88,
+        "l1_total_size": 3769
+      },
+      {
+        "l1": 126,
+        "size_in_agenda": 11,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 50,
+        "size_in_agenda": 7,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 1663,
+        "size_in_agenda": 5,
+        "l1_total_size": 257
+      },
+      {
+        "l1": 78,
+        "size_in_agenda": 5,
+        "l1_total_size": 7780
+      },
+      {
+        "l1": 329,
+        "size_in_agenda": 3,
+        "l1_total_size": 2746
+      },
+      {
+        "l1": 969,
+        "size_in_agenda": 3,
+        "l1_total_size": 704
+      },
+      {
+        "l1": 372,
+        "size_in_agenda": 2,
+        "l1_total_size": 2411
+      },
+      {
+        "l1": 76,
+        "size_in_agenda": 2,
+        "l1_total_size": 7880
+      },
+      {
+        "l1": 577,
+        "size_in_agenda": 2,
+        "l1_total_size": 1513
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 227000005,
+        "size_in_agenda": 19,
+        "l2_total_size": 84
+      },
+      {
+        "l2": 227000008,
+        "size_in_agenda": 17,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 227000023,
+        "size_in_agenda": 6,
+        "l2_total_size": 45
+      },
+      {
+        "l2": 1663000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 227000045,
+        "size_in_agenda": 4,
+        "l2_total_size": 23
+      },
+      {
+        "l2": 78000010,
+        "size_in_agenda": 4,
+        "l2_total_size": 135
+      },
+      {
+        "l2": 227000044,
+        "size_in_agenda": 3,
+        "l2_total_size": 23
+      },
+      {
+        "l2": 227000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 169
+      },
+      {
+        "l2": 969000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 67
+      },
+      {
+        "l2": 227000027,
+        "size_in_agenda": 2,
+        "l2_total_size": 39
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 8,
+    "agenda": "Predictive Maintenance & AI for Prognostics and Health Management (PHM)",
+    "agenda_full": "Predictive Maintenance & AI for Prognostics and Health Management (PHM)",
+    "total_papers_found": 3063,
+    "community_count": 150,
+    "n_in_hier": 150,
+    "n_not_in_hier": 0,
+    "unique_l1": 15,
+    "unique_l2": 53,
+    "top1_l1_size_in_agenda": 124,
+    "top1_l1_share": 0.827,
+    "top3_l1_share": 0.893,
+    "top1_l2_size_in_agenda": 78,
+    "top1_l2_share": 0.52,
+    "top3_l2_share": 0.58,
+    "top_l1": [
+      {
+        "l1": 126,
+        "size_in_agenda": 124,
+        "l1_total_size": 5564
+      },
+      {
+        "l1": 227,
+        "size_in_agenda": 5,
+        "l1_total_size": 3769
+      },
+      {
+        "l1": 373,
+        "size_in_agenda": 5,
+        "l1_total_size": 2403
+      },
+      {
+        "l1": 153,
+        "size_in_agenda": 4,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 323,
+        "size_in_agenda": 2,
+        "l1_total_size": 2787
+      },
+      {
+        "l1": 391,
+        "size_in_agenda": 1,
+        "l1_total_size": 2304
+      },
+      {
+        "l1": 444,
+        "size_in_agenda": 1,
+        "l1_total_size": 2001
+      },
+      {
+        "l1": 777,
+        "size_in_agenda": 1,
+        "l1_total_size": 1006
+      },
+      {
+        "l1": 149,
+        "size_in_agenda": 1,
+        "l1_total_size": 5091
+      },
+      {
+        "l1": 203,
+        "size_in_agenda": 1,
+        "l1_total_size": 4158
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 126000000,
+        "size_in_agenda": 78,
+        "l2_total_size": 400
+      },
+      {
+        "l2": 126000014,
+        "size_in_agenda": 5,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 126000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 324
+      },
+      {
+        "l2": 126000106,
+        "size_in_agenda": 4,
+        "l2_total_size": 16
+      },
+      {
+        "l2": 126000010,
+        "size_in_agenda": 4,
+        "l2_total_size": 91
+      },
+      {
+        "l2": 126000153,
+        "size_in_agenda": 3,
+        "l2_total_size": 10
+      },
+      {
+        "l2": 126000020,
+        "size_in_agenda": 2,
+        "l2_total_size": 37
+      },
+      {
+        "l2": 227000008,
+        "size_in_agenda": 2,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 126000074,
+        "size_in_agenda": 2,
+        "l2_total_size": 19
+      },
+      {
+        "l2": 373000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 249
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 15,
+    "agenda": "Natural Fiber Reinforced Composites for Sustainable Applications",
+    "agenda_full": "Natural Fiber Reinforced Composites for Sustainable Applications",
+    "total_papers_found": 32599,
+    "community_count": 144,
+    "n_in_hier": 144,
+    "n_not_in_hier": 0,
+    "unique_l1": 22,
+    "unique_l2": 92,
+    "top1_l1_size_in_agenda": 73,
+    "top1_l1_share": 0.507,
+    "top3_l1_share": 0.743,
+    "top1_l2_size_in_agenda": 14,
+    "top1_l2_share": 0.097,
+    "top3_l2_share": 0.153,
+    "top_l1": [
+      {
+        "l1": 96,
+        "size_in_agenda": 73,
+        "l1_total_size": 6837
+      },
+      {
+        "l1": 179,
+        "size_in_agenda": 19,
+        "l1_total_size": 4641
+      },
+      {
+        "l1": 36,
+        "size_in_agenda": 15,
+        "l1_total_size": 10347
+      },
+      {
+        "l1": 1275,
+        "size_in_agenda": 4,
+        "l1_total_size": 428
+      },
+      {
+        "l1": 347,
+        "size_in_agenda": 4,
+        "l1_total_size": 2622
+      },
+      {
+        "l1": 40,
+        "size_in_agenda": 3,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 472,
+        "size_in_agenda": 3,
+        "l1_total_size": 1883
+      },
+      {
+        "l1": 74,
+        "size_in_agenda": 3,
+        "l1_total_size": 7937
+      },
+      {
+        "l1": 251,
+        "size_in_agenda": 2,
+        "l1_total_size": 3504
+      },
+      {
+        "l1": 830,
+        "size_in_agenda": 2,
+        "l1_total_size": 901
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 96000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 345
+      },
+      {
+        "l2": 1275000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 96000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 245
+      },
+      {
+        "l2": 96000053,
+        "size_in_agenda": 4,
+        "l2_total_size": 32
+      },
+      {
+        "l2": 96000030,
+        "size_in_agenda": 3,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 96000016,
+        "size_in_agenda": 3,
+        "l2_total_size": 58
+      },
+      {
+        "l2": 36000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 273
+      },
+      {
+        "l2": 179000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 151
+      },
+      {
+        "l2": 96000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 96000009,
+        "size_in_agenda": 3,
+        "l2_total_size": 76
+      }
+    ]
+  },
+  {
+    "category": "engineering",
+    "no": 2,
+    "agenda": "Swarm Intelligence-based Feature Selection Methods",
+    "agenda_full": "Swarm Intelligence-based Feature Selection Methods",
+    "total_papers_found": 8057,
+    "community_count": 139,
+    "n_in_hier": 139,
+    "n_not_in_hier": 0,
+    "unique_l1": 57,
+    "unique_l2": 94,
+    "top1_l1_size_in_agenda": 30,
+    "top1_l1_share": 0.216,
+    "top3_l1_share": 0.432,
+    "top1_l2_size_in_agenda": 12,
+    "top1_l2_share": 0.086,
+    "top3_l2_share": 0.194,
+    "top_l1": [
+      {
+        "l1": 37,
+        "size_in_agenda": 30,
+        "l1_total_size": 10242
+      },
+      {
+        "l1": 71,
+        "size_in_agenda": 18,
+        "l1_total_size": 8040
+      },
+      {
+        "l1": 487,
+        "size_in_agenda": 12,
+        "l1_total_size": 1815
+      },
+      {
+        "l1": 581,
+        "size_in_agenda": 4,
+        "l1_total_size": 1492
+      },
+      {
+        "l1": 202,
+        "size_in_agenda": 4,
+        "l1_total_size": 4172
+      },
+      {
+        "l1": 320,
+        "size_in_agenda": 3,
+        "l1_total_size": 2818
+      },
+      {
+        "l1": 318,
+        "size_in_agenda": 3,
+        "l1_total_size": 2824
+      },
+      {
+        "l1": 192,
+        "size_in_agenda": 2,
+        "l1_total_size": 4404
+      },
+      {
+        "l1": 433,
+        "size_in_agenda": 2,
+        "l1_total_size": 2044
+      },
+      {
+        "l1": 201,
+        "size_in_agenda": 2,
+        "l1_total_size": 4201
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 37000000,
+        "size_in_agenda": 12,
+        "l2_total_size": 525
+      },
+      {
+        "l2": 487000000,
+        "size_in_agenda": 9,
+        "l2_total_size": 228
+      },
+      {
+        "l2": 71000001,
+        "size_in_agenda": 6,
+        "l2_total_size": 689
+      },
+      {
+        "l2": 71000003,
+        "size_in_agenda": 5,
+        "l2_total_size": 216
+      },
+      {
+        "l2": 581000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 72
+      },
+      {
+        "l2": 320000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 107
+      },
+      {
+        "l2": 37000025,
+        "size_in_agenda": 3,
+        "l2_total_size": 99
+      },
+      {
+        "l2": 192000060,
+        "size_in_agenda": 2,
+        "l2_total_size": 23
+      },
+      {
+        "l2": 433000009,
+        "size_in_agenda": 2,
+        "l2_total_size": 48
+      },
+      {
+        "l2": 201000012,
+        "size_in_agenda": 2,
+        "l2_total_size": 67
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 10,
+    "agenda": "Microplastics Behavior & Toxicity in Aquatic-Soil Systems",
+    "agenda_full": "Microplastics Behavior & Toxicity in Aquatic-Soil Systems",
+    "total_papers_found": 7724,
+    "community_count": 227,
+    "n_in_hier": 227,
+    "n_not_in_hier": 0,
+    "unique_l1": 2,
+    "unique_l2": 26,
+    "top1_l1_size_in_agenda": 226,
+    "top1_l1_share": 0.996,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 116,
+    "top1_l2_share": 0.511,
+    "top3_l2_share": 0.718,
+    "top_l1": [
+      {
+        "l1": 84,
+        "size_in_agenda": 226,
+        "l1_total_size": 7384
+      },
+      {
+        "l1": 142,
+        "size_in_agenda": 1,
+        "l1_total_size": 5254
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 84000000,
+        "size_in_agenda": 116,
+        "l2_total_size": 1371
+      },
+      {
+        "l2": 84000001,
+        "size_in_agenda": 35,
+        "l2_total_size": 472
+      },
+      {
+        "l2": 84000002,
+        "size_in_agenda": 12,
+        "l2_total_size": 299
+      },
+      {
+        "l2": 84000012,
+        "size_in_agenda": 8,
+        "l2_total_size": 148
+      },
+      {
+        "l2": 84000006,
+        "size_in_agenda": 6,
+        "l2_total_size": 229
+      },
+      {
+        "l2": 84000013,
+        "size_in_agenda": 6,
+        "l2_total_size": 117
+      },
+      {
+        "l2": 84000011,
+        "size_in_agenda": 5,
+        "l2_total_size": 167
+      },
+      {
+        "l2": 84000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 260
+      },
+      {
+        "l2": 84000015,
+        "size_in_agenda": 4,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 84000014,
+        "size_in_agenda": 3,
+        "l2_total_size": 108
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 7,
+    "agenda": "PFAS Occurrence / Transformation & Soil-Water Remediation",
+    "agenda_full": "PFAS Occurrence / Transformation & Soil-Water Remediation",
+    "total_papers_found": 2275,
+    "community_count": 198,
+    "n_in_hier": 198,
+    "n_not_in_hier": 0,
+    "unique_l1": 8,
+    "unique_l2": 27,
+    "top1_l1_size_in_agenda": 185,
+    "top1_l1_share": 0.934,
+    "top3_l1_share": 0.97,
+    "top1_l2_size_in_agenda": 100,
+    "top1_l2_share": 0.505,
+    "top3_l2_share": 0.838,
+    "top_l1": [
+      {
+        "l1": 310,
+        "size_in_agenda": 185,
+        "l1_total_size": 2894
+      },
+      {
+        "l1": 325,
+        "size_in_agenda": 4,
+        "l1_total_size": 2779
+      },
+      {
+        "l1": 121,
+        "size_in_agenda": 3,
+        "l1_total_size": 5708
+      },
+      {
+        "l1": 42,
+        "size_in_agenda": 2,
+        "l1_total_size": 9789
+      },
+      {
+        "l1": 43,
+        "size_in_agenda": 1,
+        "l1_total_size": 9786
+      },
+      {
+        "l1": 17,
+        "size_in_agenda": 1,
+        "l1_total_size": 15035
+      },
+      {
+        "l1": 113,
+        "size_in_agenda": 1,
+        "l1_total_size": 6112
+      },
+      {
+        "l1": 142,
+        "size_in_agenda": 1,
+        "l1_total_size": 5254
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 310000000,
+        "size_in_agenda": 100,
+        "l2_total_size": 775
+      },
+      {
+        "l2": 310000002,
+        "size_in_agenda": 63,
+        "l2_total_size": 420
+      },
+      {
+        "l2": 310000010,
+        "size_in_agenda": 3,
+        "l2_total_size": 31
+      },
+      {
+        "l2": 325000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 241
+      },
+      {
+        "l2": 310000003,
+        "size_in_agenda": 3,
+        "l2_total_size": 108
+      },
+      {
+        "l2": 310000013,
+        "size_in_agenda": 2,
+        "l2_total_size": 26
+      },
+      {
+        "l2": 310000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 452
+      },
+      {
+        "l2": 310000024,
+        "size_in_agenda": 2,
+        "l2_total_size": 16
+      },
+      {
+        "l2": 121000006,
+        "size_in_agenda": 2,
+        "l2_total_size": 158
+      },
+      {
+        "l2": 43000003,
+        "size_in_agenda": 1,
+        "l2_total_size": 483
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 13,
+    "agenda": "MOF-based Engineered Materials for Water Remediation",
+    "agenda_full": "MOF-based Engineered Materials for Water Remediation",
+    "total_papers_found": 3746,
+    "community_count": 172,
+    "n_in_hier": 172,
+    "n_not_in_hier": 0,
+    "unique_l1": 18,
+    "unique_l2": 90,
+    "top1_l1_size_in_agenda": 88,
+    "top1_l1_share": 0.512,
+    "top3_l1_share": 0.721,
+    "top1_l2_size_in_agenda": 15,
+    "top1_l2_share": 0.087,
+    "top3_l2_share": 0.215,
+    "top_l1": [
+      {
+        "l1": 35,
+        "size_in_agenda": 88,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 42,
+        "size_in_agenda": 18,
+        "l1_total_size": 9789
+      },
+      {
+        "l1": 22,
+        "size_in_agenda": 18,
+        "l1_total_size": 12870
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 15,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 43,
+        "size_in_agenda": 9,
+        "l1_total_size": 9786
+      },
+      {
+        "l1": 366,
+        "size_in_agenda": 5,
+        "l1_total_size": 2469
+      },
+      {
+        "l1": 74,
+        "size_in_agenda": 4,
+        "l1_total_size": 7937
+      },
+      {
+        "l1": 310,
+        "size_in_agenda": 3,
+        "l1_total_size": 2894
+      },
+      {
+        "l1": 341,
+        "size_in_agenda": 3,
+        "l1_total_size": 2669
+      },
+      {
+        "l1": 779,
+        "size_in_agenda": 1,
+        "l1_total_size": 1000
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 35000014,
+        "size_in_agenda": 15,
+        "l2_total_size": 150
+      },
+      {
+        "l2": 35000023,
+        "size_in_agenda": 14,
+        "l2_total_size": 101
+      },
+      {
+        "l2": 7000013,
+        "size_in_agenda": 8,
+        "l2_total_size": 141
+      },
+      {
+        "l2": 42000000,
+        "size_in_agenda": 8,
+        "l2_total_size": 954
+      },
+      {
+        "l2": 35000037,
+        "size_in_agenda": 6,
+        "l2_total_size": 54
+      },
+      {
+        "l2": 35000002,
+        "size_in_agenda": 5,
+        "l2_total_size": 369
+      },
+      {
+        "l2": 35000035,
+        "size_in_agenda": 5,
+        "l2_total_size": 55
+      },
+      {
+        "l2": 35000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 557
+      },
+      {
+        "l2": 42000034,
+        "size_in_agenda": 4,
+        "l2_total_size": 56
+      },
+      {
+        "l2": 366000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 266
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 19,
+    "agenda": "Digital Technologies for Circular Economy (Blockchain & Industry 4.0)",
+    "agenda_full": "Digital Technologies for Circular Economy (Blockchain & Industry 4.0)",
+    "total_papers_found": 8977,
+    "community_count": 167,
+    "n_in_hier": 167,
+    "n_not_in_hier": 0,
+    "unique_l1": 35,
+    "unique_l2": 90,
+    "top1_l1_size_in_agenda": 59,
+    "top1_l1_share": 0.353,
+    "top3_l1_share": 0.677,
+    "top1_l2_size_in_agenda": 34,
+    "top1_l2_share": 0.204,
+    "top3_l2_share": 0.377,
+    "top_l1": [
+      {
+        "l1": 94,
+        "size_in_agenda": 59,
+        "l1_total_size": 7061
+      },
+      {
+        "l1": 153,
+        "size_in_agenda": 42,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 157,
+        "size_in_agenda": 12,
+        "l1_total_size": 4945
+      },
+      {
+        "l1": 145,
+        "size_in_agenda": 5,
+        "l1_total_size": 5193
+      },
+      {
+        "l1": 475,
+        "size_in_agenda": 4,
+        "l1_total_size": 1873
+      },
+      {
+        "l1": 390,
+        "size_in_agenda": 3,
+        "l1_total_size": 2308
+      },
+      {
+        "l1": 130,
+        "size_in_agenda": 3,
+        "l1_total_size": 5464
+      },
+      {
+        "l1": 224,
+        "size_in_agenda": 2,
+        "l1_total_size": 3797
+      },
+      {
+        "l1": 166,
+        "size_in_agenda": 2,
+        "l1_total_size": 4807
+      },
+      {
+        "l1": 156,
+        "size_in_agenda": 2,
+        "l1_total_size": 4974
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 94000000,
+        "size_in_agenda": 34,
+        "l2_total_size": 537
+      },
+      {
+        "l2": 153000000,
+        "size_in_agenda": 22,
+        "l2_total_size": 383
+      },
+      {
+        "l2": 157000003,
+        "size_in_agenda": 7,
+        "l2_total_size": 235
+      },
+      {
+        "l2": 153000006,
+        "size_in_agenda": 3,
+        "l2_total_size": 100
+      },
+      {
+        "l2": 390000019,
+        "size_in_agenda": 3,
+        "l2_total_size": 31
+      },
+      {
+        "l2": 153000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 369
+      },
+      {
+        "l2": 94000108,
+        "size_in_agenda": 2,
+        "l2_total_size": 16
+      },
+      {
+        "l2": 94000121,
+        "size_in_agenda": 2,
+        "l2_total_size": 15
+      },
+      {
+        "l2": 94000038,
+        "size_in_agenda": 2,
+        "l2_total_size": 34
+      },
+      {
+        "l2": 475000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 164
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 2,
+    "agenda": "Persulfate-based Nonradical & Selective Oxidation Mechanisms",
+    "agenda_full": "Persulfate-based Nonradical & Selective Oxidation Mechanisms",
+    "total_papers_found": 3842,
+    "community_count": 134,
+    "n_in_hier": 134,
+    "n_not_in_hier": 0,
+    "unique_l1": 18,
+    "unique_l2": 47,
+    "top1_l1_size_in_agenda": 107,
+    "top1_l1_share": 0.799,
+    "top3_l1_share": 0.843,
+    "top1_l2_size_in_agenda": 78,
+    "top1_l2_share": 0.582,
+    "top3_l2_share": 0.634,
+    "top_l1": [
+      {
+        "l1": 42,
+        "size_in_agenda": 107,
+        "l1_total_size": 9789
+      },
+      {
+        "l1": 7,
+        "size_in_agenda": 3,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 124,
+        "size_in_agenda": 3,
+        "l1_total_size": 5618
+      },
+      {
+        "l1": 156,
+        "size_in_agenda": 3,
+        "l1_total_size": 4974
+      },
+      {
+        "l1": 120,
+        "size_in_agenda": 2,
+        "l1_total_size": 5760
+      },
+      {
+        "l1": 158,
+        "size_in_agenda": 2,
+        "l1_total_size": 4931
+      },
+      {
+        "l1": 317,
+        "size_in_agenda": 2,
+        "l1_total_size": 2827
+      },
+      {
+        "l1": 173,
+        "size_in_agenda": 2,
+        "l1_total_size": 4713
+      },
+      {
+        "l1": 195,
+        "size_in_agenda": 1,
+        "l1_total_size": 4331
+      },
+      {
+        "l1": 897,
+        "size_in_agenda": 1,
+        "l1_total_size": 799
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 42000000,
+        "size_in_agenda": 78,
+        "l2_total_size": 954
+      },
+      {
+        "l2": 42000022,
+        "size_in_agenda": 4,
+        "l2_total_size": 95
+      },
+      {
+        "l2": 42000006,
+        "size_in_agenda": 3,
+        "l2_total_size": 208
+      },
+      {
+        "l2": 42000019,
+        "size_in_agenda": 2,
+        "l2_total_size": 103
+      },
+      {
+        "l2": 42000137,
+        "size_in_agenda": 2,
+        "l2_total_size": 18
+      },
+      {
+        "l2": 124000009,
+        "size_in_agenda": 2,
+        "l2_total_size": 96
+      },
+      {
+        "l2": 42000034,
+        "size_in_agenda": 2,
+        "l2_total_size": 56
+      },
+      {
+        "l2": 173000030,
+        "size_in_agenda": 2,
+        "l2_total_size": 44
+      },
+      {
+        "l2": 42000070,
+        "size_in_agenda": 1,
+        "l2_total_size": 27
+      },
+      {
+        "l2": 120000104,
+        "size_in_agenda": 1,
+        "l2_total_size": 14
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 22,
+    "agenda": "Biomass Conversion / Waste Recycling & Municipal Solid Waste Management",
+    "agenda_full": "Biomass Conversion / Waste Recycling & Municipal Solid Waste Management",
+    "total_papers_found": 22027,
+    "community_count": 133,
+    "n_in_hier": 133,
+    "n_not_in_hier": 0,
+    "unique_l1": 7,
+    "unique_l2": 28,
+    "top1_l1_size_in_agenda": 86,
+    "top1_l1_share": 0.647,
+    "top3_l1_share": 0.955,
+    "top1_l2_size_in_agenda": 35,
+    "top1_l2_share": 0.263,
+    "top3_l2_share": 0.579,
+    "top_l1": [
+      {
+        "l1": 390,
+        "size_in_agenda": 86,
+        "l1_total_size": 2308
+      },
+      {
+        "l1": 110,
+        "size_in_agenda": 37,
+        "l1_total_size": 6297
+      },
+      {
+        "l1": 166,
+        "size_in_agenda": 4,
+        "l1_total_size": 4807
+      },
+      {
+        "l1": 69,
+        "size_in_agenda": 2,
+        "l1_total_size": 8048
+      },
+      {
+        "l1": 400,
+        "size_in_agenda": 2,
+        "l1_total_size": 2236
+      },
+      {
+        "l1": 116,
+        "size_in_agenda": 1,
+        "l1_total_size": 6008
+      },
+      {
+        "l1": 475,
+        "size_in_agenda": 1,
+        "l1_total_size": 1873
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 390000000,
+        "size_in_agenda": 35,
+        "l2_total_size": 186
+      },
+      {
+        "l2": 110000002,
+        "size_in_agenda": 29,
+        "l2_total_size": 165
+      },
+      {
+        "l2": 390000003,
+        "size_in_agenda": 13,
+        "l2_total_size": 97
+      },
+      {
+        "l2": 390000010,
+        "size_in_agenda": 8,
+        "l2_total_size": 60
+      },
+      {
+        "l2": 110000009,
+        "size_in_agenda": 6,
+        "l2_total_size": 81
+      },
+      {
+        "l2": 390000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 103
+      },
+      {
+        "l2": 166000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 223
+      },
+      {
+        "l2": 390000015,
+        "size_in_agenda": 4,
+        "l2_total_size": 35
+      },
+      {
+        "l2": 390000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 71
+      },
+      {
+        "l2": 390000006,
+        "size_in_agenda": 3,
+        "l2_total_size": 75
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 17,
+    "agenda": "Circular Economy Strategies for Climate Change & Carbon Neutrality",
+    "agenda_full": "Circular Economy Strategies for Climate Change & Carbon Neutrality",
+    "total_papers_found": 10221,
+    "community_count": 132,
+    "n_in_hier": 132,
+    "n_not_in_hier": 0,
+    "unique_l1": 42,
+    "unique_l2": 103,
+    "top1_l1_size_in_agenda": 15,
+    "top1_l1_share": 0.114,
+    "top3_l1_share": 0.265,
+    "top1_l2_size_in_agenda": 8,
+    "top1_l2_share": 0.061,
+    "top3_l2_share": 0.121,
+    "top_l1": [
+      {
+        "l1": 94,
+        "size_in_agenda": 15,
+        "l1_total_size": 7061
+      },
+      {
+        "l1": 390,
+        "size_in_agenda": 10,
+        "l1_total_size": 2308
+      },
+      {
+        "l1": 4,
+        "size_in_agenda": 10,
+        "l1_total_size": 25684
+      },
+      {
+        "l1": 38,
+        "size_in_agenda": 9,
+        "l1_total_size": 10025
+      },
+      {
+        "l1": 130,
+        "size_in_agenda": 8,
+        "l1_total_size": 5464
+      },
+      {
+        "l1": 165,
+        "size_in_agenda": 6,
+        "l1_total_size": 4810
+      },
+      {
+        "l1": 70,
+        "size_in_agenda": 6,
+        "l1_total_size": 8044
+      },
+      {
+        "l1": 648,
+        "size_in_agenda": 5,
+        "l1_total_size": 1309
+      },
+      {
+        "l1": 44,
+        "size_in_agenda": 5,
+        "l1_total_size": 9781
+      },
+      {
+        "l1": 166,
+        "size_in_agenda": 4,
+        "l1_total_size": 4807
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 94000000,
+        "size_in_agenda": 8,
+        "l2_total_size": 537
+      },
+      {
+        "l2": 165000010,
+        "size_in_agenda": 4,
+        "l2_total_size": 92
+      },
+      {
+        "l2": 390000000,
+        "size_in_agenda": 4,
+        "l2_total_size": 186
+      },
+      {
+        "l2": 38000012,
+        "size_in_agenda": 3,
+        "l2_total_size": 153
+      },
+      {
+        "l2": 4000092,
+        "size_in_agenda": 3,
+        "l2_total_size": 89
+      },
+      {
+        "l2": 145000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 157
+      },
+      {
+        "l2": 390000019,
+        "size_in_agenda": 2,
+        "l2_total_size": 31
+      },
+      {
+        "l2": 166000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 368
+      },
+      {
+        "l2": 1021000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 97
+      },
+      {
+        "l2": 4000162,
+        "size_in_agenda": 2,
+        "l2_total_size": 35
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 15,
+    "agenda": "Circular Economy: Definitions / Critiques & Measurement Indicators",
+    "agenda_full": "Circular Economy: Definitions / Critiques & Measurement Indicators",
+    "total_papers_found": 236567,
+    "community_count": 125,
+    "n_in_hier": 125,
+    "n_not_in_hier": 0,
+    "unique_l1": 15,
+    "unique_l2": 30,
+    "top1_l1_size_in_agenda": 96,
+    "top1_l1_share": 0.768,
+    "top3_l1_share": 0.856,
+    "top1_l2_size_in_agenda": 88,
+    "top1_l2_share": 0.704,
+    "top3_l2_share": 0.76,
+    "top_l1": [
+      {
+        "l1": 94,
+        "size_in_agenda": 96,
+        "l1_total_size": 7061
+      },
+      {
+        "l1": 156,
+        "size_in_agenda": 7,
+        "l1_total_size": 4974
+      },
+      {
+        "l1": 346,
+        "size_in_agenda": 4,
+        "l1_total_size": 2623
+      },
+      {
+        "l1": 475,
+        "size_in_agenda": 3,
+        "l1_total_size": 1873
+      },
+      {
+        "l1": 76,
+        "size_in_agenda": 3,
+        "l1_total_size": 7880
+      },
+      {
+        "l1": 235,
+        "size_in_agenda": 2,
+        "l1_total_size": 3729
+      },
+      {
+        "l1": 20,
+        "size_in_agenda": 2,
+        "l1_total_size": 13129
+      },
+      {
+        "l1": 166,
+        "size_in_agenda": 1,
+        "l1_total_size": 4807
+      },
+      {
+        "l1": 153,
+        "size_in_agenda": 1,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 142,
+        "size_in_agenda": 1,
+        "l1_total_size": 5254
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 94000000,
+        "size_in_agenda": 88,
+        "l2_total_size": 537
+      },
+      {
+        "l2": 156000000,
+        "size_in_agenda": 5,
+        "l2_total_size": 440
+      },
+      {
+        "l2": 475000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 164
+      },
+      {
+        "l2": 346000001,
+        "size_in_agenda": 2,
+        "l2_total_size": 224
+      },
+      {
+        "l2": 20000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 603
+      },
+      {
+        "l2": 94000010,
+        "size_in_agenda": 2,
+        "l2_total_size": 97
+      },
+      {
+        "l2": 94000005,
+        "size_in_agenda": 1,
+        "l2_total_size": 181
+      },
+      {
+        "l2": 94000009,
+        "size_in_agenda": 1,
+        "l2_total_size": 117
+      },
+      {
+        "l2": 166000000,
+        "size_in_agenda": 1,
+        "l2_total_size": 368
+      },
+      {
+        "l2": 156000001,
+        "size_in_agenda": 1,
+        "l2_total_size": 250
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 8,
+    "agenda": "Heavy Metal Removal from Water & Wastewater",
+    "agenda_full": "Heavy Metal Removal from Water & Wastewater",
+    "total_papers_found": 19763,
+    "community_count": 98,
+    "n_in_hier": 98,
+    "n_not_in_hier": 0,
+    "unique_l1": 19,
+    "unique_l2": 64,
+    "top1_l1_size_in_agenda": 53,
+    "top1_l1_share": 0.541,
+    "top3_l1_share": 0.714,
+    "top1_l2_size_in_agenda": 7,
+    "top1_l2_share": 0.071,
+    "top3_l2_share": 0.163,
+    "top_l1": [
+      {
+        "l1": 22,
+        "size_in_agenda": 53,
+        "l1_total_size": 12870
+      },
+      {
+        "l1": 43,
+        "size_in_agenda": 9,
+        "l1_total_size": 9786
+      },
+      {
+        "l1": 42,
+        "size_in_agenda": 8,
+        "l1_total_size": 9789
+      },
+      {
+        "l1": 35,
+        "size_in_agenda": 6,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 133,
+        "size_in_agenda": 5,
+        "l1_total_size": 5346
+      },
+      {
+        "l1": 484,
+        "size_in_agenda": 2,
+        "l1_total_size": 1829
+      },
+      {
+        "l1": 293,
+        "size_in_agenda": 2,
+        "l1_total_size": 3101
+      },
+      {
+        "l1": 716,
+        "size_in_agenda": 2,
+        "l1_total_size": 1151
+      },
+      {
+        "l1": 179,
+        "size_in_agenda": 1,
+        "l1_total_size": 4641
+      },
+      {
+        "l1": 150,
+        "size_in_agenda": 1,
+        "l1_total_size": 5061
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 22000002,
+        "size_in_agenda": 7,
+        "l2_total_size": 186
+      },
+      {
+        "l2": 22000060,
+        "size_in_agenda": 5,
+        "l2_total_size": 38
+      },
+      {
+        "l2": 42000032,
+        "size_in_agenda": 4,
+        "l2_total_size": 58
+      },
+      {
+        "l2": 42000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 251
+      },
+      {
+        "l2": 22000021,
+        "size_in_agenda": 3,
+        "l2_total_size": 69
+      },
+      {
+        "l2": 35000023,
+        "size_in_agenda": 3,
+        "l2_total_size": 101
+      },
+      {
+        "l2": 22000010,
+        "size_in_agenda": 3,
+        "l2_total_size": 119
+      },
+      {
+        "l2": 133000033,
+        "size_in_agenda": 3,
+        "l2_total_size": 41
+      },
+      {
+        "l2": 22000036,
+        "size_in_agenda": 3,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 22000020,
+        "size_in_agenda": 2,
+        "l2_total_size": 75
+      }
+    ]
+  },
+  {
+    "category": "environmental_science",
+    "no": 25,
+    "agenda": "Machine Learning & Renewable Energy for Environmental Sustainability",
+    "agenda_full": "Machine Learning & Renewable Energy for Environmental Sustainability",
+    "total_papers_found": 9932,
+    "community_count": 90,
+    "n_in_hier": 90,
+    "n_not_in_hier": 0,
+    "unique_l1": 55,
+    "unique_l2": 79,
+    "top1_l1_size_in_agenda": 13,
+    "top1_l1_share": 0.144,
+    "top3_l1_share": 0.256,
+    "top1_l2_size_in_agenda": 4,
+    "top1_l2_share": 0.044,
+    "top3_l2_share": 0.111,
+    "top_l1": [
+      {
+        "l1": 69,
+        "size_in_agenda": 13,
+        "l1_total_size": 8048
+      },
+      {
+        "l1": 82,
+        "size_in_agenda": 6,
+        "l1_total_size": 7460
+      },
+      {
+        "l1": 28,
+        "size_in_agenda": 4,
+        "l1_total_size": 12027
+      },
+      {
+        "l1": 494,
+        "size_in_agenda": 4,
+        "l1_total_size": 1786
+      },
+      {
+        "l1": 351,
+        "size_in_agenda": 3,
+        "l1_total_size": 2581
+      },
+      {
+        "l1": 22,
+        "size_in_agenda": 2,
+        "l1_total_size": 12870
+      },
+      {
+        "l1": 661,
+        "size_in_agenda": 2,
+        "l1_total_size": 1282
+      },
+      {
+        "l1": 157,
+        "size_in_agenda": 2,
+        "l1_total_size": 4945
+      },
+      {
+        "l1": 153,
+        "size_in_agenda": 2,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 94,
+        "size_in_agenda": 2,
+        "l1_total_size": 7061
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 69000113,
+        "size_in_agenda": 4,
+        "l2_total_size": 20
+      },
+      {
+        "l2": 351000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 40
+      },
+      {
+        "l2": 28000009,
+        "size_in_agenda": 3,
+        "l2_total_size": 168
+      },
+      {
+        "l2": 69000084,
+        "size_in_agenda": 2,
+        "l2_total_size": 22
+      },
+      {
+        "l2": 22000136,
+        "size_in_agenda": 2,
+        "l2_total_size": 27
+      },
+      {
+        "l2": 82000108,
+        "size_in_agenda": 2,
+        "l2_total_size": 20
+      },
+      {
+        "l2": 646000004,
+        "size_in_agenda": 2,
+        "l2_total_size": 38
+      },
+      {
+        "l2": 726000027,
+        "size_in_agenda": 1,
+        "l2_total_size": 11
+      },
+      {
+        "l2": 404000001,
+        "size_in_agenda": 1,
+        "l2_total_size": 159
+      },
+      {
+        "l2": 82000220,
+        "size_in_agenda": 1,
+        "l2_total_size": 5
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 3,
+    "agenda": "Direct Ink Writing / Metal Additive Manufacturing & DED",
+    "agenda_full": "Direct Ink Writing / Metal Additive Manufacturing & DED",
+    "total_papers_found": 10244,
+    "community_count": 254,
+    "n_in_hier": 254,
+    "n_not_in_hier": 0,
+    "unique_l1": 9,
+    "unique_l2": 60,
+    "top1_l1_size_in_agenda": 214,
+    "top1_l1_share": 0.843,
+    "top3_l1_share": 0.961,
+    "top1_l2_size_in_agenda": 27,
+    "top1_l2_share": 0.106,
+    "top3_l2_share": 0.28,
+    "top_l1": [
+      {
+        "l1": 37,
+        "size_in_agenda": 214,
+        "l1_total_size": 10242
+      },
+      {
+        "l1": 224,
+        "size_in_agenda": 19,
+        "l1_total_size": 3797
+      },
+      {
+        "l1": 34,
+        "size_in_agenda": 11,
+        "l1_total_size": 11054
+      },
+      {
+        "l1": 86,
+        "size_in_agenda": 3,
+        "l1_total_size": 7367
+      },
+      {
+        "l1": 200,
+        "size_in_agenda": 3,
+        "l1_total_size": 4229
+      },
+      {
+        "l1": 421,
+        "size_in_agenda": 1,
+        "l1_total_size": 2114
+      },
+      {
+        "l1": 162,
+        "size_in_agenda": 1,
+        "l1_total_size": 4915
+      },
+      {
+        "l1": 153,
+        "size_in_agenda": 1,
+        "l1_total_size": 4984
+      },
+      {
+        "l1": 114,
+        "size_in_agenda": 1,
+        "l1_total_size": 6075
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 37000004,
+        "size_in_agenda": 27,
+        "l2_total_size": 315
+      },
+      {
+        "l2": 37000003,
+        "size_in_agenda": 23,
+        "l2_total_size": 315
+      },
+      {
+        "l2": 37000010,
+        "size_in_agenda": 21,
+        "l2_total_size": 168
+      },
+      {
+        "l2": 37000014,
+        "size_in_agenda": 15,
+        "l2_total_size": 153
+      },
+      {
+        "l2": 37000000,
+        "size_in_agenda": 14,
+        "l2_total_size": 525
+      },
+      {
+        "l2": 224000008,
+        "size_in_agenda": 13,
+        "l2_total_size": 66
+      },
+      {
+        "l2": 37000005,
+        "size_in_agenda": 10,
+        "l2_total_size": 309
+      },
+      {
+        "l2": 34000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 1077
+      },
+      {
+        "l2": 37000001,
+        "size_in_agenda": 10,
+        "l2_total_size": 454
+      },
+      {
+        "l2": 37000021,
+        "size_in_agenda": 9,
+        "l2_total_size": 115
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 9,
+    "agenda": "Hydrogel-based Flexible Electronics",
+    "agenda_full": "Hydrogel-based Flexible Electronics",
+    "total_papers_found": 10892,
+    "community_count": 223,
+    "n_in_hier": 223,
+    "n_not_in_hier": 0,
+    "unique_l1": 5,
+    "unique_l2": 27,
+    "top1_l1_size_in_agenda": 212,
+    "top1_l1_share": 0.951,
+    "top3_l1_share": 0.987,
+    "top1_l2_size_in_agenda": 160,
+    "top1_l2_share": 0.717,
+    "top3_l2_share": 0.785,
+    "top_l1": [
+      {
+        "l1": 50,
+        "size_in_agenda": 212,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 52,
+        "size_in_agenda": 5,
+        "l1_total_size": 8696
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 3,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 131,
+        "size_in_agenda": 2,
+        "l1_total_size": 5396
+      },
+      {
+        "l1": 30,
+        "size_in_agenda": 1,
+        "l1_total_size": 11675
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 50000001,
+        "size_in_agenda": 160,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 50000010,
+        "size_in_agenda": 8,
+        "l2_total_size": 115
+      },
+      {
+        "l2": 50000012,
+        "size_in_agenda": 7,
+        "l2_total_size": 101
+      },
+      {
+        "l2": 50000018,
+        "size_in_agenda": 7,
+        "l2_total_size": 72
+      },
+      {
+        "l2": 52000005,
+        "size_in_agenda": 4,
+        "l2_total_size": 225
+      },
+      {
+        "l2": 50000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 413
+      },
+      {
+        "l2": 50000002,
+        "size_in_agenda": 4,
+        "l2_total_size": 517
+      },
+      {
+        "l2": 50000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 444
+      },
+      {
+        "l2": 50000032,
+        "size_in_agenda": 3,
+        "l2_total_size": 36
+      },
+      {
+        "l2": 131000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 758
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 2,
+    "agenda": "Flexible MXene Composites for Wearable Devices",
+    "agenda_full": "Flexible MXene Composites for Wearable Devices",
+    "total_papers_found": 2196,
+    "community_count": 179,
+    "n_in_hier": 179,
+    "n_not_in_hier": 0,
+    "unique_l1": 16,
+    "unique_l2": 63,
+    "top1_l1_size_in_agenda": 102,
+    "top1_l1_share": 0.57,
+    "top3_l1_share": 0.844,
+    "top1_l2_size_in_agenda": 42,
+    "top1_l2_share": 0.235,
+    "top3_l2_share": 0.408,
+    "top_l1": [
+      {
+        "l1": 50,
+        "size_in_agenda": 102,
+        "l1_total_size": 8768
+      },
+      {
+        "l1": 105,
+        "size_in_agenda": 39,
+        "l1_total_size": 6521
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 10,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 131,
+        "size_in_agenda": 6,
+        "l1_total_size": 5396
+      },
+      {
+        "l1": 52,
+        "size_in_agenda": 4,
+        "l1_total_size": 8696
+      },
+      {
+        "l1": 40,
+        "size_in_agenda": 3,
+        "l1_total_size": 9952
+      },
+      {
+        "l1": 30,
+        "size_in_agenda": 3,
+        "l1_total_size": 11675
+      },
+      {
+        "l1": 124,
+        "size_in_agenda": 3,
+        "l1_total_size": 5618
+      },
+      {
+        "l1": 129,
+        "size_in_agenda": 2,
+        "l1_total_size": 5501
+      },
+      {
+        "l1": 906,
+        "size_in_agenda": 1,
+        "l1_total_size": 787
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 50000000,
+        "size_in_agenda": 42,
+        "l2_total_size": 648
+      },
+      {
+        "l2": 50000001,
+        "size_in_agenda": 16,
+        "l2_total_size": 541
+      },
+      {
+        "l2": 50000002,
+        "size_in_agenda": 15,
+        "l2_total_size": 517
+      },
+      {
+        "l2": 105000001,
+        "size_in_agenda": 14,
+        "l2_total_size": 768
+      },
+      {
+        "l2": 105000002,
+        "size_in_agenda": 13,
+        "l2_total_size": 728
+      },
+      {
+        "l2": 11000001,
+        "size_in_agenda": 4,
+        "l2_total_size": 556
+      },
+      {
+        "l2": 50000096,
+        "size_in_agenda": 3,
+        "l2_total_size": 18
+      },
+      {
+        "l2": 30000015,
+        "size_in_agenda": 3,
+        "l2_total_size": 137
+      },
+      {
+        "l2": 50000085,
+        "size_in_agenda": 3,
+        "l2_total_size": 19
+      },
+      {
+        "l2": 11000044,
+        "size_in_agenda": 3,
+        "l2_total_size": 91
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 10,
+    "agenda": "S-Scheme & Advanced Photocatalysts",
+    "agenda_full": "S-Scheme & Advanced Photocatalysts",
+    "total_papers_found": 14280,
+    "community_count": 174,
+    "n_in_hier": 174,
+    "n_not_in_hier": 0,
+    "unique_l1": 4,
+    "unique_l2": 56,
+    "top1_l1_size_in_agenda": 165,
+    "top1_l1_share": 0.948,
+    "top3_l1_share": 0.994,
+    "top1_l2_size_in_agenda": 39,
+    "top1_l2_share": 0.224,
+    "top3_l2_share": 0.448,
+    "top_l1": [
+      {
+        "l1": 7,
+        "size_in_agenda": 165,
+        "l1_total_size": 18403
+      },
+      {
+        "l1": 17,
+        "size_in_agenda": 6,
+        "l1_total_size": 15035
+      },
+      {
+        "l1": 35,
+        "size_in_agenda": 2,
+        "l1_total_size": 10968
+      },
+      {
+        "l1": 42,
+        "size_in_agenda": 1,
+        "l1_total_size": 9789
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 7000011,
+        "size_in_agenda": 39,
+        "l2_total_size": 172
+      },
+      {
+        "l2": 7000015,
+        "size_in_agenda": 27,
+        "l2_total_size": 130
+      },
+      {
+        "l2": 7000006,
+        "size_in_agenda": 12,
+        "l2_total_size": 236
+      },
+      {
+        "l2": 7000058,
+        "size_in_agenda": 8,
+        "l2_total_size": 52
+      },
+      {
+        "l2": 7000073,
+        "size_in_agenda": 6,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 7000009,
+        "size_in_agenda": 6,
+        "l2_total_size": 184
+      },
+      {
+        "l2": 17000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 332
+      },
+      {
+        "l2": 7000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 742
+      },
+      {
+        "l2": 7000072,
+        "size_in_agenda": 3,
+        "l2_total_size": 47
+      },
+      {
+        "l2": 7000024,
+        "size_in_agenda": 3,
+        "l2_total_size": 90
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 15,
+    "agenda": "Composite Polymer Electrolytes for Solid-State Li Batteries",
+    "agenda_full": "Composite Polymer Electrolytes for Solid-State Li Batteries",
+    "total_papers_found": 6097,
+    "community_count": 170,
+    "n_in_hier": 170,
+    "n_not_in_hier": 0,
+    "unique_l1": 3,
+    "unique_l2": 29,
+    "top1_l1_size_in_agenda": 168,
+    "top1_l1_share": 0.988,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 105,
+    "top1_l2_share": 0.618,
+    "top3_l2_share": 0.712,
+    "top_l1": [
+      {
+        "l1": 59,
+        "size_in_agenda": 168,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 1,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 574,
+        "size_in_agenda": 1,
+        "l1_total_size": 1518
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 59000004,
+        "size_in_agenda": 105,
+        "l2_total_size": 428
+      },
+      {
+        "l2": 59000024,
+        "size_in_agenda": 9,
+        "l2_total_size": 56
+      },
+      {
+        "l2": 59000017,
+        "size_in_agenda": 7,
+        "l2_total_size": 79
+      },
+      {
+        "l2": 59000005,
+        "size_in_agenda": 6,
+        "l2_total_size": 331
+      },
+      {
+        "l2": 59000003,
+        "size_in_agenda": 5,
+        "l2_total_size": 466
+      },
+      {
+        "l2": 59000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 534
+      },
+      {
+        "l2": 59000026,
+        "size_in_agenda": 4,
+        "l2_total_size": 48
+      },
+      {
+        "l2": 59000008,
+        "size_in_agenda": 2,
+        "l2_total_size": 253
+      },
+      {
+        "l2": 59000010,
+        "size_in_agenda": 2,
+        "l2_total_size": 159
+      },
+      {
+        "l2": 59000028,
+        "size_in_agenda": 2,
+        "l2_total_size": 45
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 6,
+    "agenda": "Halide Perovskite Nanocrystals & Optoelectronics",
+    "agenda_full": "Halide Perovskite Nanocrystals & Optoelectronics",
+    "total_papers_found": 12673,
+    "community_count": 162,
+    "n_in_hier": 162,
+    "n_not_in_hier": 0,
+    "unique_l1": 3,
+    "unique_l2": 29,
+    "top1_l1_size_in_agenda": 160,
+    "top1_l1_share": 0.988,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 72,
+    "top1_l2_share": 0.444,
+    "top3_l2_share": 0.642,
+    "top_l1": [
+      {
+        "l1": 27,
+        "size_in_agenda": 160,
+        "l1_total_size": 12144
+      },
+      {
+        "l1": 107,
+        "size_in_agenda": 1,
+        "l1_total_size": 6437
+      },
+      {
+        "l1": 151,
+        "size_in_agenda": 1,
+        "l1_total_size": 5000
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 27000000,
+        "size_in_agenda": 72,
+        "l2_total_size": 862
+      },
+      {
+        "l2": 27000005,
+        "size_in_agenda": 22,
+        "l2_total_size": 378
+      },
+      {
+        "l2": 27000003,
+        "size_in_agenda": 10,
+        "l2_total_size": 438
+      },
+      {
+        "l2": 27000007,
+        "size_in_agenda": 9,
+        "l2_total_size": 301
+      },
+      {
+        "l2": 27000004,
+        "size_in_agenda": 9,
+        "l2_total_size": 379
+      },
+      {
+        "l2": 27000006,
+        "size_in_agenda": 7,
+        "l2_total_size": 322
+      },
+      {
+        "l2": 27000019,
+        "size_in_agenda": 3,
+        "l2_total_size": 149
+      },
+      {
+        "l2": 27000012,
+        "size_in_agenda": 3,
+        "l2_total_size": 235
+      },
+      {
+        "l2": 27000041,
+        "size_in_agenda": 2,
+        "l2_total_size": 51
+      },
+      {
+        "l2": 27000030,
+        "size_in_agenda": 2,
+        "l2_total_size": 79
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 22,
+    "agenda": "Electromagnetic Wave Absorption Materials",
+    "agenda_full": "Electromagnetic Wave Absorption Materials",
+    "total_papers_found": 34454,
+    "community_count": 155,
+    "n_in_hier": 155,
+    "n_not_in_hier": 0,
+    "unique_l1": 8,
+    "unique_l2": 34,
+    "top1_l1_size_in_agenda": 78,
+    "top1_l1_share": 0.503,
+    "top3_l1_share": 0.961,
+    "top1_l2_size_in_agenda": 49,
+    "top1_l2_share": 0.316,
+    "top3_l2_share": 0.51,
+    "top_l1": [
+      {
+        "l1": 209,
+        "size_in_agenda": 78,
+        "l1_total_size": 4008
+      },
+      {
+        "l1": 21,
+        "size_in_agenda": 69,
+        "l1_total_size": 13006
+      },
+      {
+        "l1": 99,
+        "size_in_agenda": 2,
+        "l1_total_size": 6771
+      },
+      {
+        "l1": 105,
+        "size_in_agenda": 2,
+        "l1_total_size": 6521
+      },
+      {
+        "l1": 61,
+        "size_in_agenda": 1,
+        "l1_total_size": 8314
+      },
+      {
+        "l1": 9,
+        "size_in_agenda": 1,
+        "l1_total_size": 16550
+      },
+      {
+        "l1": 12,
+        "size_in_agenda": 1,
+        "l1_total_size": 16393
+      },
+      {
+        "l1": 854,
+        "size_in_agenda": 1,
+        "l1_total_size": 869
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 209000000,
+        "size_in_agenda": 49,
+        "l2_total_size": 696
+      },
+      {
+        "l2": 21000000,
+        "size_in_agenda": 16,
+        "l2_total_size": 736
+      },
+      {
+        "l2": 21000003,
+        "size_in_agenda": 14,
+        "l2_total_size": 403
+      },
+      {
+        "l2": 209000002,
+        "size_in_agenda": 12,
+        "l2_total_size": 291
+      },
+      {
+        "l2": 21000009,
+        "size_in_agenda": 10,
+        "l2_total_size": 248
+      },
+      {
+        "l2": 21000017,
+        "size_in_agenda": 7,
+        "l2_total_size": 201
+      },
+      {
+        "l2": 209000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 465
+      },
+      {
+        "l2": 21000021,
+        "size_in_agenda": 4,
+        "l2_total_size": 180
+      },
+      {
+        "l2": 209000004,
+        "size_in_agenda": 4,
+        "l2_total_size": 147
+      },
+      {
+        "l2": 21000007,
+        "size_in_agenda": 3,
+        "l2_total_size": 252
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 18,
+    "agenda": "Electrolyte Solvation Structure & Interfacial Modeling in Batteries",
+    "agenda_full": "Electrolyte Solvation Structure & Interfacial Modeling in Batteries",
+    "total_papers_found": 8452,
+    "community_count": 141,
+    "n_in_hier": 141,
+    "n_not_in_hier": 0,
+    "unique_l1": 3,
+    "unique_l2": 31,
+    "top1_l1_size_in_agenda": 78,
+    "top1_l1_share": 0.553,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 43,
+    "top1_l2_share": 0.305,
+    "top3_l2_share": 0.582,
+    "top_l1": [
+      {
+        "l1": 59,
+        "size_in_agenda": 78,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 62,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 181,
+        "size_in_agenda": 1,
+        "l1_total_size": 4613
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 59000006,
+        "size_in_agenda": 43,
+        "l2_total_size": 286
+      },
+      {
+        "l2": 11000023,
+        "size_in_agenda": 25,
+        "l2_total_size": 166
+      },
+      {
+        "l2": 11000026,
+        "size_in_agenda": 14,
+        "l2_total_size": 150
+      },
+      {
+        "l2": 59000016,
+        "size_in_agenda": 9,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 59000002,
+        "size_in_agenda": 9,
+        "l2_total_size": 514
+      },
+      {
+        "l2": 59000025,
+        "size_in_agenda": 4,
+        "l2_total_size": 50
+      },
+      {
+        "l2": 59000012,
+        "size_in_agenda": 4,
+        "l2_total_size": 129
+      },
+      {
+        "l2": 11000071,
+        "size_in_agenda": 4,
+        "l2_total_size": 48
+      },
+      {
+        "l2": 11000002,
+        "size_in_agenda": 3,
+        "l2_total_size": 535
+      },
+      {
+        "l2": 11000024,
+        "size_in_agenda": 3,
+        "l2_total_size": 166
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 20,
+    "agenda": "Water Splitting & Hydrogen Evolution Reaction (HER) Catalysts",
+    "agenda_full": "Water Splitting & Hydrogen Evolution Reaction (HER) Catalysts",
+    "total_papers_found": 36920,
+    "community_count": 122,
+    "n_in_hier": 122,
+    "n_not_in_hier": 0,
+    "unique_l1": 1,
+    "unique_l2": 21,
+    "top1_l1_size_in_agenda": 122,
+    "top1_l1_share": 1.0,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 77,
+    "top1_l2_share": 0.631,
+    "top3_l2_share": 0.754,
+    "top_l1": [
+      {
+        "l1": 30,
+        "size_in_agenda": 122,
+        "l1_total_size": 11675
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 30000000,
+        "size_in_agenda": 77,
+        "l2_total_size": 695
+      },
+      {
+        "l2": 30000003,
+        "size_in_agenda": 8,
+        "l2_total_size": 448
+      },
+      {
+        "l2": 30000004,
+        "size_in_agenda": 7,
+        "l2_total_size": 439
+      },
+      {
+        "l2": 30000013,
+        "size_in_agenda": 6,
+        "l2_total_size": 163
+      },
+      {
+        "l2": 30000017,
+        "size_in_agenda": 5,
+        "l2_total_size": 123
+      },
+      {
+        "l2": 30000011,
+        "size_in_agenda": 3,
+        "l2_total_size": 174
+      },
+      {
+        "l2": 30000036,
+        "size_in_agenda": 2,
+        "l2_total_size": 46
+      },
+      {
+        "l2": 30000016,
+        "size_in_agenda": 1,
+        "l2_total_size": 130
+      },
+      {
+        "l2": 30000014,
+        "size_in_agenda": 1,
+        "l2_total_size": 140
+      },
+      {
+        "l2": 30000054,
+        "size_in_agenda": 1,
+        "l2_total_size": 34
+      }
+    ]
+  },
+  {
+    "category": "materials_science",
+    "no": 13,
+    "agenda": "Solid Electrolyte Interphase (SEI) & Li Metal Anode Engineering",
+    "agenda_full": "Solid Electrolyte Interphase (SEI) & Li Metal Anode Engineering",
+    "total_papers_found": 9860,
+    "community_count": 121,
+    "n_in_hier": 121,
+    "n_not_in_hier": 0,
+    "unique_l1": 3,
+    "unique_l2": 33,
+    "top1_l1_size_in_agenda": 91,
+    "top1_l1_share": 0.752,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 32,
+    "top1_l2_share": 0.264,
+    "top3_l2_share": 0.554,
+    "top_l1": [
+      {
+        "l1": 59,
+        "size_in_agenda": 91,
+        "l1_total_size": 8490
+      },
+      {
+        "l1": 11,
+        "size_in_agenda": 27,
+        "l1_total_size": 16413
+      },
+      {
+        "l1": 373,
+        "size_in_agenda": 3,
+        "l1_total_size": 2403
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 59000006,
+        "size_in_agenda": 32,
+        "l2_total_size": 286
+      },
+      {
+        "l2": 59000002,
+        "size_in_agenda": 26,
+        "l2_total_size": 514
+      },
+      {
+        "l2": 11000026,
+        "size_in_agenda": 9,
+        "l2_total_size": 150
+      },
+      {
+        "l2": 59000003,
+        "size_in_agenda": 7,
+        "l2_total_size": 466
+      },
+      {
+        "l2": 59000001,
+        "size_in_agenda": 5,
+        "l2_total_size": 534
+      },
+      {
+        "l2": 59000016,
+        "size_in_agenda": 5,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 59000012,
+        "size_in_agenda": 3,
+        "l2_total_size": 129
+      },
+      {
+        "l2": 11000007,
+        "size_in_agenda": 3,
+        "l2_total_size": 406
+      },
+      {
+        "l2": 11000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 491
+      },
+      {
+        "l2": 11000023,
+        "size_in_agenda": 3,
+        "l2_total_size": 166
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 19,
+    "agenda": "Hubble Tension & Cosmological Solutions",
+    "agenda_full": "Hubble Tension & Cosmological Solutions",
+    "total_papers_found": 21617,
+    "community_count": 366,
+    "n_in_hier": 366,
+    "n_not_in_hier": 0,
+    "unique_l1": 10,
+    "unique_l2": 41,
+    "top1_l1_size_in_agenda": 308,
+    "top1_l1_share": 0.842,
+    "top3_l1_share": 0.964,
+    "top1_l2_size_in_agenda": 258,
+    "top1_l2_share": 0.705,
+    "top3_l2_share": 0.781,
+    "top_l1": [
+      {
+        "l1": 0,
+        "size_in_agenda": 308,
+        "l1_total_size": 53498
+      },
+      {
+        "l1": 2,
+        "size_in_agenda": 30,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 204,
+        "size_in_agenda": 15,
+        "l1_total_size": 4137
+      },
+      {
+        "l1": 10,
+        "size_in_agenda": 3,
+        "l1_total_size": 16494
+      },
+      {
+        "l1": 269,
+        "size_in_agenda": 2,
+        "l1_total_size": 3302
+      },
+      {
+        "l1": 467,
+        "size_in_agenda": 2,
+        "l1_total_size": 1899
+      },
+      {
+        "l1": 2461,
+        "size_in_agenda": 2,
+        "l1_total_size": 91
+      },
+      {
+        "l1": 602,
+        "size_in_agenda": 2,
+        "l1_total_size": 1444
+      },
+      {
+        "l1": 17680,
+        "size_in_agenda": 1,
+        "l1_total_size": 2
+      },
+      {
+        "l1": 331,
+        "size_in_agenda": 1,
+        "l1_total_size": 2737
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 6,
+        "size_in_agenda": 258,
+        "l2_total_size": 1066
+      },
+      {
+        "l2": 204000001,
+        "size_in_agenda": 15,
+        "l2_total_size": 242
+      },
+      {
+        "l2": 58,
+        "size_in_agenda": 13,
+        "l2_total_size": 276
+      },
+      {
+        "l2": 2000015,
+        "size_in_agenda": 10,
+        "l2_total_size": 483
+      },
+      {
+        "l2": 37,
+        "size_in_agenda": 7,
+        "l2_total_size": 456
+      },
+      {
+        "l2": 15,
+        "size_in_agenda": 6,
+        "l2_total_size": 810
+      },
+      {
+        "l2": 2000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 1286
+      },
+      {
+        "l2": 66,
+        "size_in_agenda": 5,
+        "l2_total_size": 249
+      },
+      {
+        "l2": 54,
+        "size_in_agenda": 3,
+        "l2_total_size": 285
+      },
+      {
+        "l2": 2000001,
+        "size_in_agenda": 3,
+        "l2_total_size": 1134
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 18,
+    "agenda": "Primordial Black Holes & Cosmological Constraints",
+    "agenda_full": "Primordial Black Holes & Cosmological Constraints",
+    "total_papers_found": 3427,
+    "community_count": 301,
+    "n_in_hier": 301,
+    "n_not_in_hier": 0,
+    "unique_l1": 2,
+    "unique_l2": 12,
+    "top1_l1_size_in_agenda": 282,
+    "top1_l1_share": 0.937,
+    "top3_l1_share": 1.0,
+    "top1_l2_size_in_agenda": 266,
+    "top1_l2_share": 0.884,
+    "top3_l2_share": 0.953,
+    "top_l1": [
+      {
+        "l1": 2,
+        "size_in_agenda": 282,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 0,
+        "size_in_agenda": 19,
+        "l1_total_size": 53498
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 2000002,
+        "size_in_agenda": 266,
+        "l2_total_size": 1108
+      },
+      {
+        "l2": 9,
+        "size_in_agenda": 18,
+        "l2_total_size": 932
+      },
+      {
+        "l2": 2000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 846
+      },
+      {
+        "l2": 2000007,
+        "size_in_agenda": 2,
+        "l2_total_size": 647
+      },
+      {
+        "l2": 2000028,
+        "size_in_agenda": 2,
+        "l2_total_size": 301
+      },
+      {
+        "l2": 2000024,
+        "size_in_agenda": 2,
+        "l2_total_size": 331
+      },
+      {
+        "l2": 2000118,
+        "size_in_agenda": 2,
+        "l2_total_size": 39
+      },
+      {
+        "l2": 2000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 1286
+      },
+      {
+        "l2": 2000018,
+        "size_in_agenda": 1,
+        "l2_total_size": 411
+      },
+      {
+        "l2": 2000098,
+        "size_in_agenda": 1,
+        "l2_total_size": 49
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 23,
+    "agenda": "Gravitational Wave Detection (space-based antennas)",
+    "agenda_full": "Gravitational Wave Detection (space-based antennas)",
+    "total_papers_found": 5279,
+    "community_count": 279,
+    "n_in_hier": 279,
+    "n_not_in_hier": 0,
+    "unique_l1": 6,
+    "unique_l2": 30,
+    "top1_l1_size_in_agenda": 240,
+    "top1_l1_share": 0.86,
+    "top3_l1_share": 0.989,
+    "top1_l2_size_in_agenda": 67,
+    "top1_l2_share": 0.24,
+    "top3_l2_share": 0.581,
+    "top_l1": [
+      {
+        "l1": 2,
+        "size_in_agenda": 240,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 0,
+        "size_in_agenda": 33,
+        "l1_total_size": 53498
+      },
+      {
+        "l1": 14,
+        "size_in_agenda": 3,
+        "l1_total_size": 15650
+      },
+      {
+        "l1": 23,
+        "size_in_agenda": 1,
+        "l1_total_size": 12604
+      },
+      {
+        "l1": 55,
+        "size_in_agenda": 1,
+        "l1_total_size": 8652
+      },
+      {
+        "l1": 1642,
+        "size_in_agenda": 1,
+        "l1_total_size": 264
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 2000038,
+        "size_in_agenda": 67,
+        "l2_total_size": 218
+      },
+      {
+        "l2": 2000000,
+        "size_in_agenda": 62,
+        "l2_total_size": 1286
+      },
+      {
+        "l2": 2000002,
+        "size_in_agenda": 33,
+        "l2_total_size": 1108
+      },
+      {
+        "l2": 2000028,
+        "size_in_agenda": 28,
+        "l2_total_size": 301
+      },
+      {
+        "l2": 2000032,
+        "size_in_agenda": 18,
+        "l2_total_size": 250
+      },
+      {
+        "l2": 43,
+        "size_in_agenda": 14,
+        "l2_total_size": 392
+      },
+      {
+        "l2": 2000040,
+        "size_in_agenda": 12,
+        "l2_total_size": 195
+      },
+      {
+        "l2": 22,
+        "size_in_agenda": 8,
+        "l2_total_size": 646
+      },
+      {
+        "l2": 2000012,
+        "size_in_agenda": 5,
+        "l2_total_size": 589
+      },
+      {
+        "l2": 2000043,
+        "size_in_agenda": 4,
+        "l2_total_size": 177
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 10,
+    "agenda": "Non-Hermitian Physics & Exceptional Topology",
+    "agenda_full": "Non-Hermitian Physics & Exceptional Topology",
+    "total_papers_found": 15425,
+    "community_count": 249,
+    "n_in_hier": 249,
+    "n_not_in_hier": 0,
+    "unique_l1": 6,
+    "unique_l2": 15,
+    "top1_l1_size_in_agenda": 240,
+    "top1_l1_share": 0.964,
+    "top3_l1_share": 0.988,
+    "top1_l2_size_in_agenda": 221,
+    "top1_l2_share": 0.888,
+    "top3_l2_share": 0.924,
+    "top_l1": [
+      {
+        "l1": 9,
+        "size_in_agenda": 240,
+        "l1_total_size": 16550
+      },
+      {
+        "l1": 24,
+        "size_in_agenda": 5,
+        "l1_total_size": 12294
+      },
+      {
+        "l1": 209,
+        "size_in_agenda": 1,
+        "l1_total_size": 4008
+      },
+      {
+        "l1": 16,
+        "size_in_agenda": 1,
+        "l1_total_size": 15202
+      },
+      {
+        "l1": 13,
+        "size_in_agenda": 1,
+        "l1_total_size": 15955
+      },
+      {
+        "l1": 117,
+        "size_in_agenda": 1,
+        "l1_total_size": 5861
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 9000001,
+        "size_in_agenda": 221,
+        "l2_total_size": 1303
+      },
+      {
+        "l2": 9000003,
+        "size_in_agenda": 5,
+        "l2_total_size": 637
+      },
+      {
+        "l2": 24000006,
+        "size_in_agenda": 4,
+        "l2_total_size": 332
+      },
+      {
+        "l2": 9000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 1329
+      },
+      {
+        "l2": 9000005,
+        "size_in_agenda": 3,
+        "l2_total_size": 575
+      },
+      {
+        "l2": 9000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 621
+      },
+      {
+        "l2": 9000010,
+        "size_in_agenda": 2,
+        "l2_total_size": 416
+      },
+      {
+        "l2": 209000000,
+        "size_in_agenda": 1,
+        "l2_total_size": 696
+      },
+      {
+        "l2": 9000091,
+        "size_in_agenda": 1,
+        "l2_total_size": 19
+      },
+      {
+        "l2": 9000061,
+        "size_in_agenda": 1,
+        "l2_total_size": 48
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 6,
+    "agenda": "Tensor Network Methods (Matrix Product States / PEPS)",
+    "agenda_full": "Tensor Network Methods (Matrix Product States / PEPS)",
+    "total_papers_found": 7632,
+    "community_count": 242,
+    "n_in_hier": 242,
+    "n_not_in_hier": 0,
+    "unique_l1": 21,
+    "unique_l2": 69,
+    "top1_l1_size_in_agenda": 176,
+    "top1_l1_share": 0.727,
+    "top3_l1_share": 0.864,
+    "top1_l2_size_in_agenda": 70,
+    "top1_l2_share": 0.289,
+    "top3_l2_share": 0.434,
+    "top_l1": [
+      {
+        "l1": 16,
+        "size_in_agenda": 176,
+        "l1_total_size": 15202
+      },
+      {
+        "l1": 13,
+        "size_in_agenda": 21,
+        "l1_total_size": 15955
+      },
+      {
+        "l1": 56,
+        "size_in_agenda": 12,
+        "l1_total_size": 8644
+      },
+      {
+        "l1": 47,
+        "size_in_agenda": 7,
+        "l1_total_size": 9596
+      },
+      {
+        "l1": 39,
+        "size_in_agenda": 6,
+        "l1_total_size": 10000
+      },
+      {
+        "l1": 182,
+        "size_in_agenda": 4,
+        "l1_total_size": 4595
+      },
+      {
+        "l1": 237,
+        "size_in_agenda": 2,
+        "l1_total_size": 3707
+      },
+      {
+        "l1": 198,
+        "size_in_agenda": 1,
+        "l1_total_size": 4273
+      },
+      {
+        "l1": 103,
+        "size_in_agenda": 1,
+        "l1_total_size": 6539
+      },
+      {
+        "l1": 10,
+        "size_in_agenda": 1,
+        "l1_total_size": 16494
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 16000011,
+        "size_in_agenda": 70,
+        "l2_total_size": 303
+      },
+      {
+        "l2": 16000015,
+        "size_in_agenda": 22,
+        "l2_total_size": 270
+      },
+      {
+        "l2": 16000016,
+        "size_in_agenda": 13,
+        "l2_total_size": 258
+      },
+      {
+        "l2": 13000000,
+        "size_in_agenda": 10,
+        "l2_total_size": 746
+      },
+      {
+        "l2": 16000028,
+        "size_in_agenda": 10,
+        "l2_total_size": 151
+      },
+      {
+        "l2": 16000005,
+        "size_in_agenda": 9,
+        "l2_total_size": 463
+      },
+      {
+        "l2": 16000007,
+        "size_in_agenda": 8,
+        "l2_total_size": 364
+      },
+      {
+        "l2": 16000008,
+        "size_in_agenda": 6,
+        "l2_total_size": 326
+      },
+      {
+        "l2": 56000015,
+        "size_in_agenda": 4,
+        "l2_total_size": 130
+      },
+      {
+        "l2": 47000003,
+        "size_in_agenda": 4,
+        "l2_total_size": 590
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 22,
+    "agenda": "Rapid Neutron-Capture Process & Heavy Element Origins (r-process)",
+    "agenda_full": "Rapid Neutron-Capture Process & Heavy Element Origins (r-process)",
+    "total_papers_found": 1879,
+    "community_count": 241,
+    "n_in_hier": 241,
+    "n_not_in_hier": 0,
+    "unique_l1": 4,
+    "unique_l2": 23,
+    "top1_l1_size_in_agenda": 110,
+    "top1_l1_share": 0.456,
+    "top3_l1_share": 0.996,
+    "top1_l2_size_in_agenda": 92,
+    "top1_l2_share": 0.382,
+    "top3_l2_share": 0.751,
+    "top_l1": [
+      {
+        "l1": 2,
+        "size_in_agenda": 110,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 0,
+        "size_in_agenda": 98,
+        "l1_total_size": 53498
+      },
+      {
+        "l1": 90,
+        "size_in_agenda": 32,
+        "l1_total_size": 7214
+      },
+      {
+        "l1": 23,
+        "size_in_agenda": 1,
+        "l1_total_size": 12604
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 2000006,
+        "size_in_agenda": 92,
+        "l2_total_size": 790
+      },
+      {
+        "l2": 21,
+        "size_in_agenda": 73,
+        "l2_total_size": 665
+      },
+      {
+        "l2": 90000003,
+        "size_in_agenda": 16,
+        "l2_total_size": 258
+      },
+      {
+        "l2": 2000010,
+        "size_in_agenda": 13,
+        "l2_total_size": 604
+      },
+      {
+        "l2": 23,
+        "size_in_agenda": 13,
+        "l2_total_size": 646
+      },
+      {
+        "l2": 90000005,
+        "size_in_agenda": 8,
+        "l2_total_size": 256
+      },
+      {
+        "l2": 90000025,
+        "size_in_agenda": 5,
+        "l2_total_size": 83
+      },
+      {
+        "l2": 3,
+        "size_in_agenda": 5,
+        "l2_total_size": 1300
+      },
+      {
+        "l2": 2000070,
+        "size_in_agenda": 2,
+        "l2_total_size": 88
+      },
+      {
+        "l2": 2000275,
+        "size_in_agenda": 1,
+        "l2_total_size": 5
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 21,
+    "agenda": "Axion Dark Matter Detection",
+    "agenda_full": "Axion Dark Matter Detection",
+    "total_papers_found": 6032,
+    "community_count": 232,
+    "n_in_hier": 232,
+    "n_not_in_hier": 0,
+    "unique_l1": 8,
+    "unique_l2": 34,
+    "top1_l1_size_in_agenda": 185,
+    "top1_l1_share": 0.797,
+    "top3_l1_share": 0.966,
+    "top1_l2_size_in_agenda": 164,
+    "top1_l2_share": 0.707,
+    "top3_l2_share": 0.763,
+    "top_l1": [
+      {
+        "l1": 2,
+        "size_in_agenda": 185,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 10,
+        "size_in_agenda": 27,
+        "l1_total_size": 16494
+      },
+      {
+        "l1": 0,
+        "size_in_agenda": 12,
+        "l1_total_size": 53498
+      },
+      {
+        "l1": 68,
+        "size_in_agenda": 2,
+        "l1_total_size": 8076
+      },
+      {
+        "l1": 83,
+        "size_in_agenda": 2,
+        "l1_total_size": 7437
+      },
+      {
+        "l1": 1360,
+        "size_in_agenda": 2,
+        "l1_total_size": 374
+      },
+      {
+        "l1": 1008,
+        "size_in_agenda": 1,
+        "l1_total_size": 658
+      },
+      {
+        "l1": 9,
+        "size_in_agenda": 1,
+        "l1_total_size": 16550
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 2000005,
+        "size_in_agenda": 164,
+        "l2_total_size": 846
+      },
+      {
+        "l2": 2000024,
+        "size_in_agenda": 7,
+        "l2_total_size": 331
+      },
+      {
+        "l2": 10000003,
+        "size_in_agenda": 6,
+        "l2_total_size": 694
+      },
+      {
+        "l2": 10000062,
+        "size_in_agenda": 5,
+        "l2_total_size": 56
+      },
+      {
+        "l2": 2000040,
+        "size_in_agenda": 5,
+        "l2_total_size": 195
+      },
+      {
+        "l2": 2000002,
+        "size_in_agenda": 5,
+        "l2_total_size": 1108
+      },
+      {
+        "l2": 34,
+        "size_in_agenda": 4,
+        "l2_total_size": 487
+      },
+      {
+        "l2": 10000000,
+        "size_in_agenda": 3,
+        "l2_total_size": 847
+      },
+      {
+        "l2": 20,
+        "size_in_agenda": 3,
+        "l2_total_size": 680
+      },
+      {
+        "l2": 68000000,
+        "size_in_agenda": 2,
+        "l2_total_size": 1061
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 2,
+    "agenda": "Variational Quantum Eigensolver (VQE) & Optimization Methods",
+    "agenda_full": "Variational Quantum Eigensolver (VQE) & Optimization Methods",
+    "total_papers_found": 6816,
+    "community_count": 206,
+    "n_in_hier": 206,
+    "n_not_in_hier": 0,
+    "unique_l1": 6,
+    "unique_l2": 32,
+    "top1_l1_size_in_agenda": 191,
+    "top1_l1_share": 0.927,
+    "top3_l1_share": 0.985,
+    "top1_l2_size_in_agenda": 79,
+    "top1_l2_share": 0.383,
+    "top3_l2_share": 0.583,
+    "top_l1": [
+      {
+        "l1": 13,
+        "size_in_agenda": 191,
+        "l1_total_size": 15955
+      },
+      {
+        "l1": 16,
+        "size_in_agenda": 10,
+        "l1_total_size": 15202
+      },
+      {
+        "l1": 103,
+        "size_in_agenda": 2,
+        "l1_total_size": 6539
+      },
+      {
+        "l1": 27220,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      },
+      {
+        "l1": 90,
+        "size_in_agenda": 1,
+        "l1_total_size": 7214
+      },
+      {
+        "l1": 439,
+        "size_in_agenda": 1,
+        "l1_total_size": 2024
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 13000000,
+        "size_in_agenda": 79,
+        "l2_total_size": 746
+      },
+      {
+        "l2": 13000059,
+        "size_in_agenda": 21,
+        "l2_total_size": 68
+      },
+      {
+        "l2": 13000021,
+        "size_in_agenda": 20,
+        "l2_total_size": 232
+      },
+      {
+        "l2": 13000008,
+        "size_in_agenda": 20,
+        "l2_total_size": 344
+      },
+      {
+        "l2": 13000030,
+        "size_in_agenda": 20,
+        "l2_total_size": 169
+      },
+      {
+        "l2": 13000027,
+        "size_in_agenda": 4,
+        "l2_total_size": 176
+      },
+      {
+        "l2": 13000004,
+        "size_in_agenda": 3,
+        "l2_total_size": 415
+      },
+      {
+        "l2": 16000008,
+        "size_in_agenda": 3,
+        "l2_total_size": 326
+      },
+      {
+        "l2": 16000011,
+        "size_in_agenda": 3,
+        "l2_total_size": 303
+      },
+      {
+        "l2": 13000007,
+        "size_in_agenda": 3,
+        "l2_total_size": 362
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 8,
+    "agenda": "Quantum Heat Transport & Finite-Temperature Dynamics",
+    "agenda_full": "Quantum Heat Transport & Finite-Temperature Dynamics",
+    "total_papers_found": 3929,
+    "community_count": 140,
+    "n_in_hier": 140,
+    "n_not_in_hier": 0,
+    "unique_l1": 31,
+    "unique_l2": 79,
+    "top1_l1_size_in_agenda": 25,
+    "top1_l1_share": 0.179,
+    "top3_l1_share": 0.429,
+    "top1_l2_size_in_agenda": 10,
+    "top1_l2_share": 0.071,
+    "top3_l2_share": 0.157,
+    "top_l1": [
+      {
+        "l1": 182,
+        "size_in_agenda": 25,
+        "l1_total_size": 4595
+      },
+      {
+        "l1": 27,
+        "size_in_agenda": 21,
+        "l1_total_size": 12144
+      },
+      {
+        "l1": 9,
+        "size_in_agenda": 14,
+        "l1_total_size": 16550
+      },
+      {
+        "l1": 80,
+        "size_in_agenda": 10,
+        "l1_total_size": 7639
+      },
+      {
+        "l1": 198,
+        "size_in_agenda": 8,
+        "l1_total_size": 4273
+      },
+      {
+        "l1": 16,
+        "size_in_agenda": 8,
+        "l1_total_size": 15202
+      },
+      {
+        "l1": 151,
+        "size_in_agenda": 8,
+        "l1_total_size": 5000
+      },
+      {
+        "l1": 81,
+        "size_in_agenda": 6,
+        "l1_total_size": 7497
+      },
+      {
+        "l1": 21,
+        "size_in_agenda": 5,
+        "l1_total_size": 13006
+      },
+      {
+        "l1": 24,
+        "size_in_agenda": 5,
+        "l1_total_size": 12294
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 182000004,
+        "size_in_agenda": 10,
+        "l2_total_size": 274
+      },
+      {
+        "l2": 27000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 862
+      },
+      {
+        "l2": 198000000,
+        "size_in_agenda": 6,
+        "l2_total_size": 549
+      },
+      {
+        "l2": 16000002,
+        "size_in_agenda": 6,
+        "l2_total_size": 565
+      },
+      {
+        "l2": 9000009,
+        "size_in_agenda": 6,
+        "l2_total_size": 418
+      },
+      {
+        "l2": 182000009,
+        "size_in_agenda": 5,
+        "l2_total_size": 111
+      },
+      {
+        "l2": 182000003,
+        "size_in_agenda": 5,
+        "l2_total_size": 281
+      },
+      {
+        "l2": 21000020,
+        "size_in_agenda": 4,
+        "l2_total_size": 181
+      },
+      {
+        "l2": 27000029,
+        "size_in_agenda": 4,
+        "l2_total_size": 80
+      },
+      {
+        "l2": 27000003,
+        "size_in_agenda": 3,
+        "l2_total_size": 438
+      }
+    ]
+  },
+  {
+    "category": "physics",
+    "no": 20,
+    "agenda": "Teleparallel Gravity & Modified Cosmology",
+    "agenda_full": "Teleparallel Gravity & Modified Cosmology",
+    "total_papers_found": 883,
+    "community_count": 135,
+    "n_in_hier": 135,
+    "n_not_in_hier": 0,
+    "unique_l1": 4,
+    "unique_l2": 18,
+    "top1_l1_size_in_agenda": 128,
+    "top1_l1_share": 0.948,
+    "top3_l1_share": 0.993,
+    "top1_l2_size_in_agenda": 106,
+    "top1_l2_share": 0.785,
+    "top3_l2_share": 0.867,
+    "top_l1": [
+      {
+        "l1": 2,
+        "size_in_agenda": 128,
+        "l1_total_size": 29980
+      },
+      {
+        "l1": 0,
+        "size_in_agenda": 5,
+        "l1_total_size": 53498
+      },
+      {
+        "l1": 16,
+        "size_in_agenda": 1,
+        "l1_total_size": 15202
+      },
+      {
+        "l1": 52854,
+        "size_in_agenda": 1,
+        "l1_total_size": 1
+      }
+    ],
+    "top_l2": [
+      {
+        "l2": 2000015,
+        "size_in_agenda": 106,
+        "l2_total_size": 483
+      },
+      {
+        "l2": 2000008,
+        "size_in_agenda": 6,
+        "l2_total_size": 641
+      },
+      {
+        "l2": 6,
+        "size_in_agenda": 5,
+        "l2_total_size": 1066
+      },
+      {
+        "l2": 2000022,
+        "size_in_agenda": 2,
+        "l2_total_size": 348
+      },
+      {
+        "l2": 2000012,
+        "size_in_agenda": 2,
+        "l2_total_size": 589
+      },
+      {
+        "l2": 2000055,
+        "size_in_agenda": 2,
+        "l2_total_size": 143
+      },
+      {
+        "l2": 2000017,
+        "size_in_agenda": 1,
+        "l2_total_size": 427
+      },
+      {
+        "l2": 2000065,
+        "size_in_agenda": 1,
+        "l2_total_size": 104
+      },
+      {
+        "l2": 2000058,
+        "size_in_agenda": 1,
+        "l2_total_size": 139
+      },
+      {
+        "l2": 16000005,
+        "size_in_agenda": 1,
+        "l2_total_size": 463
+      }
+    ]
+  }
+]

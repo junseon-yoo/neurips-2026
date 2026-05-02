@@ -1,0 +1,1630 @@
+{
+  "summary": {
+    "total_agendas": 80,
+    "per_category": 10
+  },
+  "agendas": [
+    {
+      "category": "biology",
+      "no": 3,
+      "agenda": "Bio-inspired Optimization Algorithms for Healthcare",
+      "keywords": [
+        "bio inspired optimization",
+        "biomedical engineering",
+        "clinical",
+        "clinical decision support",
+        "evolutionary computation",
+        "healthcare",
+        "medical",
+        "medical informatics",
+        "metaheuristic",
+        "swarm intelligence"
+      ],
+      "n_keywords": 10,
+      "community_count": 148,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 2,
+      "agenda": "GAN-based Medical Image Augmentation",
+      "keywords": [
+        "GANs",
+        "Generative Adversarial Networks",
+        "augmentation",
+        "data augmentation",
+        "image synthesis",
+        "medical image",
+        "medical imaging",
+        "radiological image",
+        "synthesis",
+        "synthetic data"
+      ],
+      "n_keywords": 10,
+      "community_count": 136,
+      "top_count": 951
+    },
+    {
+      "category": "biology",
+      "no": 4,
+      "agenda": "Deep Learning for Neurological Disease Diagnosis (ASD & MS)",
+      "keywords": [
+        "ASD",
+        "MS",
+        "artificial neural networks",
+        "autism",
+        "autism spectrum disorder",
+        "classification",
+        "deep learning",
+        "deep neural networks",
+        "detection",
+        "diagnosing",
+        "diagnosis",
+        "multiple sclerosis"
+      ],
+      "n_keywords": 12,
+      "community_count": 130,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 5,
+      "agenda": "Explainable & Transparent AI for Medical Imaging",
+      "keywords": [
+        "\"Radiology\"",
+        "AI Transparency",
+        "Deep Learning",
+        "Machine Learning",
+        "Medical Imaging",
+        "Model Interpretability"
+      ],
+      "n_keywords": 6,
+      "community_count": 106,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 1,
+      "agenda": "AI-based Medical Image Segmentation (COVID-19 & pathology)",
+      "keywords": [
+        "AI",
+        "COVID-19",
+        "SARS-CoV-2 imaging",
+        "artificial intelligence",
+        "deep learning",
+        "histopathology image analysis",
+        "machine learning",
+        "medical image segmentation",
+        "pathology"
+      ],
+      "n_keywords": 9,
+      "community_count": 105,
+      "top_count": 937
+    },
+    {
+      "category": "biology",
+      "no": 24,
+      "agenda": "Phylogenetic Network Theory & Evolutionary Systematics",
+      "keywords": [
+        "development",
+        "evolutionary systematic",
+        "history",
+        "network phylogenetics",
+        "phylogenetic network",
+        "progress",
+        "systematic biology"
+      ],
+      "n_keywords": 7,
+      "community_count": 90,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 14,
+      "agenda": "Insect Brain Architecture & Neural Connectomics",
+      "keywords": [
+        "3D reconstruction",
+        "FIB-SEM",
+        "SEM",
+        "TEM",
+        "arthropod",
+        "brain architecture",
+        "circuit mapping",
+        "connectomics",
+        "drosophila",
+        "honeybee",
+        "insect",
+        "neural architecture",
+        "neural circuits",
+        "neural connectome",
+        "neuroarchitecture",
+        "serial section electron microscopy",
+        "synaptic connectivity",
+        "synaptome",
+        "volume electron microscopy",
+        "wiring diagram"
+      ],
+      "n_keywords": 20,
+      "community_count": 79,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 20,
+      "agenda": "Mitochondrial Dynamics / Fusion-Fission & ROS Production",
+      "keywords": [
+        "ROS",
+        "mitochondrial dynamics",
+        "mitochondrial fission",
+        "mitochondrial fusion",
+        "oxidative stress",
+        "reactive oxygen species"
+      ],
+      "n_keywords": 6,
+      "community_count": 78,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 17,
+      "agenda": "Sex Determination Evolution & Gender Biology",
+      "keywords": [
+        "amphibian sexing",
+        "biological basis gender",
+        "bird sexing",
+        "brain sex differences",
+        "evolution sex determination",
+        "evolutionary mechanisms sex determination",
+        "fish sexing",
+        "gender biology",
+        "molecular sexing",
+        "reptile sexing",
+        "sex determination",
+        "sex determining systems",
+        "sex differences",
+        "sex differences biology",
+        "sex differentiation",
+        "sexual dimorphism"
+      ],
+      "n_keywords": 16,
+      "community_count": 56,
+      "top_count": 1000
+    },
+    {
+      "category": "biology",
+      "no": 10,
+      "agenda": "Remote Sensing for Insect & Wildlife Monitoring",
+      "keywords": [
+        "animal population assessment",
+        "earth observation",
+        "entomological surveillance",
+        "fauna surveillance",
+        "insect monitoring",
+        "insect population dynamics",
+        "remote sensing",
+        "wildlife monitoring"
+      ],
+      "n_keywords": 8,
+      "community_count": 54,
+      "top_count": 427
+    },
+    {
+      "category": "biomedical",
+      "no": 2,
+      "agenda": "Medical Image Segmentation Algorithms (general frameworks)",
+      "keywords": [
+        "algorithm",
+        "approach",
+        "architecture",
+        "framework",
+        "medical image segmentation",
+        "method",
+        "model",
+        "technique"
+      ],
+      "n_keywords": 8,
+      "community_count": 202,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 18,
+      "agenda": "Bone Tissue Engineering & Hierarchical Scaffolds",
+      "keywords": [
+        "bone regeneration",
+        "bone tissue engineering",
+        "gradient scaffolds",
+        "hierarchical scaffolds",
+        "hierarchically structured biomaterials",
+        "multi-scale scaffolds",
+        "osteogenesis",
+        "skeletal tissue engineering"
+      ],
+      "n_keywords": 8,
+      "community_count": 198,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 9,
+      "agenda": "Domain Adaptation for Medical Image Analysis",
+      "keywords": [
+        "biomedical imaging",
+        "clinical imaging",
+        "dataset shift",
+        "deep learning",
+        "distribution shift",
+        "domain adaptation",
+        "medical image analysis",
+        "medical imaging",
+        "neural network",
+        "radiology",
+        "transfer learning"
+      ],
+      "n_keywords": 11,
+      "community_count": 182,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 13,
+      "agenda": "Hydrogel-based Tissue Regeneration (collagen / fibrin / hyaluronic acid)",
+      "keywords": [
+        "collagen",
+        "fibrin",
+        "hyaluronan",
+        "hyaluronic acid",
+        "hydrogel material",
+        "hydrogel scaffold",
+        "regenerative medicine",
+        "tissue engineering",
+        "tissue regeneration"
+      ],
+      "n_keywords": 9,
+      "community_count": 180,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 20,
+      "agenda": "Neural Tissue Injury Treatment (hydrogel-based approaches)",
+      "keywords": [
+        "CNS",
+        "PNS",
+        "biomaterial",
+        "damage",
+        "delivery",
+        "hydrogel",
+        "injury",
+        "lesion",
+        "nerve",
+        "neural",
+        "regenerative",
+        "repair",
+        "scaffold",
+        "therapy"
+      ],
+      "n_keywords": 14,
+      "community_count": 176,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 16,
+      "agenda": "3D Bioprinting & Bioink Engineering",
+      "keywords": [
+        "3D bioprinting",
+        "bioink engineering",
+        "regenerative medicine",
+        "tissue engineering"
+      ],
+      "n_keywords": 4,
+      "community_count": 175,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 14,
+      "agenda": "Decellularized Extracellular Matrix (ECM) Scaffolds",
+      "keywords": [
+        "ECM scaffold",
+        "ECM-based biomaterial",
+        "biomaterial fabrication",
+        "biomaterials engineering",
+        "bioprocessing",
+        "decellularized extracellular matrix scaffold",
+        "regenerative medicine",
+        "scaffold manufacturing",
+        "tissue engineering",
+        "tissue-derived scaffold"
+      ],
+      "n_keywords": 10,
+      "community_count": 172,
+      "top_count": 916
+    },
+    {
+      "category": "biomedical",
+      "no": 5,
+      "agenda": "GAN-based Medical Image Augmentation",
+      "keywords": [
+        "Adversarial Training",
+        "Deep Generative Models",
+        "GANs",
+        "Generative Adversarial Networks",
+        "Image Synthesis Medical Datasets",
+        "Medical Image Augmentation",
+        "Medical Imaging Data Augmentation",
+        "Synthetic Medical Images"
+      ],
+      "n_keywords": 8,
+      "community_count": 169,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 23,
+      "agenda": "Nanomaterial-based Cancer Therapy (photothermal / ferroptosis / glutathione depletion)",
+      "keywords": [
+        "GSH depletion",
+        "PTT",
+        "cancer",
+        "drug delivery",
+        "ferroptosis",
+        "glutathione depletion",
+        "nanomaterial cancer therapy",
+        "nanomedicine oncology",
+        "nanoparticle",
+        "nanoparticle cancer therapy",
+        "photothermal therapy",
+        "treatment"
+      ],
+      "n_keywords": 12,
+      "community_count": 165,
+      "top_count": 1000
+    },
+    {
+      "category": "biomedical",
+      "no": 4,
+      "agenda": "Transformer Architectures in Medical Imaging",
+      "keywords": [
+        "Transformer architecture",
+        "ViT",
+        "Vision Transformer",
+        "diagnostic imaging",
+        "medical image analysis",
+        "medical imaging",
+        "radiology",
+        "self-attention mechanism"
+      ],
+      "n_keywords": 8,
+      "community_count": 157,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 15,
+      "agenda": "Dynamic Covalent & Unconventional Soft Polymer Networks",
+      "keywords": [
+        "adaptable",
+        "adaptive network",
+        "associative covalent",
+        "covalent adaptable network",
+        "crosslinked polymer",
+        "dissociative covalent",
+        "dynamic",
+        "dynamic covalent",
+        "elastomer",
+        "flexible polymer network",
+        "hydrogel",
+        "polymer gel",
+        "reconfigurable",
+        "reconfigurable polymer gel",
+        "reprocessable polymer",
+        "reprogrammable",
+        "reprogrammable material",
+        "responsive",
+        "responsive network",
+        "reversible",
+        "reversible covalent",
+        "self healing polymer",
+        "self-healing",
+        "self-healing elastomer",
+        "smart",
+        "smart polymer network",
+        "soft network",
+        "soft polymer network",
+        "unconventional",
+        "vitrimer"
+      ],
+      "n_keywords": 30,
+      "community_count": 241,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 17,
+      "agenda": "MXene: Synthesis Progress & Functional Applications",
+      "keywords": [
+        "MXene",
+        "application",
+        "fabrication",
+        "functionalization",
+        "preparation",
+        "properties",
+        "synthesis"
+      ],
+      "n_keywords": 7,
+      "community_count": 207,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 16,
+      "agenda": "Direct Ink Writing & 3D Printing of Diverse Materials",
+      "keywords": [
+        "3D printing",
+        "additive manufacturing",
+        "direct ink writing",
+        "dispensing",
+        "hydrogel",
+        "ink",
+        "inkjet printing",
+        "material extrusion",
+        "material science",
+        "materials",
+        "materials engineering",
+        "paste",
+        "rapid prototyping",
+        "slurry"
+      ],
+      "n_keywords": 14,
+      "community_count": 187,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 14,
+      "agenda": "Photothermal Nanomaterials & PDT-PTT Combination Therapy",
+      "keywords": [
+        "PDT",
+        "PTT",
+        "combination therapy",
+        "laser induced hyperthermia",
+        "multimodal therapy",
+        "photodynamic therapy",
+        "photosensitizer therapy",
+        "photothermal nanomaterials",
+        "photothermal therapy",
+        "plasmonic nanoparticles",
+        "synergistic therapy",
+        "theranostic nanoparticles"
+      ],
+      "n_keywords": 12,
+      "community_count": 182,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 2,
+      "agenda": "Wearable & Flexible Sensors (Sweat / Pressure / Pulse Wave)",
+      "keywords": [
+        "PPG",
+        "PWV",
+        "arterial stiffness",
+        "body worn sensor",
+        "electrochemical sweat sensor",
+        "flexible biosensor",
+        "flexible pressure sensor",
+        "flexible sensor",
+        "force sensor",
+        "perspiration analysis",
+        "photoplethysmography",
+        "pressure sensor",
+        "pulse wave sensor",
+        "pulse wave velocity sensor",
+        "sweat analysis",
+        "sweat sensor",
+        "tactile sensor",
+        "textile sensor",
+        "wearable biosensor",
+        "wearable sensor",
+        "wearable sweat monitoring"
+      ],
+      "n_keywords": 21,
+      "community_count": 178,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 7,
+      "agenda": "MOF-based Porous / 2D Materials & Enzyme Biocomposites",
+      "keywords": [
+        "2D material",
+        "MOF",
+        "Metal-Organic Framework",
+        "biocatalytic composite",
+        "enzyme biocomposite",
+        "enzyme functionalized",
+        "enzyme hybrid",
+        "enzyme immobilized composite",
+        "immobilized enzyme",
+        "layered material",
+        "two dimensional material"
+      ],
+      "n_keywords": 11,
+      "community_count": 165,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 20,
+      "agenda": "Nanoparticle Endocytosis & Targeting Strategies in Nanomedicine",
+      "keywords": [
+        "active targeting",
+        "cellular uptake of nanoparticles",
+        "medical nanotechnology",
+        "nanomedical applications",
+        "nanomedicine",
+        "nanoparticle drug delivery systems",
+        "nanoparticle endocytosis",
+        "nanoparticle internalization",
+        "nanoparticle targeting",
+        "passive targeting",
+        "targeted drug delivery"
+      ],
+      "n_keywords": 11,
+      "community_count": 160,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 22,
+      "agenda": "Triboelectric Nanogenerators for Energy Harvesting",
+      "keywords": [
+        "Energy Harvesting",
+        "Energy Scavenging",
+        "TENGs",
+        "Triboelectric Effect Energy Harvesters",
+        "Triboelectric Nanogenerators"
+      ],
+      "n_keywords": 5,
+      "community_count": 159,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 11,
+      "agenda": "Covalent Organic Frameworks (COFs) for Electrochemical Applications",
+      "keywords": [
+        "Batteries",
+        "COFs",
+        "Covalent Organic Frameworks",
+        "Covalent organic networks",
+        "Electrocatalysis",
+        "Electrochemical Applications",
+        "Electrochemical devices",
+        "Electrochemistry",
+        "Energy storage",
+        "Fuel cells",
+        "Supercapacitors"
+      ],
+      "n_keywords": 11,
+      "community_count": 140,
+      "top_count": 1000
+    },
+    {
+      "category": "chemistry",
+      "no": 10,
+      "agenda": "Electrocatalysis for Organic Synthesis & Nitrogen Cycle",
+      "keywords": [
+        "CO2 reduction",
+        "biogeochemical nitrogen cycle",
+        "catalytic electrochemistry",
+        "chemical synthesis organic compounds",
+        "denitrification",
+        "denitrification electrocatalysis",
+        "electrocatalysis",
+        "electrochemical catalysis",
+        "nitrification",
+        "nitrification electrocatalysis",
+        "nitrogen cycle",
+        "nitrogen fixation",
+        "nitrogen fixation electrocatalysis",
+        "organic reactions",
+        "organic synthesis",
+        "oxygen evolution",
+        "oxygen reduction",
+        "water splitting"
+      ],
+      "n_keywords": 18,
+      "community_count": 136,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 16,
+      "agenda": "Self-Supervised / Contrastive Representation Learning",
+      "keywords": [
+        "contrastive learning",
+        "contrastive representation learning",
+        "deep representation learning",
+        "feature learning",
+        "instance discrimination",
+        "pretext task learning",
+        "representation learning",
+        "self supervised learning",
+        "unsupervised representation learning"
+      ],
+      "n_keywords": 9,
+      "community_count": 285,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 13,
+      "agenda": "Transformer Architecture Innovations (Efficient / Hierarchical / MLP-based)",
+      "keywords": [
+        "CNN",
+        "ConvNet",
+        "MLP Mixer",
+        "MLP based",
+        "approximate attention",
+        "convolutional network",
+        "convolutional neural network",
+        "efficient",
+        "gated MLP",
+        "hierarchical",
+        "linear attention",
+        "long range attention",
+        "multi scale",
+        "pyramidal",
+        "self attention",
+        "sparse attention",
+        "transformer",
+        "transformer architecture",
+        "transformer model",
+        "vision MLP",
+        "without self attention"
+      ],
+      "n_keywords": 21,
+      "community_count": 265,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 15,
+      "agenda": "Semantic Segmentation with Transformers",
+      "keywords": [
+        "ViT",
+        "semantic segmentation",
+        "transformer",
+        "vision transformer"
+      ],
+      "n_keywords": 4,
+      "community_count": 256,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 23,
+      "agenda": "Neural Implicit Surfaces & 3D Reconstruction",
+      "keywords": [
+        "3D reconstruction",
+        "NeRF",
+        "deep implicit surfaces",
+        "geometric reconstruction",
+        "implicit neural representations",
+        "neural implicit surfaces",
+        "neural radiance fields",
+        "shape reconstruction",
+        "three dimensional reconstruction"
+      ],
+      "n_keywords": 9,
+      "community_count": 255,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 21,
+      "agenda": "Video Understanding with Transformers",
+      "keywords": [
+        "attention mechanisms",
+        "self-attention",
+        "transformer models",
+        "transformers",
+        "video analysis",
+        "video comprehension",
+        "video understanding"
+      ],
+      "n_keywords": 7,
+      "community_count": 232,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 17,
+      "agenda": "Graph Neural Networks & Graph Transformers",
+      "keywords": [
+        "Deep Learning on Graphs",
+        "GNNs",
+        "GTs",
+        "Graph Attention Networks",
+        "Graph Neural Networks",
+        "Graph Transformers"
+      ],
+      "n_keywords": 6,
+      "community_count": 231,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 14,
+      "agenda": "Few-Shot Visual Language Models",
+      "keywords": [
+        "VLM",
+        "few-shot learning",
+        "low-shot learning",
+        "multimodal language model",
+        "vision-language model",
+        "visual language model"
+      ],
+      "n_keywords": 6,
+      "community_count": 226,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 22,
+      "agenda": "Time Series Forecasting with Transformers",
+      "keywords": [
+        "\"self-attention\"",
+        "attention mechanism",
+        "temporal forecasting",
+        "time series prediction"
+      ],
+      "n_keywords": 4,
+      "community_count": 200,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 5,
+      "agenda": "LLM Preference Optimization & Reward Modeling",
+      "keywords": [
+        "\"human-in-the-loop\"",
+        "LLM",
+        "RLHF",
+        "adaptation",
+        "alignment",
+        "fine tuning",
+        "fine-tuning",
+        "human feedback",
+        "large language model",
+        "large language models",
+        "optimization",
+        "personalization",
+        "preference",
+        "preference learning",
+        "preferences",
+        "reinforcement learning from human feedback",
+        "reward model",
+        "reward modeling",
+        "user feedback"
+      ],
+      "n_keywords": 19,
+      "community_count": 147,
+      "top_count": 1000
+    },
+    {
+      "category": "cs",
+      "no": 19,
+      "agenda": "Multi-Agent & Cooperative Reinforcement Learning",
+      "keywords": [
+        "Cooperative MARL",
+        "Cooperative Reinforcement Learning",
+        "Decentralized Reinforcement Learning",
+        "MARL",
+        "Multi-Agent Reinforcement Learning",
+        "RL",
+        "Reinforcement Learning",
+        "Team Reinforcement Learning"
+      ],
+      "n_keywords": 8,
+      "community_count": 144,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 14,
+      "agenda": "Additive Manufacturing: Polymeric Composites & Wire Arc (WAAM)",
+      "keywords": [
+        "3D printing",
+        "WAAM",
+        "additive manufacturing",
+        "polymer matrix composites",
+        "polymeric composites",
+        "wire arc additive manufacturing"
+      ],
+      "n_keywords": 6,
+      "community_count": 211,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 16,
+      "agenda": "Neural Network-based Constitutive Modeling of Composite Materials",
+      "keywords": [
+        "composite material*",
+        "constitutive law",
+        "constitutive model*",
+        "deep learning",
+        "fiber reinforced polymer*",
+        "laminated composite*",
+        "machine learning",
+        "material model*",
+        "neural network",
+        "polymer matrix composite*"
+      ],
+      "n_keywords": 10,
+      "community_count": 203,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 1,
+      "agenda": "Bio-inspired & Nature-inspired Metaheuristic Optimization Algorithms",
+      "keywords": [
+        "bio inspired",
+        "evolutionary algorithm",
+        "metaheuristic optimization",
+        "nature inspired",
+        "swarm intelligence"
+      ],
+      "n_keywords": 5,
+      "community_count": 200,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 4,
+      "agenda": "Fault Diagnosis with Small / Imbalanced Data (GAN & Meta-learning)",
+      "keywords": [
+        "\"Meta-learning\"",
+        "Anomaly Detection in Systems",
+        "Fault Diagnosis",
+        "Learning to Learn",
+        "Limited Data",
+        "Low-Resource Data",
+        "Small Data"
+      ],
+      "n_keywords": 7,
+      "community_count": 175,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 6,
+      "agenda": "Cross-domain & Transfer Learning for Fault Diagnosis",
+      "keywords": [
+        "anomaly detection",
+        "condition monitoring",
+        "cross domain learning",
+        "domain adaptation",
+        "domain generalization",
+        "domain transfer",
+        "failure detection",
+        "fault diagnosis",
+        "knowledge transfer",
+        "transfer learning"
+      ],
+      "n_keywords": 10,
+      "community_count": 168,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 17,
+      "agenda": "Digital Twin for Product Design & Engineering Systems",
+      "keywords": [
+        "complex systems engineering",
+        "cyber physical system",
+        "design engineering",
+        "digital twin",
+        "engineering systems",
+        "mirror system",
+        "product design",
+        "product development",
+        "system design integration",
+        "virtual representation"
+      ],
+      "n_keywords": 10,
+      "community_count": 165,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 9,
+      "agenda": "Structural Health Monitoring with Machine Learning",
+      "keywords": [
+        "ML",
+        "SHM",
+        "machine learning",
+        "structural health monitoring"
+      ],
+      "n_keywords": 4,
+      "community_count": 159,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 8,
+      "agenda": "Predictive Maintenance & AI for Prognostics and Health Management (PHM)",
+      "keywords": [
+        "AI",
+        "PHM",
+        "RUL",
+        "artificial intelligence",
+        "condition based maintenance",
+        "deep learning",
+        "machine learning",
+        "predictive maintenance",
+        "proactive maintenance",
+        "prognostics health management",
+        "remaining useful life",
+        "system health monitoring"
+      ],
+      "n_keywords": 12,
+      "community_count": 150,
+      "top_count": 960
+    },
+    {
+      "category": "engineering",
+      "no": 15,
+      "agenda": "Natural Fiber Reinforced Composites for Sustainable Applications",
+      "keywords": [
+        "bio-composites",
+        "eco-friendly applications",
+        "green composites",
+        "green engineering",
+        "natural fiber reinforced composites",
+        "plant fiber composites",
+        "sustainable applications",
+        "sustainable development"
+      ],
+      "n_keywords": 8,
+      "community_count": 144,
+      "top_count": 1000
+    },
+    {
+      "category": "engineering",
+      "no": 2,
+      "agenda": "Swarm Intelligence-based Feature Selection Methods",
+      "keywords": [
+        "FS",
+        "SI",
+        "bioinformatics OR medical OR genomics",
+        "feature selection",
+        "swarm intelligence"
+      ],
+      "n_keywords": 5,
+      "community_count": 139,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 10,
+      "agenda": "Microplastics Behavior & Toxicity in Aquatic-Soil Systems",
+      "keywords": [
+        "\"multi-compartment\"",
+        "aquatic",
+        "aquatic terrestrial interaction",
+        "aquatic terrestrial system",
+        "behavior",
+        "coupled systems",
+        "cross compartment",
+        "ecotoxicity",
+        "estuarine sediment",
+        "exchange",
+        "fate",
+        "freshwater",
+        "interface",
+        "interfacial transport",
+        "marine",
+        "microplastics",
+        "multi media",
+        "plastic pollution",
+        "riparian zone",
+        "river floodplain",
+        "sediment",
+        "soil",
+        "soil water interaction",
+        "soil water system",
+        "synthetic polymer particles",
+        "terrestrial",
+        "toxicity",
+        "transfer",
+        "transition",
+        "transport",
+        "water",
+        "water sediment interface"
+      ],
+      "n_keywords": 32,
+      "community_count": 227,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 7,
+      "agenda": "PFAS Occurrence / Transformation & Soil-Water Remediation",
+      "keywords": [
+        "\"PFAS\"",
+        "\"decontamination\"",
+        "aquatic environment",
+        "cleanup",
+        "degradation",
+        "distribution",
+        "environmental behavior",
+        "fate",
+        "groundwater",
+        "mitigation",
+        "occurrence",
+        "per- and polyfluoroalkyl substances",
+        "remediation",
+        "removal",
+        "sediment",
+        "soil",
+        "surface water",
+        "terrestrial environment",
+        "transformation",
+        "transport",
+        "treatment",
+        "water"
+      ],
+      "n_keywords": 22,
+      "community_count": 198,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 13,
+      "agenda": "MOF-based Engineered Materials for Water Remediation",
+      "keywords": [
+        "MOF",
+        "advanced material",
+        "coordination polymer",
+        "engineered material",
+        "functional material",
+        "metal organic framework",
+        "pollutant removal",
+        "water purification",
+        "water remediation",
+        "water treatment"
+      ],
+      "n_keywords": 10,
+      "community_count": 172,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 19,
+      "agenda": "Digital Technologies for Circular Economy (Blockchain & Industry 4.0)",
+      "keywords": [
+        "CE",
+        "DLT",
+        "blockchain",
+        "blockchain technology",
+        "circular economy",
+        "distributed ledger technology",
+        "fourth industrial revolution",
+        "industry 4.0",
+        "smart manufacturing",
+        "sustainable consumption and production"
+      ],
+      "n_keywords": 10,
+      "community_count": 167,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 2,
+      "agenda": "Persulfate-based Nonradical & Selective Oxidation Mechanisms",
+      "keywords": [
+        "PDS",
+        "PMS",
+        "SET",
+        "chemoselective",
+        "chemoselectivity",
+        "electron transfer",
+        "mechanism",
+        "mechanisms",
+        "non radical",
+        "nonradical",
+        "oxidation mechanism",
+        "pathways",
+        "peroxydisulfate",
+        "peroxymonosulfate",
+        "persulfate",
+        "reaction mechanism",
+        "selective",
+        "selectivity",
+        "single electron transfer",
+        "targeted oxidation"
+      ],
+      "n_keywords": 20,
+      "community_count": 134,
+      "top_count": 717
+    },
+    {
+      "category": "environmental_science",
+      "no": 22,
+      "agenda": "Biomass Conversion / Waste Recycling & Municipal Solid Waste Management",
+      "keywords": [
+        "Municipal Solid Waste",
+        "biomass",
+        "conversion",
+        "management",
+        "recycling",
+        "resource recovery",
+        "treatment",
+        "waste"
+      ],
+      "n_keywords": 8,
+      "community_count": 133,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 17,
+      "agenda": "Circular Economy Strategies for Climate Change & Carbon Neutrality",
+      "keywords": [
+        "carbon footprint reduction",
+        "carbon neutrality",
+        "circular economy",
+        "climate change mitigation",
+        "closed loop systems",
+        "global warming reduction",
+        "greenhouse gas emission control",
+        "net zero emissions",
+        "resource circulation",
+        "sustainable resource management"
+      ],
+      "n_keywords": 10,
+      "community_count": 132,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 15,
+      "agenda": "Circular Economy: Definitions / Critiques & Measurement Indicators",
+      "keywords": [
+        "CE",
+        "challenges",
+        "circular economy",
+        "conceptualization",
+        "critiques",
+        "definition",
+        "indicators",
+        "limitations",
+        "measurement",
+        "metrics"
+      ],
+      "n_keywords": 10,
+      "community_count": 125,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 8,
+      "agenda": "Heavy Metal Removal from Water & Wastewater",
+      "keywords": [
+        "effluent treatment",
+        "heavy metal removal",
+        "metal ion decontamination",
+        "pollutant metal extraction",
+        "trace metal remediation",
+        "wastewater treatment",
+        "water purification",
+        "water treatment"
+      ],
+      "n_keywords": 8,
+      "community_count": 98,
+      "top_count": 1000
+    },
+    {
+      "category": "environmental_science",
+      "no": 25,
+      "agenda": "Machine Learning & Renewable Energy for Environmental Sustainability",
+      "keywords": [
+        "artificial intelligence",
+        "clean energy",
+        "climate change mitigation",
+        "data mining",
+        "deep learning",
+        "ecological sustainability",
+        "environmental protection",
+        "environmental sustainability",
+        "green energy",
+        "machine learning",
+        "renewable energy",
+        "sustainable energy"
+      ],
+      "n_keywords": 12,
+      "community_count": 90,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 3,
+      "agenda": "Direct Ink Writing / Metal Additive Manufacturing & DED",
+      "keywords": [
+        "3D metal printing",
+        "DED",
+        "DIW",
+        "direct ink writing",
+        "directed energy deposition",
+        "material extrusion additive manufacturing",
+        "material extrusion for metals",
+        "metal additive manufacturing"
+      ],
+      "n_keywords": 8,
+      "community_count": 254,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 9,
+      "agenda": "Hydrogel-based Flexible Electronics",
+      "keywords": [
+        "conformable electronics",
+        "flexible electronics",
+        "hydrogel",
+        "polymer gel",
+        "stretchable electronics",
+        "water swollen polymer network"
+      ],
+      "n_keywords": 6,
+      "community_count": 223,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 2,
+      "agenda": "Flexible MXene Composites for Wearable Devices",
+      "keywords": [
+        "MXene",
+        "MXene composite",
+        "Ti3C2",
+        "conformal electronics",
+        "e-textiles",
+        "flexible electronics",
+        "smart textiles",
+        "stretchable electronics",
+        "wearable devices",
+        "wearable sensors"
+      ],
+      "n_keywords": 10,
+      "community_count": 179,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 10,
+      "agenda": "S-Scheme & Advanced Photocatalysts",
+      "keywords": [
+        "S-scheme heterojunction",
+        "Type-II heterojunction",
+        "advanced photocatalysts",
+        "engineered photocatalysts",
+        "novel photocatalytic materials",
+        "photocatalysis",
+        "photocatalyst"
+      ],
+      "n_keywords": 7,
+      "community_count": 174,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 15,
+      "agenda": "Composite Polymer Electrolytes for Solid-State Li Batteries",
+      "keywords": [
+        "all-solid-state lithium batteries",
+        "composite polymer electrolytes",
+        "hybrid polymer electrolytes",
+        "polymer composite electrolytes",
+        "solid-state Li-ion batteries",
+        "solid-state lithium batteries"
+      ],
+      "n_keywords": 6,
+      "community_count": 170,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 6,
+      "agenda": "Halide Perovskite Nanocrystals & Optoelectronics",
+      "keywords": [
+        "CsPbX3 nanocrystals",
+        "halide perovskite nanocrystals",
+        "optical electronics",
+        "optoelectronic devices",
+        "optoelectronics",
+        "perovskite quantum dots"
+      ],
+      "n_keywords": 6,
+      "community_count": 162,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 22,
+      "agenda": "Electromagnetic Wave Absorption Materials",
+      "keywords": [
+        "\"dispersion\"",
+        "absorption spectra",
+        "artificial materials",
+        "electromagnetic",
+        "metamaterials",
+        "wave propagation"
+      ],
+      "n_keywords": 6,
+      "community_count": 155,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 18,
+      "agenda": "Electrolyte Solvation Structure & Interfacial Modeling in Batteries",
+      "keywords": [
+        "battery",
+        "charge transfer interface",
+        "coordination chemistry",
+        "electrochemical energy storage",
+        "electrode electrolyte interface",
+        "electrolyte solvation structure",
+        "interfacial modeling",
+        "ion interaction",
+        "lithium ion battery",
+        "rechargeable battery",
+        "solid electrolyte interphase",
+        "solvation shell"
+      ],
+      "n_keywords": 12,
+      "community_count": 141,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 20,
+      "agenda": "Water Splitting & Hydrogen Evolution Reaction (HER) Catalysts",
+      "keywords": [
+        "H2O splitting",
+        "HER",
+        "catalysts",
+        "catalytic material",
+        "electrocatalysts",
+        "hydrogen evolution reaction",
+        "water electrolysis",
+        "water splitting"
+      ],
+      "n_keywords": 8,
+      "community_count": 122,
+      "top_count": 1000
+    },
+    {
+      "category": "materials_science",
+      "no": 13,
+      "agenda": "Solid Electrolyte Interphase (SEI) & Li Metal Anode Engineering",
+      "keywords": [
+        "Li metal anode",
+        "Lithium Metal Anode",
+        "SEI",
+        "SEI formation",
+        "SEI layer",
+        "Solid Electrolyte Interphase",
+        "anode engineering",
+        "control",
+        "design",
+        "engineering",
+        "interphase engineering",
+        "lithium metal batteries",
+        "modification",
+        "optimization",
+        "tailoring"
+      ],
+      "n_keywords": 15,
+      "community_count": 121,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 19,
+      "agenda": "Hubble Tension & Cosmological Solutions",
+      "keywords": [
+        "Cosmic Distance Ladder Discrepancy",
+        "H0",
+        "H0 tension",
+        "Hubble Constant Discrepancy",
+        "Hubble Tension",
+        "Hubble parameter",
+        "LCDM",
+        "Lambda-CDM model",
+        "alternative cosmology",
+        "cosmic expansion rate",
+        "cosmological model",
+        "dark energy",
+        "early dark energy",
+        "implication",
+        "modified gravity",
+        "new physics",
+        "reconcile",
+        "resolve",
+        "solution",
+        "standard model of cosmology"
+      ],
+      "n_keywords": 20,
+      "community_count": 366,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 18,
+      "agenda": "Primordial Black Holes & Cosmological Constraints",
+      "keywords": [
+        "PBHs",
+        "cosmological constraints",
+        "cosmology",
+        "early universe",
+        "primordial black holes"
+      ],
+      "n_keywords": 5,
+      "community_count": 301,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 23,
+      "agenda": "Gravitational Wave Detection (space-based antennas)",
+      "keywords": [
+        "GW",
+        "LISA",
+        "detection gravitational waves",
+        "gravitational wave astronomy",
+        "gravitational wave detection",
+        "gravitational waves",
+        "satellite gravitational wave detectors",
+        "space based antenna",
+        "space-based antenna",
+        "space-based gravitational wave observatories",
+        "space-based interferometry"
+      ],
+      "n_keywords": 11,
+      "community_count": 279,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 10,
+      "agenda": "Non-Hermitian Physics & Exceptional Topology",
+      "keywords": [
+        "EPs",
+        "PT symmetry",
+        "exceptional points",
+        "gain loss systems",
+        "non hermitian",
+        "non-Hermitian",
+        "open quantum systems",
+        "parity time symmetry",
+        "topological",
+        "topological phases",
+        "topology"
+      ],
+      "n_keywords": 11,
+      "community_count": 249,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 6,
+      "agenda": "Tensor Network Methods (Matrix Product States / PEPS)",
+      "keywords": [
+        "MPS",
+        "PEPS",
+        "higher-dimensional tensor network",
+        "matrix product state",
+        "one-dimensional tensor network",
+        "projected entangled pair state",
+        "quantum tensor network",
+        "tensor network",
+        "two-dimensional tensor network"
+      ],
+      "n_keywords": 9,
+      "community_count": 242,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 22,
+      "agenda": "Rapid Neutron-Capture Process & Heavy Element Origins (r-process)",
+      "keywords": [
+        "astrophysical",
+        "cosmic",
+        "heavy elements",
+        "nucleosynthesis",
+        "r-process",
+        "rapid neutron-capture process",
+        "stellar"
+      ],
+      "n_keywords": 7,
+      "community_count": 241,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 21,
+      "agenda": "Axion Dark Matter Detection",
+      "keywords": [
+        "Axion",
+        "Axion Dark Matter",
+        "Axions",
+        "Detection",
+        "Experiment",
+        "Haloscope",
+        "QCD Axion",
+        "Search"
+      ],
+      "n_keywords": 8,
+      "community_count": 232,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 2,
+      "agenda": "Variational Quantum Eigensolver (VQE) & Optimization Methods",
+      "keywords": [
+        "Classical Optimization Techniques",
+        "Mathematical Optimization",
+        "Optimization Algorithms",
+        "Optimization Methods",
+        "Quantum Variational Algorithms",
+        "VQE",
+        "Variational Quantum Eigensolver"
+      ],
+      "n_keywords": 7,
+      "community_count": 206,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 8,
+      "agenda": "Quantum Heat Transport & Finite-Temperature Dynamics",
+      "keywords": [
+        "finite temperature dynamics",
+        "quantum heat transport",
+        "quantum thermal transport",
+        "temperature dependence"
+      ],
+      "n_keywords": 4,
+      "community_count": 140,
+      "top_count": 1000
+    },
+    {
+      "category": "physics",
+      "no": 20,
+      "agenda": "Teleparallel Gravity & Modified Cosmology",
+      "keywords": [
+        "Alternative Gravity Cosmologies",
+        "Cosmological Models",
+        "Dark Energy Models",
+        "Modified Cosmology",
+        "Modified Teleparallel Gravity",
+        "TEGR",
+        "Teleparallel Equivalent of General Relativity",
+        "Teleparallel Gravity"
+      ],
+      "n_keywords": 8,
+      "community_count": 135,
+      "top_count": 487
+    }
+  ]
+}

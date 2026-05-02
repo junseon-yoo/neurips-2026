@@ -1,0 +1,1229 @@
+{
+  "model": "qwen3_8b",
+  "domains": {
+    "biology": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.0001153276,
+      "n_communities_in_pool": 39438,
+      "max_community_size_in_pool": 234,
+      "max_community_share": 0.00117,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7541347742080688,
+          "rank_k_same_rate": 0.40298,
+          "rank_k_same_enrichment": 3494.2199438816033,
+          "rank_k_same_top10pct": 0.8038,
+          "any_same_in_topk": 0.40298,
+          "mean_same_count_in_topk": 0.40298,
+          "unique_community_count": {
+            "observed_mean": 1.59702,
+            "baseline_mean": 1.999884672400266,
+            "enrichment": 0.7985560477761217,
+            "top10pct_mean": 1.1962,
+            "top10pct_enrichment": 0.5981344907075657,
+            "top25pct_mean": 1.30416
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.40298,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.8038,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.69584
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.7027093768119812,
+          "rank_k_same_rate": 0.24947,
+          "rank_k_same_enrichment": 2163.142214006014,
+          "rank_k_same_top10pct": 0.4724,
+          "any_same_in_topk": 0.55969,
+          "mean_same_count_in_topk": 1.245905,
+          "unique_community_count": {
+            "observed_mean": 3.43696,
+            "baseline_mean": 4.998847091693666,
+            "enrichment": 0.6875505365449215,
+            "top10pct_mean": 2.36705,
+            "top10pct_enrichment": 0.4735191848402822,
+            "top25pct_mean": 2.60182
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.47876,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.52735,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.28928
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6769177913665771,
+          "rank_k_same_rate": 0.18165,
+          "rank_k_same_enrichment": 1575.0782986899926,
+          "rank_k_same_top10pct": 0.33705,
+          "any_same_in_topk": 0.628725,
+          "mean_same_count_in_topk": 2.267175,
+          "unique_community_count": {
+            "observed_mean": 6.487225,
+            "baseline_mean": 9.994814667364576,
+            "enrichment": 0.6490590587119456,
+            "top10pct_mean": 4.61465,
+            "top10pct_enrichment": 0.4617044090940395,
+            "top25pct_mean": 4.97058
+          },
+          "dominant_community_size": {
+            "observed_mean": 3.91268,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 5.6856,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 5.32318
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.646061360836029,
+          "rank_k_same_rate": 0.11346,
+          "rank_k_same_enrichment": 983.806131403064,
+          "rank_k_same_top10pct": 0.2094,
+          "any_same_in_topk": 0.697215,
+          "mean_same_count_in_topk": 4.3512,
+          "unique_community_count": {
+            "observed_mean": 15.485035,
+            "baseline_mean": 24.965486063643738,
+            "enrichment": 0.6202577013932147,
+            "top10pct_mean": 11.77235,
+            "top10pct_enrichment": 0.4715449949578035,
+            "top25pct_mean": 12.37066
+          },
+          "dominant_community_size": {
+            "observed_mean": 7.0806,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 10.3246,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 9.75718
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6232106685638428,
+          "rank_k_same_rate": 0.06989,
+          "rank_k_same_enrichment": 606.0127844505564,
+          "rank_k_same_top10pct": 0.12605,
+          "any_same_in_topk": 0.74044,
+          "mean_same_count_in_topk": 6.5396,
+          "unique_community_count": {
+            "observed_mean": 30.06741,
+            "baseline_mean": 49.85944005571184,
+            "enrichment": 0.6030434751453955,
+            "top10pct_mean": 23.82105,
+            "top10pct_enrichment": 0.4777640898771202,
+            "top25pct_mean": 24.7564
+          },
+          "dominant_community_size": {
+            "observed_mean": 10.79409,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 15.5834,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 14.81116
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.6001142263412476,
+          "rank_k_same_rate": 0.039,
+          "rank_k_same_enrichment": 338.1670996361669,
+          "rank_k_same_top10pct": 0.06835,
+          "any_same_in_topk": 0.776885,
+          "mean_same_count_in_topk": 9.14087,
+          "unique_community_count": {
+            "observed_mean": 58.16164,
+            "baseline_mean": 99.43499939434956,
+            "enrichment": 0.5849212083698676,
+            "top10pct_mean": 47.4912,
+            "top10pct_enrichment": 0.47761050223025103,
+            "top25pct_mean": 48.9703
+          },
+          "dominant_community_size": {
+            "observed_mean": 15.907415,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 22.49005,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 21.54124
+          }
+        }
+      }
+    },
+    "biomedical": {
+      "pool_N": 200000,
+      "baseline_same_prob": 8.785315e-05,
+      "n_communities_in_pool": 42456,
+      "max_community_size_in_pool": 173,
+      "max_community_share": 0.000865,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7439862489700317,
+          "rank_k_same_rate": 0.3436,
+          "rank_k_same_enrichment": 3911.07205603897,
+          "rank_k_same_top10pct": 0.70625,
+          "any_same_in_topk": 0.3436,
+          "mean_same_count_in_topk": 0.3436,
+          "unique_community_count": {
+            "observed_mean": 1.6564,
+            "baseline_mean": 1.9999121468498218,
+            "enrichment": 0.8282363815876074,
+            "top10pct_mean": 1.29375,
+            "top10pct_enrichment": 0.6469034162514894,
+            "top25pct_mean": 1.41132
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.3436,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.70625,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.58868
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.6911354660987854,
+          "rank_k_same_rate": 0.17435,
+          "rank_k_same_enrichment": 1984.5617373992852,
+          "rank_k_same_top10pct": 0.32615,
+          "any_same_in_topk": 0.50394,
+          "mean_same_count_in_topk": 0.96336,
+          "unique_community_count": {
+            "observed_mean": 3.72475,
+            "baseline_mean": 4.999121678275259,
+            "enrichment": 0.7450808841454468,
+            "top10pct_mean": 2.82935,
+            "top10pct_enrichment": 0.5659694206475387,
+            "top25pct_mean": 3.07042
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.193025,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.0518,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 2.81438
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6643109917640686,
+          "rank_k_same_rate": 0.11552,
+          "rank_k_same_enrichment": 1314.9215480605988,
+          "rank_k_same_top10pct": 0.21615,
+          "any_same_in_topk": 0.58196,
+          "mean_same_count_in_topk": 1.62861,
+          "unique_community_count": {
+            "observed_mean": 7.17361,
+            "baseline_mean": 9.996049124329623,
+            "enrichment": 0.7176445324323166,
+            "top10pct_mean": 5.6872,
+            "top10pct_enrichment": 0.5689447830100982,
+            "top25pct_mean": 6.04514
+          },
+          "dominant_community_size": {
+            "observed_mean": 3.247865,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 4.57625,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 4.2287
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6324639916419983,
+          "rank_k_same_rate": 0.060745,
+          "rank_k_same_enrichment": 691.4379279513597,
+          "rank_k_same_top10pct": 0.10655,
+          "any_same_in_topk": 0.66403,
+          "mean_same_count_in_topk": 2.82336,
+          "unique_community_count": {
+            "observed_mean": 17.33802,
+            "baseline_mean": 24.973692209839122,
+            "enrichment": 0.6942513687731434,
+            "top10pct_mean": 14.54335,
+            "top10pct_enrichment": 0.582346810307457,
+            "top25pct_mean": 15.1411
+          },
+          "dominant_community_size": {
+            "observed_mean": 5.404875,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 7.5584,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 7.02406
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.609072208404541,
+          "rank_k_same_rate": 0.034325,
+          "rank_k_same_enrichment": 390.7088135143703,
+          "rank_k_same_top10pct": 0.05915,
+          "any_same_in_topk": 0.714795,
+          "mean_same_count_in_topk": 3.943285,
+          "unique_community_count": {
+            "observed_mean": 33.808755,
+            "baseline_mean": 49.892789263745314,
+            "enrichment": 0.6776280801075034,
+            "top10pct_mean": 29.1743,
+            "top10pct_enrichment": 0.5847398077060317,
+            "top25pct_mean": 30.1146
+          },
+          "dominant_community_size": {
+            "observed_mean": 7.789125,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 10.7285,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 10.00978
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.5856162309646606,
+          "rank_k_same_rate": 0.01845,
+          "rank_k_same_enrichment": 210.00954433620197,
+          "rank_k_same_top10pct": 0.0269,
+          "any_same_in_topk": 0.758605,
+          "mean_same_count_in_topk": 5.18753,
+          "unique_community_count": {
+            "observed_mean": 65.703315,
+            "baseline_mean": 99.56848800902176,
+            "enrichment": 0.6598806139754448,
+            "top10pct_mean": 57.859,
+            "top10pct_enrichment": 0.5810975054151417,
+            "top25pct_mean": 59.34318
+          },
+          "dominant_community_size": {
+            "observed_mean": 10.967905,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 14.7568,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 13.86472
+          }
+        }
+      }
+    },
+    "chemistry": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.00011143835,
+      "n_communities_in_pool": 50700,
+      "max_community_size_in_pool": 351,
+      "max_community_share": 0.001755,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.742742121219635,
+          "rank_k_same_rate": 0.319965,
+          "rank_k_same_enrichment": 2871.228800498213,
+          "rank_k_same_top10pct": 0.6733,
+          "any_same_in_topk": 0.319965,
+          "mean_same_count_in_topk": 0.319965,
+          "unique_community_count": {
+            "observed_mean": 1.680035,
+            "baseline_mean": 1.9998885616504551,
+            "enrichment": 0.8400643076899802,
+            "top10pct_mean": 1.3267,
+            "top10pct_enrichment": 0.663386963374154,
+            "top25pct_mean": 1.43732
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.319965,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.6733,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.56268
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.6956298351287842,
+          "rank_k_same_rate": 0.193805,
+          "rank_k_same_enrichment": 1739.1230218322507,
+          "rank_k_same_top10pct": 0.40335,
+          "any_same_in_topk": 0.471525,
+          "mean_same_count_in_topk": 0.97677,
+          "unique_community_count": {
+            "observed_mean": 3.724135,
+            "baseline_mean": 4.9988861123142065,
+            "enrichment": 0.7449929676985444,
+            "top10pct_mean": 2.6872,
+            "top10pct_enrichment": 0.5375597562385704,
+            "top25pct_mean": 2.93788
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.210925,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.21255,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 2.96654
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6716043949127197,
+          "rank_k_same_rate": 0.143585,
+          "rank_k_same_enrichment": 1288.4702618084348,
+          "rank_k_same_top10pct": 0.31205,
+          "any_same_in_topk": 0.54295,
+          "mean_same_count_in_topk": 1.77448,
+          "unique_community_count": {
+            "observed_mean": 7.090245,
+            "baseline_mean": 9.994991217725932,
+            "enrichment": 0.7093798129032451,
+            "top10pct_mean": 5.1294,
+            "top10pct_enrichment": 0.5131970492283279,
+            "top25pct_mean": 5.54588
+          },
+          "dominant_community_size": {
+            "observed_mean": 3.43248,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 5.25125,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 4.84258
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6423142552375793,
+          "rank_k_same_rate": 0.09191,
+          "rank_k_same_enrichment": 824.760955272579,
+          "rank_k_same_top10pct": 0.2087,
+          "any_same_in_topk": 0.61721,
+          "mean_same_count_in_topk": 3.44007,
+          "unique_community_count": {
+            "observed_mean": 16.978375,
+            "baseline_mean": 24.96668205206772,
+            "enrichment": 0.6800413032293117,
+            "top10pct_mean": 12.61555,
+            "top10pct_enrichment": 0.5052954162547678,
+            "top25pct_mean": 13.44166
+          },
+          "dominant_community_size": {
+            "observed_mean": 6.192335,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 10.0186,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 9.20634
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6202870607376099,
+          "rank_k_same_rate": 0.061815,
+          "rank_k_same_enrichment": 554.7013214032692,
+          "rank_k_same_top10pct": 0.14835,
+          "any_same_in_topk": 0.66428,
+          "mean_same_count_in_topk": 5.27691,
+          "unique_community_count": {
+            "observed_mean": 33.015725,
+            "baseline_mean": 49.86445066541762,
+            "enrichment": 0.6621094699614795,
+            "top10pct_mean": 25.11885,
+            "top10pct_enrichment": 0.5037426395919492,
+            "top25pct_mean": 26.51072
+          },
+          "dominant_community_size": {
+            "observed_mean": 9.54937,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 15.99395,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 14.63242
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.5977450609207153,
+          "rank_k_same_rate": 0.03711,
+          "rank_k_same_enrichment": 333.0092378431662,
+          "rank_k_same_top10pct": 0.08525,
+          "any_same_in_topk": 0.70631,
+          "mean_same_count_in_topk": 7.60975,
+          "unique_community_count": {
+            "observed_mean": 64.035375,
+            "baseline_mean": 99.45623990663412,
+            "enrichment": 0.6438547753274613,
+            "top10pct_mean": 49.7466,
+            "top10pct_enrichment": 0.5001858108319829,
+            "top25pct_mean": 52.0922
+          },
+          "dominant_community_size": {
+            "observed_mean": 14.37413,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 24.3783,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 22.34944
+          }
+        }
+      }
+    },
+    "computer_science": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.0002788285,
+      "n_communities_in_pool": 29989,
+      "max_community_size_in_pool": 459,
+      "max_community_share": 0.002295,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7406891584396362,
+          "rank_k_same_rate": 0.447805,
+          "rank_k_same_enrichment": 1606.023057183896,
+          "rank_k_same_top10pct": 0.8125,
+          "any_same_in_topk": 0.447805,
+          "mean_same_count_in_topk": 0.447805,
+          "unique_community_count": {
+            "observed_mean": 1.552195,
+            "baseline_mean": 1.9997211715002225,
+            "enrichment": 0.7762057141373958,
+            "top10pct_mean": 1.1875,
+            "top10pct_enrichment": 0.5938327887528033,
+            "top25pct_mean": 1.26622
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.447805,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.8125,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.73378
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.6874653100967407,
+          "rank_k_same_rate": 0.335405,
+          "rank_k_same_enrichment": 1202.907880650651,
+          "rank_k_same_top10pct": 0.5717,
+          "any_same_in_topk": 0.60952,
+          "mean_same_count_in_topk": 1.52409,
+          "unique_community_count": {
+            "observed_mean": 3.099025,
+            "baseline_mean": 4.997214040058316,
+            "enrichment": 0.6201505429140745,
+            "top10pct_mean": 2.09235,
+            "top10pct_enrichment": 0.41870329812320445,
+            "top25pct_mean": 2.23364
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.81002,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.8038,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.66238
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6600067019462585,
+          "rank_k_same_rate": 0.278455,
+          "rank_k_same_enrichment": 998.6604669178365,
+          "rank_k_same_top10pct": 0.4743,
+          "any_same_in_topk": 0.675095,
+          "mean_same_count_in_topk": 3.011035,
+          "unique_community_count": {
+            "observed_mean": 5.56225,
+            "baseline_mean": 9.987480574759408,
+            "enrichment": 0.556922234628125,
+            "top10pct_mean": 3.74475,
+            "top10pct_enrichment": 0.374944408849597,
+            "top25pct_mean": 3.93126
+          },
+          "dominant_community_size": {
+            "observed_mean": 4.809235,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 6.61655,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 6.42314
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6261065006256104,
+          "rank_k_same_rate": 0.20486,
+          "rank_k_same_enrichment": 734.7168600053437,
+          "rank_k_same_top10pct": 0.33995,
+          "any_same_in_topk": 0.73855,
+          "mean_same_count_in_topk": 6.51653,
+          "unique_community_count": {
+            "observed_mean": 12.6972,
+            "baseline_mean": 24.916882898296766,
+            "enrichment": 0.5095821998211477,
+            "top10pct_mean": 8.99215,
+            "top10pct_enrichment": 0.3608858313739827,
+            "top25pct_mean": 9.24068
+          },
+          "dominant_community_size": {
+            "observed_mean": 9.733575,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 13.45,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 13.18658
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6003921031951904,
+          "rank_k_same_rate": 0.148995,
+          "rank_k_same_enrichment": 534.36072711362,
+          "rank_k_same_top10pct": 0.2474,
+          "any_same_in_topk": 0.77778,
+          "mean_same_count_in_topk": 10.83059,
+          "unique_community_count": {
+            "observed_mean": 24.2367,
+            "baseline_mean": 49.662929112201105,
+            "enrichment": 0.488023973480162,
+            "top10pct_mean": 18.0021,
+            "top10pct_enrichment": 0.3624856673139175,
+            "top25pct_mean": 18.3135
+          },
+          "dominant_community_size": {
+            "observed_mean": 16.154995,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 22.15755,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 21.87514
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.5742536783218384,
+          "rank_k_same_rate": 0.097985,
+          "rank_k_same_enrichment": 351.4167310730431,
+          "rank_k_same_top10pct": 0.16035,
+          "any_same_in_topk": 0.81126,
+          "mean_same_count_in_topk": 16.79644,
+          "unique_community_count": {
+            "observed_mean": 46.485925,
+            "baseline_mean": 98.65631244166725,
+            "enrichment": 0.47119057918859314,
+            "top10pct_mean": 36.0796,
+            "top10pct_enrichment": 0.36570999976644036,
+            "top25pct_mean": 36.42444
+          },
+          "dominant_community_size": {
+            "observed_mean": 25.788415,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 34.77305,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 34.55112
+          }
+        }
+      }
+    },
+    "engineering": {
+      "pool_N": 200000,
+      "baseline_same_prob": 9.63905e-05,
+      "n_communities_in_pool": 47008,
+      "max_community_size_in_pool": 229,
+      "max_community_share": 0.001145,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.746010959148407,
+          "rank_k_same_rate": 0.401685,
+          "rank_k_same_enrichment": 4167.26752117688,
+          "rank_k_same_top10pct": 0.78505,
+          "any_same_in_topk": 0.401685,
+          "mean_same_count_in_topk": 0.401685,
+          "unique_community_count": {
+            "observed_mean": 1.598315,
+            "baseline_mean": 1.9999036095004166,
+            "enrichment": 0.7991960174516936,
+            "top10pct_mean": 1.21495,
+            "top10pct_enrichment": 0.6075042788204673,
+            "top25pct_mean": 1.31798
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.401685,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.78505,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.68202
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.6923373341560364,
+          "rank_k_same_rate": 0.262785,
+          "rank_k_same_enrichment": 2726.254143302504,
+          "rank_k_same_top10pct": 0.48015,
+          "any_same_in_topk": 0.56085,
+          "mean_same_count_in_topk": 1.277505,
+          "unique_community_count": {
+            "observed_mean": 3.36563,
+            "baseline_mean": 4.999036368609122,
+            "enrichment": 0.6732557540757433,
+            "top10pct_mean": 2.35175,
+            "top10pct_enrichment": 0.47044066627871434,
+            "top25pct_mean": 2.54544
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.546625,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.536,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.3447
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6643179655075073,
+          "rank_k_same_rate": 0.19439,
+          "rank_k_same_enrichment": 2016.6925163786889,
+          "rank_k_same_top10pct": 0.35345,
+          "any_same_in_topk": 0.629215,
+          "mean_same_count_in_topk": 2.36288,
+          "unique_community_count": {
+            "observed_mean": 6.25504,
+            "baseline_mean": 9.995665708758397,
+            "enrichment": 0.6257752292095176,
+            "top10pct_mean": 4.4776,
+            "top10pct_enrichment": 0.4479541563776627,
+            "top25pct_mean": 4.74828
+          },
+          "dominant_community_size": {
+            "observed_mean": 4.108975,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 5.79975,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 5.53186
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6297610998153687,
+          "rank_k_same_rate": 0.119575,
+          "rank_k_same_enrichment": 1240.5268154019327,
+          "rank_k_same_top10pct": 0.22485,
+          "any_same_in_topk": 0.69688,
+          "mean_same_count_in_topk": 4.572835,
+          "unique_community_count": {
+            "observed_mean": 14.733055,
+            "baseline_mean": 24.971145623836453,
+            "enrichment": 0.5900031669326544,
+            "top10pct_mean": 11.15785,
+            "top10pct_enrichment": 0.44682971971254554,
+            "top25pct_mean": 11.60804
+          },
+          "dominant_community_size": {
+            "observed_mean": 7.575615,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 10.8437,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 10.38354
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6035276651382446,
+          "rank_k_same_rate": 0.07055,
+          "rank_k_same_enrichment": 731.9186019369129,
+          "rank_k_same_top10pct": 0.12325,
+          "any_same_in_topk": 0.739345,
+          "mean_same_count_in_topk": 6.829935,
+          "unique_community_count": {
+            "observed_mean": 28.447245,
+            "baseline_mean": 49.882454928406645,
+            "enrichment": 0.570285585198817,
+            "top10pct_mean": 22.4898,
+            "top10pct_enrichment": 0.4508559178227753,
+            "top25pct_mean": 23.16464
+          },
+          "dominant_community_size": {
+            "observed_mean": 11.58136,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 16.4582,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 15.82744
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.5767720937728882,
+          "rank_k_same_rate": 0.036915,
+          "rank_k_same_enrichment": 382.9734258044102,
+          "rank_k_same_top10pct": 0.06375,
+          "any_same_in_topk": 0.77437,
+          "mean_same_count_in_topk": 9.36023,
+          "unique_community_count": {
+            "observed_mean": 54.79411,
+            "baseline_mean": 99.5272397019258,
+            "enrichment": 0.5505438527593343,
+            "top10pct_mean": 44.85175,
+            "top10pct_enrichment": 0.4506479847559979,
+            "top25pct_mean": 45.85016
+          },
+          "dominant_community_size": {
+            "observed_mean": 16.922975,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 23.4428,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 22.72412
+          }
+        }
+      }
+    },
+    "environmental_earth": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.00023555895000000002,
+      "n_communities_in_pool": 29639,
+      "max_community_size_in_pool": 528,
+      "max_community_share": 0.00264,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7571880221366882,
+          "rank_k_same_rate": 0.43367,
+          "rank_k_same_enrichment": 1841.0253569223328,
+          "rank_k_same_top10pct": 0.77935,
+          "any_same_in_topk": 0.43367,
+          "mean_same_count_in_topk": 0.43367,
+          "unique_community_count": {
+            "observed_mean": 1.56633,
+            "baseline_mean": 1.9997644410502797,
+            "enrichment": 0.7832572516277772,
+            "top10pct_mean": 1.22065,
+            "top10pct_enrichment": 0.6103968922254226,
+            "top25pct_mean": 1.30846
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.43367,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.77935,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.69154
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.70840984582901,
+          "rank_k_same_rate": 0.30792,
+          "rank_k_same_enrichment": 1307.1887100872202,
+          "rank_k_same_top10pct": 0.5322,
+          "any_same_in_topk": 0.607155,
+          "mean_same_count_in_topk": 1.43611,
+          "unique_community_count": {
+            "observed_mean": 3.200195,
+            "baseline_mean": 4.997646013849705,
+            "enrichment": 0.6403404705198154,
+            "top10pct_mean": 2.21685,
+            "top10pct_enrichment": 0.4435788356871543,
+            "top25pct_mean": 2.40634
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.702,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.67225,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.48166
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6829691529273987,
+          "rank_k_same_rate": 0.244235,
+          "rank_k_same_enrichment": 1036.8317569763321,
+          "rank_k_same_top10pct": 0.42845,
+          "any_same_in_topk": 0.68013,
+          "mean_same_count_in_topk": 2.7636,
+          "unique_community_count": {
+            "observed_mean": 5.814975,
+            "baseline_mean": 9.989419060642934,
+            "enrichment": 0.5821134306909074,
+            "top10pct_mean": 4.04205,
+            "top10pct_enrichment": 0.4046331398714839,
+            "top25pct_mean": 4.3363
+          },
+          "dominant_community_size": {
+            "observed_mean": 4.5024,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 6.26615,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 5.95346
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6518793106079102,
+          "rank_k_same_rate": 0.17231,
+          "rank_k_same_enrichment": 731.4941758740221,
+          "rank_k_same_top10pct": 0.30665,
+          "any_same_in_topk": 0.74887,
+          "mean_same_count_in_topk": 5.7587,
+          "unique_community_count": {
+            "observed_mean": 13.342815,
+            "baseline_mean": 24.929699040234997,
+            "enrichment": 0.5352176525863999,
+            "top10pct_mean": 9.7389,
+            "top10pct_enrichment": 0.39065453555143265,
+            "top25pct_mean": 10.22908
+          },
+          "dominant_community_size": {
+            "observed_mean": 8.78839,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 12.48785,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 11.89158
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6283678412437439,
+          "rank_k_same_rate": 0.12155,
+          "rank_k_same_enrichment": 516.0067150919122,
+          "rank_k_same_top10pct": 0.2164,
+          "any_same_in_topk": 0.78954,
+          "mean_same_count_in_topk": 9.31346,
+          "unique_community_count": {
+            "observed_mean": 25.334095,
+            "baseline_mean": 49.714543933198485,
+            "enrichment": 0.5095912180958849,
+            "top10pct_mean": 19.4034,
+            "top10pct_enrichment": 0.390296248640486,
+            "top25pct_mean": 20.04322
+          },
+          "dominant_community_size": {
+            "observed_mean": 14.261585,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 20.30585,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 19.41912
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.6043004393577576,
+          "rank_k_same_rate": 0.078125,
+          "rank_k_same_enrichment": 331.657956532749,
+          "rank_k_same_top10pct": 0.1348,
+          "any_same_in_topk": 0.823875,
+          "mean_same_count_in_topk": 14.1191,
+          "unique_community_count": {
+            "observed_mean": 48.05541,
+            "baseline_mean": 98.85924155317005,
+            "enrichment": 0.48609931904195397,
+            "top10pct_mean": 38.4471,
+            "top10pct_enrichment": 0.3889074951007162,
+            "top25pct_mean": 39.26284
+          },
+          "dominant_community_size": {
+            "observed_mean": 22.399515,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 31.59755,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 30.36272
+          }
+        }
+      }
+    },
+    "materials_science": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.00017880039999999998,
+      "n_communities_in_pool": 35251,
+      "max_community_size_in_pool": 411,
+      "max_community_share": 0.002055,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7677409648895264,
+          "rank_k_same_rate": 0.388005,
+          "rank_k_same_enrichment": 2170.0454808825934,
+          "rank_k_same_top10pct": 0.7382,
+          "any_same_in_topk": 0.388005,
+          "mean_same_count_in_topk": 0.388005,
+          "unique_community_count": {
+            "observed_mean": 1.611995,
+            "baseline_mean": 1.9998211996002258,
+            "enrichment": 0.8060695627800355,
+            "top10pct_mean": 1.2618,
+            "top10pct_enrichment": 0.6309564076289621,
+            "top25pct_mean": 1.36628
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.388005,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.7382,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.63372
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.7208151817321777,
+          "rank_k_same_rate": 0.26352,
+          "rank_k_same_enrichment": 1473.8222062143038,
+          "rank_k_same_top10pct": 0.46555,
+          "any_same_in_topk": 0.55168,
+          "mean_same_count_in_topk": 1.254125,
+          "unique_community_count": {
+            "observed_mean": 3.399855,
+            "baseline_mean": 4.9982130348633795,
+            "enrichment": 0.6802141037777777,
+            "top10pct_mean": 2.4572,
+            "top10pct_enrichment": 0.49161570002331134,
+            "top25pct_mean": 2.66516
+          },
+          "dominant_community_size": {
+            "observed_mean": 2.51769,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.43565,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.23074
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6969109177589417,
+          "rank_k_same_rate": 0.208405,
+          "rank_k_same_enrichment": 1165.5734550929417,
+          "rank_k_same_top10pct": 0.37135,
+          "any_same_in_topk": 0.624495,
+          "mean_same_count_in_topk": 2.387225,
+          "unique_community_count": {
+            "observed_mean": 6.278485,
+            "baseline_mean": 9.991966433253912,
+            "enrichment": 0.6283532918109888,
+            "top10pct_mean": 4.57785,
+            "top10pct_enrichment": 0.45815306031899966,
+            "top25pct_mean": 4.8984
+          },
+          "dominant_community_size": {
+            "observed_mean": 4.131765,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 5.7593,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 5.44568
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.66765296459198,
+          "rank_k_same_rate": 0.145005,
+          "rank_k_same_enrichment": 810.988118594813,
+          "rank_k_same_top10pct": 0.26505,
+          "any_same_in_topk": 0.69645,
+          "mean_same_count_in_topk": 4.922165,
+          "unique_community_count": {
+            "observed_mean": 14.61546,
+            "baseline_mean": 24.94659766530149,
+            "enrichment": 0.5858698727613991,
+            "top10pct_mean": 11.1001,
+            "top10pct_enrichment": 0.4449544642891025,
+            "top25pct_mean": 11.6467
+          },
+          "dominant_community_size": {
+            "observed_mean": 7.98553,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 11.36045,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 10.79776
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6453145146369934,
+          "rank_k_same_rate": 0.100845,
+          "rank_k_same_enrichment": 564.0088053494288,
+          "rank_k_same_top10pct": 0.18475,
+          "any_same_in_topk": 0.742565,
+          "mean_same_count_in_topk": 7.908955,
+          "unique_community_count": {
+            "observed_mean": 27.969065,
+            "baseline_mean": 49.782983710788855,
+            "enrichment": 0.5618197808810445,
+            "top10pct_mean": 21.93845,
+            "top10pct_enrichment": 0.44068170215449637,
+            "top25pct_mean": 22.78596
+          },
+          "dominant_community_size": {
+            "observed_mean": 12.915635,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 18.4749,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 17.6153
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.6221389770507812,
+          "rank_k_same_rate": 0.064025,
+          "rank_k_same_enrichment": 358.08085440524746,
+          "rank_k_same_top10pct": 0.11915,
+          "any_same_in_topk": 0.78217,
+          "mean_same_count_in_topk": 11.89639,
+          "unique_community_count": {
+            "observed_mean": 53.45173,
+            "baseline_mean": 99.13135854591384,
+            "enrichment": 0.5392010236119503,
+            "top10pct_mean": 43.14425,
+            "top10pct_enrichment": 0.4352230276357732,
+            "top25pct_mean": 44.45128
+          },
+          "dominant_community_size": {
+            "observed_mean": 20.216535,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 28.7923,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 27.50266
+          }
+        }
+      }
+    },
+    "physics": {
+      "pool_N": 200000,
+      "baseline_same_prob": 0.0004616621,
+      "n_communities_in_pool": 29376,
+      "max_community_size_in_pool": 760,
+      "max_community_share": 0.0038,
+      "by_k": {
+        "2": {
+          "mean_sim_at_rank": 0.7613558769226074,
+          "rank_k_same_rate": 0.530215,
+          "rank_k_same_enrichment": 1148.49150493402,
+          "rank_k_same_top10pct": 0.85425,
+          "any_same_in_topk": 0.530215,
+          "mean_same_count_in_topk": 0.530215,
+          "unique_community_count": {
+            "observed_mean": 1.469785,
+            "baseline_mean": 1.9995383379003138,
+            "enrichment": 0.7350621751735953,
+            "top10pct_mean": 1.14575,
+            "top10pct_enrichment": 0.57300726786921,
+            "top25pct_mean": 1.2133
+          },
+          "dominant_community_size": {
+            "observed_mean": 1.530215,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 1.85425,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 1.7867
+          }
+        },
+        "5": {
+          "mean_sim_at_rank": 0.7073766589164734,
+          "rank_k_same_rate": 0.388615,
+          "rank_k_same_enrichment": 841.7736695301608,
+          "rank_k_same_top10pct": 0.58765,
+          "any_same_in_topk": 0.698605,
+          "mean_same_count_in_topk": 1.78492,
+          "unique_community_count": {
+            "observed_mean": 2.858795,
+            "baseline_mean": 4.995389966696152,
+            "enrichment": 0.5722866521051105,
+            "top10pct_mean": 2.01145,
+            "top10pct_enrichment": 0.4026612563603981,
+            "top25pct_mean": 2.11466
+          },
+          "dominant_community_size": {
+            "observed_mean": 3.02471,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 3.87135,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 3.76584
+          }
+        },
+        "10": {
+          "mean_sim_at_rank": 0.6801320910453796,
+          "rank_k_same_rate": 0.321985,
+          "rank_k_same_enrichment": 697.4473321505059,
+          "rank_k_same_top10pct": 0.49025,
+          "any_same_in_topk": 0.762395,
+          "mean_same_count_in_topk": 3.509125,
+          "unique_community_count": {
+            "observed_mean": 5.075195,
+            "baseline_mean": 9.979304048577536,
+            "enrichment": 0.508572038219782,
+            "top10pct_mean": 3.5752,
+            "top10pct_enrichment": 0.35826145616934224,
+            "top25pct_mean": 3.6924
+          },
+          "dominant_community_size": {
+            "observed_mean": 5.155465,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 6.7027,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 6.56232
+          }
+        },
+        "25": {
+          "mean_sim_at_rank": 0.6471711993217468,
+          "rank_k_same_rate": 0.24184,
+          "rank_k_same_enrichment": 523.8463369637664,
+          "rank_k_same_top10pct": 0.3618,
+          "any_same_in_topk": 0.81782,
+          "mean_same_count_in_topk": 7.606585,
+          "unique_community_count": {
+            "observed_mean": 11.3995,
+            "baseline_mean": 24.86300061936715,
+            "enrichment": 0.45849252769274784,
+            "top10pct_mean": 8.36845,
+            "top10pct_enrichment": 0.33658246356159266,
+            "top25pct_mean": 8.46238
+          },
+          "dominant_community_size": {
+            "observed_mean": 10.4048,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 13.64085,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 13.47856
+          }
+        },
+        "50": {
+          "mean_sim_at_rank": 0.6223952770233154,
+          "rank_k_same_rate": 0.181655,
+          "rank_k_same_enrichment": 393.4804264850851,
+          "rank_k_same_top10pct": 0.26695,
+          "any_same_in_topk": 0.846865,
+          "mean_same_count_in_topk": 12.795115,
+          "unique_community_count": {
+            "observed_mean": 21.35194,
+            "baseline_mean": 49.447074418123144,
+            "enrichment": 0.4318140203695079,
+            "top10pct_mean": 16.2391,
+            "top10pct_enrichment": 0.32841376746948875,
+            "top25pct_mean": 16.2704
+          },
+          "dominant_community_size": {
+            "observed_mean": 17.3701,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 22.7943,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 22.65178
+          }
+        },
+        "100": {
+          "mean_sim_at_rank": 0.5971485376358032,
+          "rank_k_same_rate": 0.12913,
+          "rank_k_same_enrichment": 279.706737893364,
+          "rank_k_same_top10pct": 0.19225,
+          "any_same_in_topk": 0.8695,
+          "mean_same_count_in_topk": 20.38113,
+          "unique_community_count": {
+            "observed_mean": 39.97764,
+            "baseline_mean": 97.81617640163032,
+            "enrichment": 0.4087017247111868,
+            "top10pct_mean": 31.2893,
+            "top10pct_enrichment": 0.3198785840036015,
+            "top25pct_mean": 31.19098
+          },
+          "dominant_community_size": {
+            "observed_mean": 28.187305,
+            "baseline_mean": null,
+            "enrichment": null,
+            "top10pct_mean": 36.7315,
+            "top10pct_enrichment": null,
+            "top25pct_mean": 36.72316
+          }
+        }
+      }
+    }
+  }
+}

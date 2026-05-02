@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.ipynb_checkpoints/
+
+# Large data — host on Zenodo (see EXTERNAL_DATA.md)
+*.parquet
+*.npy
+*.npz
+*.h5
+*.hdf5
+data/raw/
+data/embeddings/
+data/communities_augmented_v2/
+data/communities/
+
+# Local env
+.env
+.env.local
+.envrc
+*.pem
+*.key
+
+# Logs / scratch
+*.log
+scratch/
+tmp/
