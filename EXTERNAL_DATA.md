@@ -1,8 +1,13 @@
 # External Data
 
-The augmented citation graph and community parquets are too large for GitHub. They will be hosted on Zenodo (anonymous deposit) at submission time.
+The augmented citation graph and community parquets are too large for GitHub. They are deposited on Zenodo as a single zip:
 
-## Files (will be uploaded as a single zip)
+- **DOI**: [10.5281/zenodo.20046263](https://doi.org/10.5281/zenodo.20046263)
+- **Record**: https://zenodo.org/records/20046263
+- **License**: CC-BY-4.0
+- **Size**: 5.6 GB (zip)
+
+## Files (in the Zenodo zip)
 
 | File | Size | Schema |
 |---|---|---|
@@ -12,13 +17,9 @@ The augmented citation graph and community parquets are too large for GitHub. Th
 | `communities_augmented_v2/leiden_cpm_g1e-04.parquet` | 24 MB | `(paper_id, community_id)` — Level 1 (sub-field) at γ = 1e-4, 73 K communities |
 | `communities_augmented_v2/hier_l1_1e-04_l2_1e-02.parquet` | 29 MB | `(paper_id, level1_comm, level2_comm)` — final hierarchical map, 329 K L2 communities |
 | `communities_augmented_v2/leiden_cpm_g{1e-6 .. 1e-2}.parquet` | ~25 MB each | full γ sweep (8 files) for sensitivity analysis |
-
-Once uploaded, the README will be updated with:
-
-```
-DOI: 10.5281/zenodo.<XXXXXXX>
-URL: https://zenodo.org/records/<XXXXXXX>
-```
+| `citation_graph.parquet` | 96 MB | `(paper_id, paper_reference_id)` — 14.58 M target→target direct citation edges |
+| `target/neurips_4m.parquet` | 1.8 GB | 4 M-paper target corpus (paper_id, domain, title, abstract, publication_year) |
+| `dedup_v2_clusters.json` | 541 KB | 7,287 boilerplate-filtered duplicate clusters |
 
 ## Direct citation table (input to graph build)
 

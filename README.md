@@ -41,7 +41,11 @@ python code/eval/compare_methods.py
 
 ## Data
 
-Small artifacts are committed in `data/`. The large augmented graph + community parquets (~2.5 GB) are hosted externally — see `EXTERNAL_DATA.md`.
+Small artifacts are committed in `data/`. The large augmented graph + community parquets are deposited on Zenodo:
+
+- **DOI**: [10.5281/zenodo.20046263](https://doi.org/10.5281/zenodo.20046263) (5.6 GB zip, CC-BY-4.0)
+
+See `EXTERNAL_DATA.md` for the full file inventory and schemas.
 
 | Path | Size | Content |
 |---|---|---|
