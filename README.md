@@ -97,4 +97,4 @@ Citations:
 
 ## License
 
-MIT. See `LICENSE`.
+CC-BY 4.0. See `LICENSE`.
