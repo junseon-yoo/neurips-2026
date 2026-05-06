@@ -97,4 +97,5 @@ Citations:
 
 ## License
 
-CC-BY 4.0. See `LICENSE`.
+- **Code** (`code/`, scripts) — MIT, see `LICENSE`.
+- **Data** (`data/` and the linked Zenodo deposit) — CC-BY-4.0, see `LICENSE-DATA`.
