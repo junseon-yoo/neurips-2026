@@ -23,6 +23,34 @@ Eighty research-agenda queries used as the retrieval benchmark, balanced 10 per 
 }
 ```
 
+## `queries_80_with_graph_search.json`
+
+Same 80 agendas plus the **graph-search baseline output**: each agenda was sent through the LLM agent's keyword search → top 1000 dev-API results → filtered to papers with a community label. The `community_papers` field is the graph-search retrieval result used as one of the comparison methods.
+
+```jsonc
+{
+  "summary": {...},
+  "results": [
+    {
+      "category": "physics", "no": 19,
+      "agenda": "Hubble Tension & Cosmological Solutions",
+      "condition": {...},                   // boolean keyword query the agent generated
+      "top_papers": [...],                  // dev-API top 1000 (paper_id, title, year, doi, citedCount)
+      "community_papers": [                 // top_papers ∩ in-community → graph-search result set
+        {"paper_id": "...", "title": "...", "domain": "...", "community_id": ...},
+        ...
+      ],
+      "community_count": 366
+    },
+    ...
+  ]
+}
+```
+
+## `subfield_check.json`
+
+For each of 80 agendas, the top-100 dense neighbors with full **abstracts** included. Used for qualitative validation / case study reproduction. Each query also carries the agent-issued `query_title` and `neighbors` array with `(rank, sim, paper_id, title, abstract_head, year, ...)`.
+
 ## `agenda_topk/topk_<method>.json`
 
 Per-agenda top-K retrieval result for one method.

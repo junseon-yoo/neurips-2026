@@ -87,8 +87,8 @@ def main() -> None:
                  **stats_for_pids(pids, args.top_n, l1_of, l2_of)}
             )
 
-    # Graph search (community_papers from queries_80 / agent search output)
-    qp = DATA_DIR / "queries_80.json"
+    # Graph search (community_papers from agent search output)
+    qp = DATA_DIR / "queries_80_with_graph_search.json"
     if qp.exists():
         with open(qp) as f:
             qd = json.load(f)
