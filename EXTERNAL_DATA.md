@@ -23,7 +23,7 @@ The augmented citation graph and community parquets are too large for GitHub. Th
 
 ## Direct citation table (input to graph build)
 
-`paper_reference` table over the full ~150 M paper corpus is required for BC/CC computation. We used the Hetzner Object Storage snapshot at `dataset/20260331/core_tables/paper_reference/` (200 zstd-compressed parquet shards, 14.5 GB).
+`paper_reference` table over the full ~150 M paper corpus is required for BC/CC computation. We used a private snapshot (200 zstd-compressed parquet shards, 14.5 GB) that we cannot redistribute.
 
 For external reproducibility, equivalent data can be derived from:
 - **OpenAlex** bulk export (`works/referenced_works`)
