@@ -80,11 +80,18 @@ python code/retrieval/topk_cosine.py --model specter2
 python code/retrieval/topk_cosine.py --model qwen3-0.6b
 python code/retrieval/topk_cosine.py --model qwen3-8b
 GCP_PROJECT=<your-project> python code/retrieval/topk_cosine.py --model gemini
-python code/retrieval/citation_rerank.py --source gemini      # repeat with --source qwen3-8b / qwen3-0.6b / specter2 / bm25 to match every committed rerank file
-python code/retrieval/rrf.py --dense-source gemini            # 2-way RRF (embedding + citation); add --bm25-source bm25 for 3-way
+for src in specter2 qwen3-0.6b qwen3-8b gemini bm25; do
+  python code/retrieval/citation_rerank.py --source "$src"
+done
+for src in specter2 qwen3-0.6b qwen3-8b gemini; do
+  python code/retrieval/rrf.py --dense-source "$src"          # 2-way RRF (embedding + citation); add --bm25-source bm25 for 3-way
+done
 
 # 5. Eval — full_sweep is one (model, level) pair per call (4 models × 2 levels = 8 calls).
 #    Use the underscored model names here (matches the embedding filename stem).
+#    full_sweep.py skips if its output file already exists. The repo ships the
+#    paper's reference sweep JSONs, so move them aside first to actually regenerate:
+mkdir -p data/full_sweep_ref && mv data/full_sweep/*.json data/full_sweep_ref/ 2>/dev/null || true
 python code/eval/full_sweep.py --model specter2   --level l1 --comm-path data/communities/hier_L1_flat.parquet
 python code/eval/full_sweep.py --model specter2   --level l2 --comm-path data/communities/hier_L2_flat.parquet
 python code/eval/full_sweep.py --model qwen3_0.6b --level l1 --comm-path data/communities/hier_L1_flat.parquet
