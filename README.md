@@ -69,7 +69,7 @@ Download the Zenodo zip, unzip into `data/`, and run the retrieval pipeline. Thi
 # 1. Download + unpack Zenodo deposit (5.6 GB zip)
 #    DOI: 10.5281/zenodo.20046263 — https://zenodo.org/records/20046263
 mkdir -p data && cd data
-curl -L -o zenodo.zip "https://zenodo.org/records/20046263/files/neurips-2026-data.zip"
+curl -L -o neurips-2026-data.zip "https://zenodo.org/records/20046263/files/neurips-2026-data.zip?download=1"
 unzip zenodo.zip && cd ..
 
 # 2. Generate the four sets of paper embeddings (GPU required)
