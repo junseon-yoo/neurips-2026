@@ -63,24 +63,29 @@ External (Zenodo, see `EXTERNAL_DATA.md`):
 
 ## Reproducibility
 
-All code uses environment variables for credentials and paths:
+### Inputs
+
+The fastest path is to download the Zenodo deposit (above) and run the retrieval / evaluation scripts directly — no S3 or paper-table rebuild required.
+
+Rebuilding the augmented graph from scratch needs a `paper_reference` table. We used a private snapshot, but the equivalent is publicly available from the **OpenAlex** bulk export (`works.referenced_works`, 2026-03-31 snapshot used in the paper). The expected schema is `(paper_id string, paper_reference_id string)`; see `EXTERNAL_DATA.md`.
+
+### Optional environment variables
+
+Only needed if you want to read inputs from / write outputs to S3-compatible object storage instead of local disk. All scripts also accept a local `DATA_DIR`.
 
 ```bash
-export S3_BUCKET="<your-bucket>"
+export DATA_DIR="./data"          # local fallback, used by default
+export S3_BUCKET="..."            # optional — only if rebuilding from S3
 export S3_ACCESS_KEY="..."
 export S3_SECRET_KEY="..."
-export S3_ENDPOINT_URL="https://hel1.your-objectstorage.com"
-export GCP_PROJECT="<your-gcp-project>"
+export S3_ENDPOINT_URL="..."
+export GCP_PROJECT="..."          # only for code/embeddings/embed_gemini.py
 export GCP_LOCATION="us-central1"
 ```
 
-GPU: experiments were run on a single RTX 4070S (12 GB) for BM25/SPECTER2/qwen3-0.6B and an RTX 3090 (24 GB) for qwen3-8B fp16.
+### Compute
 
-Citations:
-- Leiden CPM: Traag, Waltman, van Eck (2019)
-- SPECTER2: Singh et al. (2022)
-- qwen3-Embedding: Alibaba (2025)
-- BM25 implementation: `bm25s` (Lu, 2024)
+Embeddings were generated on a single RTX 4070S (12 GB VRAM) for BM25 / SPECTER2 / qwen3-0.6B, and a single RTX 3090 (24 GB VRAM) for qwen3-8B at fp16. Graph construction and Leiden CPM run on CPU (DuckDB + igraph; ~22 vCPU, ≤32 GB RAM). End-to-end wall-clock is ≈ 12 hours.
 
 ## Repo Layout
 
