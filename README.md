@@ -71,7 +71,7 @@ Rebuilding the augmented graph from scratch needs a `paper_reference` table. We 
 
 ### Optional environment variables
 
-Only needed if you want to read inputs from / write outputs to S3-compatible object storage instead of local disk. All scripts also accept a local `DATA_DIR`.
+Only needed if you read inputs from / write outputs to S3-compatible object storage instead of local disk. By default everything resolves to `DATA_DIR` (local).
 
 ```bash
 export DATA_DIR="./data"          # local fallback, used by default
@@ -79,9 +79,9 @@ export S3_BUCKET="..."            # optional — only if rebuilding from S3
 export S3_ACCESS_KEY="..."
 export S3_SECRET_KEY="..."
 export S3_ENDPOINT_URL="..."
-export GCP_PROJECT="..."          # only for code/embeddings/embed_gemini.py
-export GCP_LOCATION="us-central1"
 ```
+
+Regenerating Gemini embeddings additionally requires a Google Cloud project (Vertex AI ADC); see the docstring of `code/embeddings/embed_gemini.py`.
 
 ### Compute
 
