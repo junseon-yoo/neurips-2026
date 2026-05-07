@@ -49,7 +49,7 @@ External (Zenodo, see `EXTERNAL_DATA.md`):
 
 ## Reproducibility
 
-There are three reproduction tiers. Pick the one that matches what you want to verify.
+There are two reproduction tiers. Pick the one that matches what you want to verify.
 
 ### Tier 1 — paper tables/figures only (no GPU, no download)
 
@@ -90,18 +90,7 @@ python code/retrieval/rrf.py
 
 By default all paths resolve to `DATA_DIR=./data`; override with `export DATA_DIR=...` if you keep artifacts elsewhere. Regenerating Gemini embeddings additionally needs a Google Cloud project (Vertex AI ADC) — see the docstring of `code/embeddings/embed_gemini.py`.
 
-### Tier 3 — rebuild the citation graph and communities from scratch
-
-The augmented graph is derivable from any `paper_reference` table with schema `(paper_id string, paper_reference_id string)`. The paper used a 2026-03-31 snapshot equivalent to **OpenAlex** `works.referenced_works`. After preparing `paper_reference.parquet` under `$DATA_DIR/`:
-
-```bash
-python code/graph/duckdb_bc_cc.py            # BC + CC via DuckDB out-of-core (~3 min)
-python code/graph/build_augmented_graph.py   # combine direct + BC + CC into one weighted graph
-python code/community/leiden_cpm_parallel.py # L1 γ sweep
-python code/community/hierarchical_leiden.py # L2 inside each L1 induced subgraph
-```
-
-This regenerates `augmented_graph_v2.parquet` and the `communities_augmented_v2/` parquets that ship in the Zenodo deposit.
+The graph-construction and community-detection scripts under `code/graph/` and `code/community/` are included for transparency, but rebuilding from raw inputs requires private snapshots of multiple bibliographic sources (OpenAlex, Semantic Scholar, etc.) that we cannot redistribute. The Zenodo deposit ships the resulting `augmented_graph_v2.parquet`, `bc_edges_full.parquet`, `cc_edges_full.parquet`, `citation_graph.parquet`, and the full `communities_augmented_v2/` set, so this stage does not need to be re-run.
 
 ### Compute used in the paper
 
