@@ -12,18 +12,7 @@ We compare **four retrieval methods** for finding papers that match a curated re
 
 ## Quick Start
 
-The paper's tables and figures can be reproduced from the JSONs already in `data/` — no GPU, no large download.
-
-```bash
-git clone <this repo> && cd neurips-2026
-pip install -r requirements.txt
-
-# Reproduce paper tables/figures from committed retrieval outputs
-python code/eval/agenda_l1l2_analysis.py
-python code/eval/compare_methods.py
-```
-
-To re-run the retrieval / community-detection pipeline yourself, fetch the large parquet artifacts from Zenodo first (see [Reproducibility](#reproducibility)).
+The paper's analysis outputs are committed under `data/analysis/` and `data/full_sweep/` — open them directly to inspect every per-method, per-domain, per-k number reported in the paper. To re-run the retrieval pipeline end-to-end, see [Reproducibility](#reproducibility).
 
 ## Data
 
@@ -49,48 +38,57 @@ External (Zenodo, see `EXTERNAL_DATA.md`):
 
 ## Reproducibility
 
-There are two reproduction tiers. Pick the one that matches what you want to verify.
+### Inspect-only (no download, no GPU)
 
-### Tier 1 — paper tables/figures only (no GPU, no download)
+Open the committed JSON outputs:
 
-All retrieval outputs (`data/agenda_topk/topk_<method>.json`) and per-agenda L1/L2 analysis (`data/analysis/*.json`) are committed in this repo. The eval scripts read them directly:
+- `data/agenda_topk/topk_<method>.json` — top-K paper IDs per agenda, per method
+- `data/full_sweep/full_sweep_<model>_<l1|l2>hier.json` — per-domain rank-K sweep (k ∈ {2,5,10,25,50,100})
+- `data/analysis/four_model_comparison_k10.json` — main result table
+- `data/analysis/{rerank_citation,rrf,bm25_hybrid,lexical_divergence,...}.json` — every other figure/table
+
+These are the source of truth for every number cited in the paper.
+
+### Re-run the retrieval pipeline (Zenodo + GPU)
 
 ```bash
+# 1. Install
 pip install -r requirements.txt
-python code/eval/agenda_l1l2_analysis.py
-python code/eval/compare_methods.py
-```
 
-### Tier 2 — re-run retrieval against the committed graph & community labels
-
-Download the Zenodo zip, unzip into `data/`, and run the retrieval pipeline. This regenerates the `agenda_topk/*.json` files that Tier 1 consumes.
-
-```bash
-# 1. Download + unpack Zenodo deposit (5.6 GB zip)
+# 2. Download + unpack the Zenodo deposit (5.6 GB zip)
 #    DOI: 10.5281/zenodo.20046263 — https://zenodo.org/records/20046263
 mkdir -p data && cd data
-curl -L -o neurips-2026-data.zip "https://zenodo.org/records/20046263/files/neurips-2026-data.zip?download=1"
-unzip zenodo.zip && cd ..
+curl -L -o neurips-2026-data.zip \
+  "https://zenodo.org/records/20046263/files/neurips-2026-data.zip?download=1"
+unzip neurips-2026-data.zip
+mv communities_augmented_v2 communities    # scripts expect $DATA_DIR/communities/
+cd ..
 
-# 2. Generate the four sets of paper embeddings (GPU required)
+# 3. Generate the four sets of paper embeddings (GPU required)
 python code/embeddings/embed_specter2.py
-python code/embeddings/embed_qwen3.py --model 0.6B   # 12 GB VRAM
-python code/embeddings/embed_qwen3.py --model 8B     # 24 GB VRAM
-python code/embeddings/embed_gemini.py               # Vertex AI ADC required
+python code/embeddings/embed_qwen3.py --model 0.6b      # 12 GB VRAM
+python code/embeddings/embed_qwen3.py --model 8b        # 24 GB VRAM
+python code/embeddings/embed_gemini.py                  # Vertex AI ADC required
 
-# 3. Run retrievers (BM25, dense top-K, citation rerank, RRF fusion)
+# 4. Retrievers (BM25 sparse, dense top-K, citation rerank, RRF fusion)
 python code/retrieval/bm25.py
 python code/retrieval/topk_cosine.py --model specter2
 python code/retrieval/topk_cosine.py --model qwen3-0.6b
 python code/retrieval/topk_cosine.py --model qwen3-8b
 python code/retrieval/topk_cosine.py --model gemini
-python code/retrieval/citation_rerank.py
-python code/retrieval/rrf.py
+python code/retrieval/citation_rerank.py --source gemini   # or qwen3-8b, etc.
+python code/retrieval/rrf.py --dense-source gemini --bm25-source bm25
+
+# 5. Eval (regenerates data/analysis/*.json from the topk + community labels)
+python code/eval/full_sweep.py --model gemini --level l2 \
+  --comm-path data/communities/hier_L2_flat.parquet
+python code/eval/compare_methods.py
+python code/eval/lexical_divergence.py
 ```
 
-By default all paths resolve to `DATA_DIR=./data`; override with `export DATA_DIR=...` if you keep artifacts elsewhere. Regenerating Gemini embeddings additionally needs a Google Cloud project (Vertex AI ADC) — see the docstring of `code/embeddings/embed_gemini.py`.
+`DATA_DIR` defaults to `./data`; override via `export DATA_DIR=...` if you keep artifacts elsewhere. Regenerating Gemini embeddings additionally needs a Google Cloud project (Vertex AI ADC) — see the docstring of `code/embeddings/embed_gemini.py`.
 
-The graph-construction and community-detection scripts under `code/graph/` and `code/community/` are included for transparency, but rebuilding from raw inputs requires private snapshots of multiple bibliographic sources (OpenAlex, Semantic Scholar, etc.) that we cannot redistribute. The Zenodo deposit ships the resulting `augmented_graph_v2.parquet`, `bc_edges_full.parquet`, `cc_edges_full.parquet`, `citation_graph.parquet`, and the full `communities_augmented_v2/` set, so this stage does not need to be re-run.
+The graph-construction and community-detection scripts under `code/graph/` and `code/community/` are included for transparency, but rebuilding the citation graph from raw inputs requires private snapshots of multiple bibliographic sources (OpenAlex, Semantic Scholar, etc.) that we cannot redistribute. The Zenodo deposit ships the resulting `augmented_graph_v2.parquet`, `bc_edges_full.parquet`, `cc_edges_full.parquet`, `citation_graph.parquet`, and the full `communities_augmented_v2/` set, so this stage does not need to be re-run.
 
 ### Compute used in the paper
 
