@@ -76,12 +76,16 @@ python code/retrieval/topk_cosine.py --model specter2
 python code/retrieval/topk_cosine.py --model qwen3-0.6b
 python code/retrieval/topk_cosine.py --model qwen3-8b
 python code/retrieval/topk_cosine.py --model gemini
-python code/retrieval/citation_rerank.py --source gemini      # repeat with --source qwen3-8b / qwen3-0.6b / specter2 / bm25
-python code/retrieval/rrf.py --dense-source gemini --bm25-source bm25
+python code/retrieval/citation_rerank.py --source gemini      # repeat with --source qwen3-8b / qwen3-0.6b / specter2 / bm25 to match every committed rerank file
+python code/retrieval/rrf.py --dense-source gemini            # 2-way RRF (embedding + citation); add --bm25-source bm25 for 3-way
 
-# 5. Eval (regenerates data/analysis/*.json and data/full_sweep/*.json)
-python code/eval/full_sweep.py --model gemini --level l2 \
-  --comm-path data/communities/hier_L2_flat.parquet         # repeat per (model, level) pair
+# 5. Eval — full_sweep must be re-run per (model, level) pair (4 models × 2 levels = 8 invocations)
+for model in specter2 qwen3_0.6b qwen3_8b gemini; do
+  for level in l1 l2; do
+    python code/eval/full_sweep.py --model $model --level $level \
+      --comm-path data/communities/hier_L${level^^}_flat.parquet
+  done
+done
 python code/eval/compare_methods.py
 python code/eval/lexical_divergence.py
 ```
@@ -95,11 +99,26 @@ python code/eval/lexical_divergence.py
 
 The graph-construction and community-detection scripts under `code/graph/` and `code/community/` are included for transparency, but rebuilding the citation graph from raw inputs requires private snapshots of multiple bibliographic sources (OpenAlex, Semantic Scholar, etc.) that we cannot redistribute. The Zenodo deposit ships the resulting `augmented_graph_v2.parquet`, `bc_edges_full.parquet`, `cc_edges_full.parquet`, `citation_graph.parquet`, and the full `communities_augmented_v2/` set, so this stage does not need to be re-run.
 
-### Compute used in the paper
+### Hardware used in the paper
 
-- **Embeddings**: RTX 4070S (12 GB) for BM25 / SPECTER2 / qwen3-0.6B; RTX 3090 (24 GB) for qwen3-8B at fp16.
-- **Graph + Leiden CPM**: CPU only — 22 vCPU, ≤32 GB RAM (DuckDB + igraph).
-- **Wall-clock end-to-end**: ≈ 12 h (excluding Gemini API quota).
+| Stage | GPU | CPU / RAM | Disk | Wall-clock |
+|---|---|---|---|---|
+| `embed_specter2.py` | 1 × RTX 4070S, 12 GB VRAM | — | +12 GB output | ~1 h |
+| `embed_qwen3.py --model 0.6b` | 1 × RTX 4070S, 12 GB VRAM | — | +16 GB output | ~2 h |
+| `embed_qwen3.py --model 8b` (fp16) | 1 × RTX 3090, 24 GB VRAM | 64 GB RAM (large df materialization) | +64 GB output | ~6 h |
+| `embed_gemini.py` (synchronous) | — | minimal | +16 GB output | hours–days for 4 M; the paper used the Vertex **batch prediction API** instead |
+| `bm25.py` | — | 16 vCPU, ~24 GB RAM (bm25s in-memory index) | +2 GB index | ~10 min |
+| `topk_cosine.py --model qwen3-8b` | optional (query embed) | **64 GB RAM** for the 4 M × 4096-d float32 matrix | — | 30 – 60 min / model |
+| `topk_cosine.py --model {qwen3-0.6b,specter2,gemini}` | optional (query embed) | 16 – 24 GB RAM | — | 10 – 30 min / model |
+| `citation_rerank.py`, `rrf.py` | — | <8 GB RAM | — | < 1 min / call |
+| `full_sweep.py` | 1 × RTX 4070S (12 GB) suffices for 1024-d models; **24 GB VRAM for qwen3-8B** | 32 GB RAM | — | 5 – 10 min / (model, level) |
+| `compare_methods.py`, `lexical_divergence.py` | — | 16 GB RAM | — | <5 min total |
+| (Reference) Leiden CPM γ-sweep + hierarchical L2 | — | 22 vCPU, ≤32 GB RAM | — | ~3 h (already done; ships in Zenodo) |
+
+**Approximate totals** for the retrieval / eval pipeline only (Steps 3 – 5, embeddings already prepared):
+
+- Disk: 5.6 GB Zenodo zip → ~6.7 GB unpacked + ~30 GB embeddings ≈ **40 GB free space recommended**.
+- Wall-clock: **~12 h** end-to-end on a single 24 GB-VRAM box with 64 GB RAM (excluding Gemini API throughput).
 
 ## Repo Layout
 
