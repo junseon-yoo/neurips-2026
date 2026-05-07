@@ -55,38 +55,43 @@ These are the source of truth for every number cited in the paper.
 # 1. Install
 pip install -r requirements.txt
 
-# 2. Download + unpack the Zenodo deposit (5.6 GB zip)
+# 2. Download + unpack the Zenodo deposit (5.6 GB zip; ~6.7 GB unpacked)
 #    DOI: 10.5281/zenodo.20046263 — https://zenodo.org/records/20046263
 mkdir -p data && cd data
 curl -L -o neurips-2026-data.zip \
   "https://zenodo.org/records/20046263/files/neurips-2026-data.zip?download=1"
-unzip neurips-2026-data.zip
-mv communities_augmented_v2 communities    # scripts expect $DATA_DIR/communities/
+unzip -n neurips-2026-data.zip                # -n = never overwrite committed files (e.g. data/README.md)
+mv communities_augmented_v2 communities       # retrieval/eval scripts expect $DATA_DIR/communities/
 cd ..
 
-# 3. Generate the four sets of paper embeddings (GPU required)
-python code/embeddings/embed_specter2.py
-python code/embeddings/embed_qwen3.py --model 0.6b      # 12 GB VRAM
-python code/embeddings/embed_qwen3.py --model 8b        # 24 GB VRAM
-python code/embeddings/embed_gemini.py                  # Vertex AI ADC required
+# 3. Generate the four sets of paper embeddings on the 4 M target corpus
+python code/embeddings/embed_specter2.py                # SPECTER2 base, 768-d, ~12 GB VRAM
+python code/embeddings/embed_qwen3.py --model 0.6b      # ~12 GB VRAM
+python code/embeddings/embed_qwen3.py --model 8b        # ~24 GB VRAM (fp16); pass --per-domain to shard outputs if disk/RAM is tight
+python code/embeddings/embed_gemini.py                  # see note below — synchronous mode is for sub-corpus only
 
-# 4. Retrievers (BM25 sparse, dense top-K, citation rerank, RRF fusion)
+# 4. Retrievers
 python code/retrieval/bm25.py
 python code/retrieval/topk_cosine.py --model specter2
 python code/retrieval/topk_cosine.py --model qwen3-0.6b
 python code/retrieval/topk_cosine.py --model qwen3-8b
 python code/retrieval/topk_cosine.py --model gemini
-python code/retrieval/citation_rerank.py --source gemini   # or qwen3-8b, etc.
+python code/retrieval/citation_rerank.py --source gemini      # repeat with --source qwen3-8b / qwen3-0.6b / specter2 / bm25
 python code/retrieval/rrf.py --dense-source gemini --bm25-source bm25
 
-# 5. Eval (regenerates data/analysis/*.json from the topk + community labels)
+# 5. Eval (regenerates data/analysis/*.json and data/full_sweep/*.json)
 python code/eval/full_sweep.py --model gemini --level l2 \
-  --comm-path data/communities/hier_L2_flat.parquet
+  --comm-path data/communities/hier_L2_flat.parquet         # repeat per (model, level) pair
 python code/eval/compare_methods.py
 python code/eval/lexical_divergence.py
 ```
 
-`DATA_DIR` defaults to `./data`; override via `export DATA_DIR=...` if you keep artifacts elsewhere. Regenerating Gemini embeddings additionally needs a Google Cloud project (Vertex AI ADC) — see the docstring of `code/embeddings/embed_gemini.py`.
+**Notes:**
+
+- `DATA_DIR` defaults to `./data`; override via `export DATA_DIR=...`.
+- **Gemini embeddings.** `embed_gemini.py` issues *synchronous* Vertex AI calls. For the full 4 M corpus this is impractical on cost and rate limits — the paper's `gemini_4m.parquet` was generated via the **Vertex AI batch prediction API**. The synchronous script is provided only for sub-corpus / agenda-side runs; full-corpus reproduction requires running the same model through the batch API. See the script's docstring.
+- **Optional disk savings.** `bc_edges_full.parquet` (1.3 GB), `cc_edges_full.parquet` (256 MB), and `augmented_graph_v2.parquet` (1.9 GB) are included for transparency / sensitivity analysis but are **not read** by any retrieval or eval script. You may delete them after unzip if disk is tight (~3.5 GB saved).
+- **Argument naming reminder.** `topk_cosine.py` / `citation_rerank.py` use hyphenated identifiers (`qwen3-0.6b`, `qwen3-8b`); `full_sweep.py --model` is interpolated directly into the embedding filename (`{model}_4m.parquet`), so pass `qwen3_0.6b` / `qwen3_8b` (underscored) / `specter2` / `gemini` there.
 
 The graph-construction and community-detection scripts under `code/graph/` and `code/community/` are included for transparency, but rebuilding the citation graph from raw inputs requires private snapshots of multiple bibliographic sources (OpenAlex, Semantic Scholar, etc.) that we cannot redistribute. The Zenodo deposit ships the resulting `augmented_graph_v2.parquet`, `bc_edges_full.parquet`, `cc_edges_full.parquet`, `citation_graph.parquet`, and the full `communities_augmented_v2/` set, so this stage does not need to be re-run.
 
