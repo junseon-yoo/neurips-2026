@@ -1,6 +1,6 @@
-# Embedding vs Citation Graph for Research-Agenda Retrieval (NeurIPS 2026)
+# Embedding vs Citation Graph for Research-Agenda Retrieval
 
-Code, retrieval results, and reproducibility scripts for the paper.
+Code, retrieval results, and reproducibility scripts for the accompanying paper.
 
 We compare **four retrieval methods** for finding papers that match a curated research agenda, evaluated on **80 agenda queries × 8 scientific domains** with citation-graph community labels (L1 sub-field / L2 agenda) as ground truth.
 
